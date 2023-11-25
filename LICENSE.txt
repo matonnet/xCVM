@@ -5,6 +5,8 @@ Copyright (c) 2018 Masataka SUMI for MToon
 Copyright (C) TheFlightSims
 Copyright (C) Maton.Net
 
+This license is linked with TFS-OSSH License. See more at https://github.com/matonnet/.github/blob/main/guides/Licenses%2C%20Credits%20and%20Attributions.md
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
