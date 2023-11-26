@@ -1,8 +1,8 @@
 {
-  "name": "com.vrmc.vrm",
+  "name": "com.vrmc.xCVM",
   "version": "0.115.0",
-  "displayName": "VRM-1.0",
-  "description": "VRM-1.0 importer",
+  "displayName": "VRM",
+  "description": "VRM importer",
   "unity": "2021.3",
   "keywords": [
     "vrm",
@@ -15,18 +15,29 @@
   },
   "dependencies": {
     "com.vrmc.vrmshaders": "0.115.0",
-    "com.vrmc.gltf": "0.115.0"
+    "com.vrmc.gltf": "0.115.0",
+    "com.unity.ugui": "1.0.0"
   },
   "samples": [
     {
-      "displayName": "xCVMViewer",
-      "description": "xCVM runtime loader sample",
-      "path": "Samples~/xCVMViewer"
+      "displayName": "SimpleViewer",
+      "description": "VRM runtime loader sample",
+      "path": "Samples~/SimpleViewer"
     },
     {
-      "displayName": "xCVMFirstPersonSample",
+      "displayName": "FirstPersonSample",
       "description": "First Person layer sample with multi camera",
-      "path": "Samples~/xCVMFirstPersonSample"
+      "path": "Samples~/FirstPersonSample"
+    },
+    {
+      "displayName": "RuntimeExporterSample",
+      "description": "VRM runtime exporter sample",
+      "path": "Samples~/RuntimeExporterSample"
+    },
+    {
+      "displayName": "AnimationBridgeSample",
+      "description": "BlendShape animation clip sample",
+      "path": "Samples~/AnimationBridgeSample"
     }
   ]
 }

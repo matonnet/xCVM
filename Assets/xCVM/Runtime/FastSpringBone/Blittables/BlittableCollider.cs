@@ -1,19 +1,20 @@
-using System;
 using UnityEngine;
-using UnityEngine.Serialization;
 
-namespace xCVM.FastSpringBones.Blittables
+namespace VRM.FastSpringBones.Blittables
 {
     /// <summary>
-    /// Blittableなコライダ
+    /// VRMSpringBoneのSphereColliderをBlittableにしたもの
+    /// 位置情報は親であるColliderGroupが持つ
     /// </summary>
-    [Serializable]
-    public struct BlittableCollider
-    {   
-        public BlittableColliderType colliderType;
-        public Vector3 offset;
-        public float radius;
-        public Vector3 tail;
-        public int transformIndex;
+    public readonly struct BlittableCollider
+    {
+        public Vector3 Offset { get; }
+        public float Radius { get; }
+        
+        public BlittableCollider(Vector3 offset, float radius)
+        {
+            Offset = offset;
+            Radius = radius;
+        }
     }
 }
