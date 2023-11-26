@@ -1,21 +1,15 @@
-# VRM
+# xCVM
 
-The core library for xCVM-0.XX.
+xCVM - Character Virtualization Model is a standard library for modelization 3D human for Animation, Digital graphics, and so on.
 
-## Import VRM (Unity 2019.3.4f1~)
+Its standard is the implementation on Unity3D, based on [UniVRM](https://github.com/matonnet/UniVRM) and fully support [glTF 2.0](https://www.khronos.org/gltf/)
 
-`Window` -> `Package Manager` -> `Add package from git URL` and add the followings in order: 
+## Features
 
-* `https://github.com/matonnet/xCVM.git?path=/Assets/VRMShaders`
-* `https://github.com/matonnet/xCVM.git?path=/Assets/VRM` => depends on VRMShaders
+xCVM supports the [VRM standards, including VRM `0.x` and `1.x`](https://github.com/matonnet/vrm-specification), as well as the [glTF 2.0 specification](https://registry.khronos.org/glTF/).
 
-or add the package name and git URL in `Packages/manifest.json`:
+Also, xCVM supports the extended `.xcvm` format for better compression.
 
-```json
-{
-  "dependencies": {
-    "com.vrmc.vrmshaders": "https://github.com/matonnet/xCVM.git?path=/Assets/VRMShaders",
-    "com.vrmc.xCVM": "https://github.com/matonnet/xCVM.git?path=/Assets/VRM",
-  }
-}
-```
+## Supported Environments
+
+The latest xCVM supports Unity 2021.3 LTS or later with backends both .NET and IL2CPP.
