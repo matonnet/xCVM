@@ -23,21 +23,21 @@ msgid "v0.71.0: fix Metallic または Occlusion テクスチャーエクスポ�
 msgstr ""
 
 #: ../../release/068/v0.71.0.md:3
-msgid "[v0.71.0](https://github.com/vrm-c/UniVRM/tree/v0.71.0) (2021-04-05)"
+msgid "[v0.71.0](https://github.com/matonnet/UniVRM/tree/v0.71.0) (2021-04-05)"
 msgstr ""
 
 #: ../../release/068/v0.71.0.md:5
-msgid "[Release](https://github.com/vrm-c/UniVRM/releases/tag/v0.71.0)"
+msgid "[Release](https://github.com/matonnet/UniVRM/releases/tag/v0.71.0)"
 msgstr ""
 
 #: ../../release/068/v0.71.0.md:6
-msgid "[Milestone](https://github.com/vrm-c/UniVRM/milestone/33?closed=1)"
+msgid "[Milestone](https://github.com/matonnet/UniVRM/milestone/33?closed=1)"
 msgstr ""
 
 #: ../../release/068/v0.71.0.md:8
 msgid ""
 "[Full "
-"Changelog](https://github.com/vrm-c/UniVRM/compare/v0.70.0...v0.71.0)"
+"Changelog](https://github.com/matonnet/UniVRM/compare/v0.70.0...v0.71.0)"
 msgstr ""
 
 #: ../../release/068/v0.71.0.md:10
@@ -47,7 +47,7 @@ msgstr ""
 #: ../../release/068/v0.71.0.md:11
 msgid ""
 "Fix/metallic or occlusion only "
-"[\\#838](https://github.com/vrm-c/UniVRM/pull/838) "
+"[\\#838](https://github.com/matonnet/UniVRM/pull/838) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
@@ -57,7 +57,7 @@ msgstr ""
 
 #: ../../release/068/v0.71.0.md:14
 msgid ""
-"update MToon-3.6 [\\#844](https://github.com/vrm-c/UniVRM/pull/844) "
+"update MToon-3.6 [\\#844](https://github.com/matonnet/UniVRM/pull/844) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
@@ -67,32 +67,32 @@ msgstr ""
 
 #: ../../release/068/v0.71.0.md:17
 msgid ""
-"add null check [\\#839](https://github.com/vrm-c/UniVRM/pull/839) "
+"add null check [\\#839](https://github.com/matonnet/UniVRM/pull/839) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.71.0.md:18
 msgid ""
 "includePlatforms is only Editor "
-"[\\#845](https://github.com/vrm-c/UniVRM/pull/845) "
+"[\\#845](https://github.com/matonnet/UniVRM/pull/845) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.71.0.md:19
 msgid ""
-"コード整理 [\\#842](https://github.com/vrm-c/UniVRM/pull/842) "
+"コード整理 [\\#842](https://github.com/matonnet/UniVRM/pull/842) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.71.0.md:20
 msgid ""
-"UniVRM-0.71.0 [\\#840](https://github.com/vrm-c/UniVRM/pull/840) "
+"UniVRM-0.71.0 [\\#840](https://github.com/matonnet/UniVRM/pull/840) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.71.0.md:21
 msgid ""
-"vrm1のローダー更新 [\\#837](https://github.com/vrm-c/UniVRM/pull/837) "
+"vrm1のローダー更新 [\\#837](https://github.com/matonnet/UniVRM/pull/837) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 

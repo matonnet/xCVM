@@ -27,21 +27,21 @@ msgid "主に、1.0 向けと glb/gltf の ScriptdImporter の改修です。"
 msgstr ""
 
 #: ../../release/068/v0.78.0.md:5
-msgid "[v0.78.0](https://github.com/vrm-c/UniVRM/tree/v0.78.0) (2021-06-23)"
+msgid "[v0.78.0](https://github.com/matonnet/UniVRM/tree/v0.78.0) (2021-06-23)"
 msgstr ""
 
 #: ../../release/068/v0.78.0.md:7
-msgid "[Release](https://github.com/vrm-c/UniVRM/releases/tag/v0.78.0)"
+msgid "[Release](https://github.com/matonnet/UniVRM/releases/tag/v0.78.0)"
 msgstr ""
 
 #: ../../release/068/v0.78.0.md:8
-msgid "[Milestone](https://github.com/vrm-c/UniVRM/milestone/40?closed=1)"
+msgid "[Milestone](https://github.com/matonnet/UniVRM/milestone/40?closed=1)"
 msgstr ""
 
 #: ../../release/068/v0.78.0.md:10
 msgid ""
 "[Full "
-"Changelog](https://github.com/vrm-c/UniVRM/compare/v0.77.0...v0.78.0)"
+"Changelog](https://github.com/matonnet/UniVRM/compare/v0.77.0...v0.78.0)"
 msgstr ""
 
 #: ../../release/068/v0.78.0.md:12
@@ -50,7 +50,7 @@ msgstr ""
 
 #: ../../release/068/v0.78.0.md:13
 msgid ""
-"Feature10/fix sparse [\\#1049](https://github.com/vrm-c/UniVRM/pull/1049)"
+"Feature10/fix sparse [\\#1049](https://github.com/matonnet/UniVRM/pull/1049)"
 " ([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
@@ -61,7 +61,7 @@ msgstr ""
 #: ../../release/068/v0.78.0.md:16
 msgid ""
 "Export 時に default 値の TRS を出力しない "
-"[\\#1061](https://github.com/vrm-c/UniVRM/pull/1061) "
+"[\\#1061](https://github.com/matonnet/UniVRM/pull/1061) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
@@ -72,21 +72,21 @@ msgstr ""
 #: ../../release/068/v0.78.0.md:19
 msgid ""
 "ImporterContext.AnimationClips に External か否かの情報を追加 "
-"[\\#1050](https://github.com/vrm-c/UniVRM/pull/1050) "
+"[\\#1050](https://github.com/matonnet/UniVRM/pull/1050) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.78.0.md:20
 msgid ""
 "Feature10/remap editor "
-"[\\#1053](https://github.com/vrm-c/UniVRM/pull/1053) "
+"[\\#1053](https://github.com/matonnet/UniVRM/pull/1053) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.78.0.md:21
 msgid ""
 "external\\_object\\_map に null が入っているときがある\\(対象を削除したとき\\) "
-"[\\#1047](https://github.com/vrm-c/UniVRM/pull/1047) "
+"[\\#1047](https://github.com/matonnet/UniVRM/pull/1047) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
@@ -97,21 +97,21 @@ msgstr ""
 #: ../../release/068/v0.78.0.md:24
 msgid ""
 "vrm0 の時だけ migration checkbox "
-"[\\#1062](https://github.com/vrm-c/UniVRM/pull/1062) "
+"[\\#1062](https://github.com/matonnet/UniVRM/pull/1062) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.78.0.md:25
 msgid ""
 "\\[1.0\\]MetaEditorの復旧 "
-"[\\#1058](https://github.com/vrm-c/UniVRM/pull/1058) "
+"[\\#1058](https://github.com/matonnet/UniVRM/pull/1058) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.78.0.md:26
 msgid ""
 "Feature10/impl firstperson list "
-"[\\#1052](https://github.com/vrm-c/UniVRM/pull/1052) "
+"[\\#1052](https://github.com/matonnet/UniVRM/pull/1052) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
@@ -121,28 +121,28 @@ msgstr ""
 
 #: ../../release/068/v0.78.0.md:29
 msgid ""
-"fix using [\\#1066](https://github.com/vrm-c/UniVRM/pull/1066) "
+"fix using [\\#1066](https://github.com/matonnet/UniVRM/pull/1066) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.78.0.md:30
 msgid ""
 "Allow referencing additional chunks. "
-"[\\#1065](https://github.com/vrm-c/UniVRM/pull/1065) "
+"[\\#1065](https://github.com/matonnet/UniVRM/pull/1065) "
 "([Santarh](https://github.com/Santarh))"
 msgstr ""
 
 #: ../../release/068/v0.78.0.md:31
 msgid ""
 "Add migration code about legacy roughness texture behaviour. "
-"[\\#1064](https://github.com/vrm-c/UniVRM/pull/1064) "
+"[\\#1064](https://github.com/matonnet/UniVRM/pull/1064) "
 "([Santarh](https://github.com/Santarh))"
 msgstr ""
 
 #: ../../release/068/v0.78.0.md:32
 msgid ""
 "Public ITextureDeserializer "
-"[\\#1063](https://github.com/vrm-c/UniVRM/pull/1063) "
+"[\\#1063](https://github.com/matonnet/UniVRM/pull/1063) "
 "([Santarh](https://github.com/Santarh))"
 msgstr ""
 

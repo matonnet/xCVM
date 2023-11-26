@@ -77,7 +77,7 @@ import/export 時に使用します。
 
 未インストールの場合は PackageManager から URP package をインストールしてください
 
-<img height=300 src=https://github.com/vrm-c/UniVRM/assets/68057/a48816d7-7db2-469e-b762-a0951fa8a670>
+<img height=300 src=https://github.com/matonnet/UniVRM/assets/68057/a48816d7-7db2-469e-b762-a0951fa8a670>
 
 **エラーメッセージ**
 

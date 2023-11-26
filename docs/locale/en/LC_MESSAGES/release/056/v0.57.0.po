@@ -23,15 +23,15 @@ msgid "v0.57.0: ボーン名重複の自動リネーム"
 msgstr ""
 
 #: ../../release/056/v0.57.0.md:3
-msgid "[Release](https://github.com/vrm-c/UniVRM/releases/tag/v0.57.0)"
+msgid "[Release](https://github.com/matonnet/UniVRM/releases/tag/v0.57.0)"
 msgstr ""
 
 #: ../../release/056/v0.57.0.md:4
-msgid "[Milestone](https://github.com/vrm-c/UniVRM/milestone/16?closed=1)"
+msgid "[Milestone](https://github.com/matonnet/UniVRM/milestone/16?closed=1)"
 msgstr ""
 
 #: ../../release/056/v0.57.0.md:6
-msgid "[Full Changelog](https://github.com/vrm-c/UniVRM/compare/v0.56...v0.57.0)"
+msgid "[Full Changelog](https://github.com/matonnet/UniVRM/compare/v0.56...v0.57.0)"
 msgstr ""
 
 #: ../../release/056/v0.57.0.md:8
@@ -45,7 +45,7 @@ msgstr ""
 #: ../../release/056/v0.57.0.md:11
 msgid ""
 "[**closed**] ボーン名重複と、RootのTRSを警告に下げてエクスポートできるようにした "
-"[\\#478](https://github.com/vrm-c/UniVRM/pull/478)"
+"[\\#478](https://github.com/matonnet/UniVRM/pull/478)"
 msgstr ""
 
 #: ../../release/056/v0.57.0.md:12
@@ -61,22 +61,22 @@ msgstr ""
 #: ../../release/056/v0.57.0.md:14
 msgid ""
 "[**closed**] Experimental Exporterでjsonに空の配列が含まれglTF違反になってしまうことがあるのを修正 "
-"[\\#486](https://github.com/vrm-c/UniVRM/pull/486) "
+"[\\#486](https://github.com/matonnet/UniVRM/pull/486) "
 "([saturday06](https://github.com/saturday06))"
 msgstr ""
 
 #: ../../release/056/v0.57.0.md:15
 msgid ""
 "[**closed**] 空のモーフターゲットが出力されglTF違反になってしまうことがあるのを修正 "
-"[\\#487](https://github.com/vrm-c/UniVRM/pull/487) ([saturday06]"
+"[\\#487](https://github.com/matonnet/UniVRM/pull/487) ([saturday06]"
 msgstr ""
 
 #: ../../release/056/v0.57.0.md:16
 msgid ""
 "[**closed**] "
 "Sparse機能(BlendShapeの容量削減)のデフォルトをオフに変更。UniVRM以外のローダーで読み込めないエラー "
-"[\\#490](https://github.com/vrm-c/UniVRM/issues/490) "
-"[\\#491](https://github.com/vrm-c/UniVRM/pull/491)"
+"[\\#490](https://github.com/matonnet/UniVRM/issues/490) "
+"[\\#491](https://github.com/matonnet/UniVRM/pull/491)"
 msgstr ""
 
 #: ../../release/056/v0.57.0.md:20
@@ -86,42 +86,42 @@ msgstr ""
 #: ../../release/056/v0.57.0.md:22
 msgid ""
 "[**closed**] UnitTestが通らなくなったのを修正 "
-"[\\#495](https://github.com/vrm-c/UniVRM/pull/495)"
+"[\\#495](https://github.com/matonnet/UniVRM/pull/495)"
 msgstr ""
 
 #: ../../release/056/v0.57.0.md:23
 msgid ""
 "[**closed**] Fix warning "
-"[\\#489](https://github.com/vrm-c/UniVRM/pull/489)"
+"[\\#489](https://github.com/matonnet/UniVRM/pull/489)"
 msgstr ""
 
 #: ../../release/056/v0.57.0.md:24
 msgid ""
 "[**closed**] Fix unitypackage "
-"[\\#488](https://github.com/vrm-c/UniVRM/pull/488)"
+"[\\#488](https://github.com/matonnet/UniVRM/pull/488)"
 msgstr ""
 
 #: ../../release/056/v0.57.0.md:25
 msgid ""
 "[**closed**] Add upm documentation "
-"[\\#483](https://github.com/vrm-c/UniVRM/pull/483)"
+"[\\#483](https://github.com/matonnet/UniVRM/pull/483)"
 msgstr ""
 
 #: ../../release/056/v0.57.0.md:26
 msgid ""
 "[**closed**] component that has reference to self hierarchy may cause "
-"freeze editor [\\#482](https://github.com/vrm-c/UniVRM/pull/482)"
+"freeze editor [\\#482](https://github.com/matonnet/UniVRM/pull/482)"
 msgstr ""
 
 #: ../../release/056/v0.57.0.md:27
 msgid ""
 "[**closed**] Version番号更新ダイアログ "
-"[\\#481](https://github.com/vrm-c/UniVRM/pull/481)"
+"[\\#481](https://github.com/matonnet/UniVRM/pull/481)"
 msgstr ""
 
 #: ../../release/056/v0.57.0.md:28
 msgid ""
 "[**closed**] 別管理になった JsonSchema を削除 "
-"[\\#473](https://github.com/vrm-c/UniVRM/pull/473)"
+"[\\#473](https://github.com/matonnet/UniVRM/pull/473)"
 msgstr ""
 

@@ -29,7 +29,7 @@
 
 # Download
 
-* https://github.com/vrm-c/UniVRM/releases
+* https://github.com/matonnet/UniVRM/releases
 
 # Screenshots
 

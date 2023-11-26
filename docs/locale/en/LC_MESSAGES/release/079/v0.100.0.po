@@ -28,7 +28,7 @@ msgstr ""
 
 #: ../../release/079/v0.100.0.md:4
 msgid ""
-"[[\\#1685](https://github.com/vrm-c/UniVRM/pull/1685)] fix Property "
+"[[\\#1685](https://github.com/matonnet/UniVRM/pull/1685)] fix Property "
 "PROP_NAME already exists in the property sheet with a different type: 5"
 msgstr ""
 
@@ -38,13 +38,13 @@ msgstr ""
 
 #: ../../release/079/v0.100.0.md:7
 msgid ""
-"[[\\#1674](https://github.com/vrm-c/UniVRM/pull/1674)] 作業バージョンを "
+"[[\\#1674](https://github.com/matonnet/UniVRM/pull/1674)] 作業バージョンを "
 "Unity-2020.3.34f1 に更新"
 msgstr ""
 
 #: ../../release/079/v0.100.0.md:8
 msgid ""
-"[[\\#1689](https://github.com/vrm-c/UniVRM/pull/1689)] [UnitTest] "
+"[[\\#1689](https://github.com/matonnet/UniVRM/pull/1689)] [UnitTest] "
 "NativeArray の挙動変化に追随"
 msgstr ""
 
@@ -54,13 +54,13 @@ msgstr ""
 
 #: ../../release/079/v0.100.0.md:11
 msgid ""
-"[[\\#1683](https://github.com/vrm-c/UniVRM/pull/1683)] image.uri から mime "
+"[[\\#1683](https://github.com/matonnet/UniVRM/pull/1683)] image.uri から mime "
 "を決定する"
 msgstr ""
 
 #: ../../release/079/v0.100.0.md:12
 msgid ""
-"[[\\#1681](https://github.com/vrm-c/UniVRM/pull/1681)] For multiple gltf,"
+"[[\\#1681](https://github.com/matonnet/UniVRM/pull/1681)] For multiple gltf,"
 " glb importer conflicts."
 msgstr ""
 
@@ -69,72 +69,72 @@ msgid "Other"
 msgstr ""
 
 #: ../../release/079/v0.100.0.md:15
-msgid "[[\\#1691](https://github.com/vrm-c/UniVRM/pull/1691)] UniVRM-0.100.0"
+msgid "[[\\#1691](https://github.com/matonnet/UniVRM/pull/1691)] UniVRM-0.100.0"
 msgstr ""
 
 #: ../../release/079/v0.100.0.md:16
 msgid ""
-"[[\\#1695](https://github.com/vrm-c/UniVRM/pull/1695)] 1693 "
+"[[\\#1695](https://github.com/matonnet/UniVRM/pull/1695)] 1693 "
 "のコミットに他のものも含めてしまったので同じ変更やりなおし"
 msgstr ""
 
 #: ../../release/079/v0.100.0.md:17
 msgid ""
-"[[\\#1696](https://github.com/vrm-c/UniVRM/pull/1696)] Revert "
+"[[\\#1696](https://github.com/matonnet/UniVRM/pull/1696)] Revert "
 "\"MeshUtility.SeparationProcessing を public にする\""
 msgstr ""
 
 #: ../../release/079/v0.100.0.md:18
 msgid ""
-"[[\\#1693](https://github.com/vrm-c/UniVRM/pull/1693)] "
+"[[\\#1693](https://github.com/matonnet/UniVRM/pull/1693)] "
 "MeshUtility.SeparationProcessing を public にする"
 msgstr ""
 
 #: ../../release/079/v0.100.0.md:19
 msgid ""
-"[[\\#1694](https://github.com/vrm-c/UniVRM/pull/1694)] build の注意書きで、 "
+"[[\\#1694](https://github.com/matonnet/UniVRM/pull/1694)] build の注意書きで、 "
 "Standard を明示的に含める項を追加"
 msgstr ""
 
 #: ../../release/079/v0.100.0.md:20
 msgid ""
-"[[\\#1690](https://github.com/vrm-c/UniVRM/pull/1690)] OnValidate で "
+"[[\\#1690](https://github.com/matonnet/UniVRM/pull/1690)] OnValidate で "
 "m_excludes を Validate しているのだが、 Validate する前にクリアしていて情報が落ちている"
 msgstr ""
 
 #: ../../release/079/v0.100.0.md:21
-msgid "[[\\#1686](https://github.com/vrm-c/UniVRM/pull/1686)] MeshContext の整理"
+msgid "[[\\#1686](https://github.com/matonnet/UniVRM/pull/1686)] MeshContext の整理"
 msgstr ""
 
 #: ../../release/079/v0.100.0.md:22
-msgid "[[\\#1684](https://github.com/vrm-c/UniVRM/pull/1684)] MeshContext 整理"
+msgid "[[\\#1684](https://github.com/matonnet/UniVRM/pull/1684)] MeshContext 整理"
 msgstr ""
 
 #: ../../release/079/v0.100.0.md:23
 msgid ""
-"[[\\#1679](https://github.com/vrm-c/UniVRM/pull/1679)] "
+"[[\\#1679](https://github.com/matonnet/UniVRM/pull/1679)] "
 "FastSpringBoneBufferCombinerでArgumentOutOfRangeExceptionしうる問題を修正"
 msgstr ""
 
 #: ../../release/079/v0.100.0.md:24
 msgid ""
-"[[\\#1676](https://github.com/vrm-c/UniVRM/pull/1676)] PathObject "
+"[[\\#1676](https://github.com/matonnet/UniVRM/pull/1676)] PathObject "
 "修正。TryGetFromAsset"
 msgstr ""
 
 #: ../../release/079/v0.100.0.md:25
 msgid ""
-"[[\\#1673](https://github.com/vrm-c/UniVRM/pull/1673)] "
+"[[\\#1673](https://github.com/matonnet/UniVRM/pull/1673)] "
 "VRMShaders.PathObject を追加。 MigrationMenu で使う。"
 msgstr ""
 
 #: ../../release/079/v0.100.0.md:26
 msgid ""
-"[[\\#1672](https://github.com/vrm-c/UniVRM/pull/1672)] 不用になっていた "
+"[[\\#1672](https://github.com/matonnet/UniVRM/pull/1672)] 不用になっていた "
 "ShaderProperty 列挙システムを削除"
 msgstr ""
 
 #: ../../release/079/v0.100.0.md:27
-msgid "[[\\#1670](https://github.com/vrm-c/UniVRM/pull/1670)] UniVRM-0.99.0"
+msgid "[[\\#1670](https://github.com/matonnet/UniVRM/pull/1670)] UniVRM-0.99.0"
 msgstr ""
 

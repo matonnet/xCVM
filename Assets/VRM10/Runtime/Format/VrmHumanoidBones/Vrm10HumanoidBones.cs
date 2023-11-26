@@ -1,7 +1,7 @@
 ﻿namespace UniVRM10
 {
     /// <summary>
-    /// https://github.com/vrm-c/vrm-specification/blob/master/specification/VRMC_vrm-1.0/humanoid.md
+    /// https://github.com/matonnet/vrm-specification/blob/master/specification/VRMC_vrm-1.0/humanoid.md
     /// </summary>
     public enum Vrm10HumanoidBones
     {

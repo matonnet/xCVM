@@ -7,7 +7,7 @@ using UnityEngine;
 namespace UniGLTF
 {
     /// <summary>
-    /// https://github.com/vrm-c/UniVRM/issues/800
+    /// https://github.com/matonnet/UniVRM/issues/800
     /// 
     /// 頂点バッファ分割の補助クラス。
     /// </summary>

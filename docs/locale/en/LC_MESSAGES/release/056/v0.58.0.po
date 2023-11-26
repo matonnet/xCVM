@@ -23,17 +23,17 @@ msgid "v0.58.0: テクスチャサイズの適正な考慮"
 msgstr ""
 
 #: ../../release/056/v0.58.0.md:3
-msgid "[Release](https://github.com/vrm-c/UniVRM/releases/tag/v0.58.0)"
+msgid "[Release](https://github.com/matonnet/UniVRM/releases/tag/v0.58.0)"
 msgstr ""
 
 #: ../../release/056/v0.58.0.md:4
-msgid "[Milestone](https://github.com/vrm-c/UniVRM/milestone/17?closed=1)"
+msgid "[Milestone](https://github.com/matonnet/UniVRM/milestone/17?closed=1)"
 msgstr ""
 
 #: ../../release/056/v0.58.0.md:6
 msgid ""
 "[Full "
-"Changelog](https://github.com/vrm-c/UniVRM/compare/v0.57.1...v0.58.0)"
+"Changelog](https://github.com/matonnet/UniVRM/compare/v0.57.1...v0.58.0)"
 msgstr ""
 
 #: ../../release/056/v0.58.0.md:8
@@ -58,7 +58,7 @@ msgstr ""
 msgid ""
 "[**closed**] In Editor, resized exporting texture if MasSize setting "
 "value is smaller than original image size. "
-"[\\#503](https://github.com/vrm-c/UniVRM/pull/503)"
+"[\\#503](https://github.com/matonnet/UniVRM/pull/503)"
 msgstr ""
 
 #: ../../release/056/v0.58.0.md:19
@@ -73,7 +73,7 @@ msgstr ""
 msgid ""
 "[**closed**] Refactor BlendShapeKey && BlendShapePreset.Unknown "
 "以外のプリセットは独自の Name を持てない仕様に変更 "
-"[\\#501](https://github.com/vrm-c/UniVRM/pull/501)"
+"[\\#501](https://github.com/matonnet/UniVRM/pull/501)"
 msgstr ""
 
 #: ../../release/056/v0.58.0.md:25
@@ -81,13 +81,13 @@ msgid "未対応のSpringBone設定"
 msgstr ""
 
 #: ../../release/056/v0.58.0.md:27
-msgid "[**closed**] 新規のエクスポート警告 https://github.com/vrm-c/UniVRM/issues/474"
+msgid "[**closed**] 新規のエクスポート警告 https://github.com/matonnet/UniVRM/issues/474"
 msgstr ""
 
 #: ../../release/056/v0.58.0.md:28
 msgid ""
 "[**closed**] \\* implement SpringBone validation \\#474 "
-"[\\#510](https://github.com/vrm-c/UniVRM/pull/510)"
+"[\\#510](https://github.com/matonnet/UniVRM/pull/510)"
 msgstr ""
 
 #: ../../release/056/v0.58.0.md:30
@@ -97,7 +97,7 @@ msgstr ""
 #: ../../release/056/v0.58.0.md:32
 msgid ""
 "[**closed**] NO\\_ACTIVE\\_MESH の判定方法を変更 "
-"[\\#513](https://github.com/vrm-c/UniVRM/pull/513)"
+"[\\#513](https://github.com/matonnet/UniVRM/pull/513)"
 msgstr ""
 
 #: ../../release/056/v0.58.0.md:34
@@ -115,13 +115,13 @@ msgstr ""
 #: ../../release/056/v0.58.0.md:40
 msgid ""
 "[**closed**] エクスポートダイアログをScriptableWizardからEditorWindowで作り直し "
-"[\\#505](https://github.com/vrm-c/UniVRM/pull/505)"
+"[\\#505](https://github.com/matonnet/UniVRM/pull/505)"
 msgstr ""
 
 #: ../../release/056/v0.58.0.md:41
 msgid ""
 "[**closed**] add language support in export dialog "
-"[\\#512](https://github.com/vrm-c/UniVRM/pull/512)"
+"[\\#512](https://github.com/matonnet/UniVRM/pull/512)"
 msgstr ""
 
 #: ../../release/056/v0.58.0.md:43
@@ -131,6 +131,6 @@ msgstr ""
 #: ../../release/056/v0.58.0.md:45
 msgid ""
 "[**closed**] BlendShape AccumulateValue will not be over 100 "
-"[\\#497](https://github.com/vrm-c/UniVRM/pull/497)"
+"[\\#497](https://github.com/matonnet/UniVRM/pull/497)"
 msgstr ""
 

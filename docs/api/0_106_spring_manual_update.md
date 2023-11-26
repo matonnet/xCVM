@@ -2,7 +2,7 @@
 
 from {doc}`v0.106.0</release/100/v0.106.0>`
 
-[\#1866](https://github.com/vrm-c/UniVRM/pull/1886)
+[\#1866](https://github.com/matonnet/UniVRM/pull/1886)
 
 * VRMSpringBone.SpringBoneUpdateType.Manual を追加
 * VRMSpringBone.ManualUpdate を追加

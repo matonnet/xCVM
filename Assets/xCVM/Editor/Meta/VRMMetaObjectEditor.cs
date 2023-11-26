@@ -170,7 +170,7 @@ namespace VRM
         bool m_foldoutPermission = true;
         bool m_foldoutDistribution = true;
 
-        const string RELEASE_URL = "https://github.com/vrm-c/xCVM/releases";
+        const string RELEASE_URL = "https://github.com/matonnet/xCVM/releases";
 
         public override void OnInspectorGUI()
         {

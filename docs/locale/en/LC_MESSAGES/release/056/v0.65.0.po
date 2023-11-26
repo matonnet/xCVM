@@ -23,21 +23,21 @@ msgid "v0.65.0"
 msgstr ""
 
 #: ../../release/056/v0.65.0.md:3
-msgid "[v0.65.0](https://github.com/vrm-c/UniVRM/tree/v0.65.0) (2021-01-25)"
+msgid "[v0.65.0](https://github.com/matonnet/UniVRM/tree/v0.65.0) (2021-01-25)"
 msgstr ""
 
 #: ../../release/056/v0.65.0.md:5
-msgid "[Release](https://github.com/vrm-c/UniVRM/releases/tag/v0.65.0)"
+msgid "[Release](https://github.com/matonnet/UniVRM/releases/tag/v0.65.0)"
 msgstr ""
 
 #: ../../release/056/v0.65.0.md:6
-msgid "[Milestone](https://github.com/vrm-c/UniVRM/milestone/24?closed=1)"
+msgid "[Milestone](https://github.com/matonnet/UniVRM/milestone/24?closed=1)"
 msgstr ""
 
 #: ../../release/056/v0.65.0.md:8
 msgid ""
 "[Full "
-"Changelog](https://github.com/vrm-c/UniVRM/compare/v0.64.0...v0.65.0)"
+"Changelog](https://github.com/matonnet/UniVRM/compare/v0.64.0...v0.65.0)"
 msgstr ""
 
 #: ../../release/056/v0.65.0.md:10
@@ -49,7 +49,7 @@ msgid "bug fix"
 msgstr ""
 
 #: ../../release/056/v0.65.0.md:12
-msgid "fix asmdef [\\#687](https://github.com/vrm-c/UniVRM/pull/687)"
+msgid "fix asmdef [\\#687](https://github.com/matonnet/UniVRM/pull/687)"
 msgstr ""
 
 #: ../../release/056/v0.65.0.md:14
@@ -57,11 +57,11 @@ msgid "asmdefの不要な参照を修正しました。 空のプロジェクト
 msgstr ""
 
 #: ../../release/056/v0.65.0.md:17
-msgid "set dirty when add Clip [\\#690](https://github.com/vrm-c/UniVRM/pull/690)"
+msgid "set dirty when add Clip [\\#690](https://github.com/matonnet/UniVRM/pull/690)"
 msgstr ""
 
 #: ../../release/056/v0.65.0.md:18
-msgid "FixNodeName [\\#689](https://github.com/vrm-c/UniVRM/pull/689)"
+msgid "FixNodeName [\\#689](https://github.com/matonnet/UniVRM/pull/689)"
 msgstr ""
 
 #: ../../release/056/v0.65.0.md:20
@@ -71,11 +71,11 @@ msgstr ""
 #: ../../release/056/v0.65.0.md:21
 msgid ""
 "updated MeshUtility editor "
-"[\\#693](https://github.com/vrm-c/UniVRM/pull/693)"
+"[\\#693](https://github.com/matonnet/UniVRM/pull/693)"
 msgstr ""
 
 #: ../../release/056/v0.65.0.md:22
-msgid "MeshUtility editor [\\#685](https://github.com/vrm-c/UniVRM/pull/685)"
+msgid "MeshUtility editor [\\#685](https://github.com/matonnet/UniVRM/pull/685)"
 msgstr ""
 
 #: ../../release/056/v0.65.0.md:24
@@ -83,22 +83,22 @@ msgid "その他のChangelog"
 msgstr ""
 
 #: ../../release/056/v0.65.0.md:25
-msgid "add Validation.Extended [\\#691](https://github.com/vrm-c/UniVRM/pull/691)"
+msgid "add Validation.Extended [\\#691](https://github.com/matonnet/UniVRM/pull/691)"
 msgstr ""
 
 #: ../../release/056/v0.65.0.md:26
-msgid "add ITextureExporter [\\#686](https://github.com/vrm-c/UniVRM/pull/686)"
+msgid "add ITextureExporter [\\#686](https://github.com/matonnet/UniVRM/pull/686)"
 msgstr ""
 
 #: ../../release/056/v0.65.0.md:27
 msgid ""
 "Feature10/spring exclude "
-"[\\#679](https://github.com/vrm-c/UniVRM/pull/679)"
+"[\\#679](https://github.com/matonnet/UniVRM/pull/679)"
 msgstr ""
 
 #: ../../release/056/v0.65.0.md:28
 msgid ""
 "add enumSerialization as string "
-"[\\#681](https://github.com/vrm-c/UniVRM/pull/681)"
+"[\\#681](https://github.com/matonnet/UniVRM/pull/681)"
 msgstr ""
 

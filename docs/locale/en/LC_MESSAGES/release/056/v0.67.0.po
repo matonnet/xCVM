@@ -23,21 +23,21 @@ msgid "v0.67.0: UniJson 単純化"
 msgstr ""
 
 #: ../../release/056/v0.67.0.md:3
-msgid "[v0.67.0](https://github.com/vrm-c/UniVRM/tree/v0.67.0) (2021-02-10)"
+msgid "[v0.67.0](https://github.com/matonnet/UniVRM/tree/v0.67.0) (2021-02-10)"
 msgstr ""
 
 #: ../../release/056/v0.67.0.md:5
-msgid "[Release](https://github.com/vrm-c/UniVRM/releases/tag/v0.67.0)"
+msgid "[Release](https://github.com/matonnet/UniVRM/releases/tag/v0.67.0)"
 msgstr ""
 
 #: ../../release/056/v0.67.0.md:6
-msgid "[Milestone](https://github.com/vrm-c/UniVRM/milestone/27?closed=1)"
+msgid "[Milestone](https://github.com/matonnet/UniVRM/milestone/27?closed=1)"
 msgstr ""
 
 #: ../../release/056/v0.67.0.md:8
 msgid ""
 "[Full "
-"Changelog](https://github.com/vrm-c/UniVRM/compare/v0.66.0...v0.67.0)"
+"Changelog](https://github.com/matonnet/UniVRM/compare/v0.66.0...v0.67.0)"
 msgstr ""
 
 #: ../../release/056/v0.67.0.md:10
@@ -45,24 +45,24 @@ msgid "その他のChangelog"
 msgstr ""
 
 #: ../../release/056/v0.67.0.md:12
-msgid "m\\_tmpParent [\\#737](https://github.com/vrm-c/UniVRM/pull/737)"
+msgid "m\\_tmpParent [\\#737](https://github.com/matonnet/UniVRM/pull/737)"
 msgstr ""
 
 #: ../../release/056/v0.67.0.md:13
 msgid ""
 "Fix/unintended null reference after exporting "
-"[\\#736](https://github.com/vrm-c/UniVRM/pull/736)"
+"[\\#736](https://github.com/matonnet/UniVRM/pull/736)"
 msgstr ""
 
 #: ../../release/056/v0.67.0.md:14
 msgid ""
 "Fix typo \\(VRMFirstPerson\\) "
-"[\\#735](https://github.com/vrm-c/UniVRM/pull/735)"
+"[\\#735](https://github.com/matonnet/UniVRM/pull/735)"
 msgstr ""
 
 #: ../../release/056/v0.67.0.md:15
 msgid ""
 "Feature/simplify unijson "
-"[\\#734](https://github.com/vrm-c/UniVRM/pull/734)"
+"[\\#734](https://github.com/matonnet/UniVRM/pull/734)"
 msgstr ""
 

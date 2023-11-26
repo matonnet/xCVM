@@ -63,10 +63,10 @@ msgid "関連"
 msgstr "Related"
 
 #: ../../api/0_95_dispose.md:39
-msgid "<https://github.com/vrm-c/UniVRM/pull/1483>"
+msgid "<https://github.com/matonnet/UniVRM/pull/1483>"
 msgstr ""
 
 #: ../../api/0_95_dispose.md:40
-msgid "<https://github.com/vrm-c/UniVRM/pull/1503>"
+msgid "<https://github.com/matonnet/UniVRM/pull/1503>"
 msgstr ""
 

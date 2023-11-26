@@ -15,7 +15,7 @@ namespace VRM.SimpleViewer
 #elif UNITY_EDITOR
             // EditorUtility.OpenFilePanel
             // TODO: How to specify multiple extensions on OSX?
-            // https://github.com/vrm-c/UniVRM/issues/1837
+            // https://github.com/matonnet/UniVRM/issues/1837
             return UnityEditor.EditorUtility.OpenFilePanel(title, "", extensions[0]);
 #else
             // fall back constant path

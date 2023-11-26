@@ -172,7 +172,7 @@ namespace UniVRM10
                 }
                 else
                 {
-                    // https://github.com/vrm-c/UniVRM/issues/1611
+                    // https://github.com/matonnet/UniVRM/issues/1611
                     // 両方を記述しエラーとしない
                     meta.OtherLicenseUrl = $"'{otherLicenseUrl}', '{otherPermissionUrl}'";
                 }

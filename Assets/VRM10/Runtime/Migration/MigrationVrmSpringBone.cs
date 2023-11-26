@@ -142,7 +142,7 @@ namespace UniVRM10
                 }
             }
 
-            // https://github.com/vrm-c/vrm-specification/pull/255
+            // https://github.com/matonnet/vrm-specification/pull/255
             // 1.0 では末端に7cmの遠さに joint を追加する動作をしなくなった。
             // その差異に対応して、7cmの遠さに node を追加する。
             SpringBoneJoint AddTail7cm(int lastIndex)

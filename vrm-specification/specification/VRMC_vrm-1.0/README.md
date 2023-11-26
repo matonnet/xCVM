@@ -125,7 +125,7 @@ Model space will be used in the [`VRMC_node_constraint`](../VRMC_node_constraint
 }
 ```
 
-* https://github.com/vrm-c/vrm-specification/tree/master/specification/VRMC_vrm-1.0/schema
+* https://github.com/matonnet/vrm-specification/tree/master/specification/VRMC_vrm-1.0/schema
 
 JSON Schema of glTF 2.0
 

@@ -27,7 +27,7 @@ Vrm10Instance vrm10Instance = await Vrm10.LoadPathAsync(path);
 3. Gaze control
 4. Expression
             
-<https://github.com/vrm-c/UniVRM/blob/master/Assets/VRM10/Runtime/Components/Vrm10Runtime/Vrm10Runtime.csharp#L170>
+<https://github.com/matonnet/UniVRM/blob/master/Assets/VRM10/Runtime/Components/Vrm10Runtime/Vrm10Runtime.csharp#L170>
 
 ポーズ付け、ポーズの加工を考慮すると
 

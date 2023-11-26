@@ -84,7 +84,7 @@ html_static_path = ["_static"]
 locale_dirs = ["locale/"]
 gettext_compact = False
 
-github_url = "https://github.com/vrm-c/UniVRM"
+github_url = "https://github.com/matonnet/UniVRM"
 
 html_context = {
     "language": language,

@@ -6,7 +6,7 @@
 
 UniVRM が使用するデフォルトの実装は `UnityTextureDeserializer` です。
 
-<https://github.com/vrm-c/UniVRM/blob/master/Assets/VRMShaders/GLTF/IO/Runtime/Texture/Importer/UnityTextureDeserializer.cs>
+<https://github.com/matonnet/UniVRM/blob/master/Assets/VRMShaders/GLTF/IO/Runtime/Texture/Importer/UnityTextureDeserializer.cs>
 
 [ImageConversion.LoadImage](https://docs.unity3d.com/ja/2020.3/ScriptReference/ImageConversion.LoadImage.html) を使用して `png` や `jpeg` から Texture2D に変換します。
 
@@ -72,6 +72,6 @@ Texture2D の生成には複数のステップがあります。
 
 ISSUE に使用例をいただきました。
 
-<https://github.com/vrm-c/UniVRM/issues/1982>
+<https://github.com/matonnet/UniVRM/issues/1982>
 
 [UnityAsyncImageLoader](https://github.com/Looooong/UnityAsyncImageLoader)を使ってパフォーマンスを向上できます。

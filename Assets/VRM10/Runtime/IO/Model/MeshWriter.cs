@@ -13,7 +13,7 @@ namespace UniVRM10
     public static class MeshWriter
     {
         /// <summary>
-        /// https://github.com/vrm-c/UniVRM/issues/800
+        /// https://github.com/matonnet/UniVRM/issues/800
         ///
         /// SubMesh 単位に分割する。
         /// SubMesh を Gltf の Primitive に対応させる。

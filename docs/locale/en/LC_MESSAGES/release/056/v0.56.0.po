@@ -23,17 +23,17 @@ msgid "v0.56.0: 最低バージョンを Unity-2018.4 に更新"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:3
-msgid "[Release](https://github.com/vrm-c/UniVRM/releases/tag/v0.56.0)"
+msgid "[Release](https://github.com/matonnet/UniVRM/releases/tag/v0.56.0)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:4
-msgid "[Milestone](https://github.com/vrm-c/UniVRM/milestone/15?closed=1)"
+msgid "[Milestone](https://github.com/matonnet/UniVRM/milestone/15?closed=1)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:6
 msgid ""
 "[Full "
-"Changelog](https://github.com/vrm-c/UniVRM/compare/v0.55.0...v0.56.0)"
+"Changelog](https://github.com/matonnet/UniVRM/compare/v0.55.0...v0.56.0)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:8
@@ -51,7 +51,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:14
 msgid ""
 "[**closed**] Update Unity version "
-"[\\#420](https://github.com/vrm-c/UniVRM/pull/420)"
+"[\\#420](https://github.com/matonnet/UniVRM/pull/420)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:15
@@ -84,7 +84,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:26
 msgid ""
 "[**closed**] **Separate vrmshaders** "
-"[\\#436](https://github.com/vrm-c/UniVRM/pull/436)"
+"[\\#436](https://github.com/matonnet/UniVRM/pull/436)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:27
@@ -94,7 +94,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:28
 msgid ""
 "[**closed**] **update MToon** "
-"[\\#435](https://github.com/vrm-c/UniVRM/pull/435)"
+"[\\#435](https://github.com/matonnet/UniVRM/pull/435)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:29
@@ -104,7 +104,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:30
 msgid ""
 "[**closed**] add constant UniGLTF.UniUnlit.Utils.ShaderName "
-"[\\#442](https://github.com/vrm-c/UniVRM/pull/442)"
+"[\\#442](https://github.com/matonnet/UniVRM/pull/442)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:32
@@ -119,13 +119,13 @@ msgid ""
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:38
-msgid "https://github.com/vrm-c/UniVRM/releases"
+msgid "https://github.com/matonnet/UniVRM/releases"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:40
 msgid ""
 "[**closed**] **Add Basic UPM integration** "
-"[\\#393](https://github.com/vrm-c/UniVRM/pull/393) "
+"[\\#393](https://github.com/matonnet/UniVRM/pull/393) "
 "([eelstork](https://github.com/eelstork))"
 msgstr ""
 
@@ -210,7 +210,7 @@ msgid ""
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:57
-msgid "https://github.com/vrm-c/UniVRM/pull/330"
+msgid "https://github.com/matonnet/UniVRM/pull/330"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:59
@@ -220,7 +220,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:101
 msgid ""
 "[**closed**] **Update BlendShapeKey interface** "
-"[\\#427](https://github.com/vrm-c/UniVRM/pull/427)"
+"[\\#427](https://github.com/matonnet/UniVRM/pull/427)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:104
@@ -228,7 +228,7 @@ msgid "MeshUtility の追加"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:106
-msgid "`https://github.com/vrm-c/UniVRM.git?path=/Assets/MeshUtilty`"
+msgid "`https://github.com/matonnet/UniVRM.git?path=/Assets/MeshUtilty`"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:108
@@ -236,7 +236,7 @@ msgid "で導入できます。"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:110
-msgid "https://github.com/vrm-c/UniVRM/tree/master/Assets/MeshUtility"
+msgid "https://github.com/matonnet/UniVRM/tree/master/Assets/MeshUtility"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:112
@@ -258,7 +258,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:119
 msgid ""
 "[**closed**] **Add mesh utility** "
-"[\\#434](https://github.com/vrm-c/UniVRM/pull/434)"
+"[\\#434](https://github.com/matonnet/UniVRM/pull/434)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:120
@@ -272,7 +272,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:124
 msgid ""
 "[**closed**] **Add blendshape options to export dialog** "
-"[\\#421](https://github.com/vrm-c/UniVRM/pull/421)"
+"[\\#421](https://github.com/matonnet/UniVRM/pull/421)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:125
@@ -282,13 +282,13 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:126
 msgid ""
 "[**closed**] **ExporterWindowに警告メッセージを実装** "
-"[\\#404](https://github.com/vrm-c/UniVRM/pull/404)"
+"[\\#404](https://github.com/matonnet/UniVRM/pull/404)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:127
 msgid ""
 "[**closed**] add error messages for export validation "
-"[\\#447](https://github.com/vrm-c/UniVRM/pull/447)"
+"[\\#447](https://github.com/matonnet/UniVRM/pull/447)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:128
@@ -298,7 +298,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:129
 msgid ""
 "[**closed**] EditorExport時にアセットが見つかったTextureは、それを使う "
-"[\\#433](https://github.com/vrm-c/UniVRM/pull/433)"
+"[\\#433](https://github.com/matonnet/UniVRM/pull/433)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:130
@@ -308,7 +308,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:131
 msgid ""
 "[**closed**] Fix nullcheck "
-"[\\#432](https://github.com/vrm-c/UniVRM/pull/432)"
+"[\\#432](https://github.com/matonnet/UniVRM/pull/432)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:132
@@ -318,7 +318,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:133
 msgid ""
 "[**closed**] Add an option to remove vertex color in export menu "
-"[\\#428](https://github.com/vrm-c/UniVRM/pull/428)"
+"[\\#428](https://github.com/matonnet/UniVRM/pull/428)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:134
@@ -328,7 +328,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:135
 msgid ""
 "[**closed**] Save the export directory "
-"[\\#419](https://github.com/vrm-c/UniVRM/pull/419)"
+"[\\#419](https://github.com/matonnet/UniVRM/pull/419)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:136
@@ -338,7 +338,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:137
 msgid ""
 "[**closed**] Fix export nonactive mesh "
-"[\\#401](https://github.com/vrm-c/UniVRM/pull/401)"
+"[\\#401](https://github.com/matonnet/UniVRM/pull/401)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:138
@@ -348,7 +348,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:139
 msgid ""
 "[**closed**] Check bone names duplicate when export vrm file. "
-"[\\#378](https://github.com/vrm-c/UniVRM/pull/378) ([neon-"
+"[\\#378](https://github.com/matonnet/UniVRM/pull/378) ([neon-"
 "izm](https://github.com/neon-izm))"
 msgstr ""
 
@@ -363,7 +363,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:144
 msgid ""
 "[**closed**] update export UnityPackage menu "
-"[\\#441](https://github.com/vrm-c/UniVRM/pull/441)"
+"[\\#441](https://github.com/matonnet/UniVRM/pull/441)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:145
@@ -375,7 +375,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:146
 msgid ""
 "[**closed**] asmdef をpackageに同梱するように変更 "
-"[\\#405](https://github.com/vrm-c/UniVRM/pull/405)"
+"[\\#405](https://github.com/matonnet/UniVRM/pull/405)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:148
@@ -385,7 +385,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:150
 msgid ""
 "[**closed**] **Add texture transform extensions** "
-"[\\#229](https://github.com/vrm-c/UniVRM/pull/229)"
+"[\\#229](https://github.com/matonnet/UniVRM/pull/229)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:151
@@ -395,7 +395,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:152
 msgid ""
 "[**closed**] BuildMesh load balancing in ImporterContext "
-"[\\#451](https://github.com/vrm-c/UniVRM/pull/451)"
+"[\\#451](https://github.com/matonnet/UniVRM/pull/451)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:153
@@ -405,7 +405,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:154
 msgid ""
 "[**closed**] Fix vrm look at blend shape applyer "
-"[\\#449](https://github.com/vrm-c/UniVRM/pull/449)"
+"[\\#449](https://github.com/matonnet/UniVRM/pull/449)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:155
@@ -415,7 +415,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:156
 msgid ""
 "[**closed**] check invalid file name "
-"[\\#445](https://github.com/vrm-c/UniVRM/pull/445)"
+"[\\#445](https://github.com/matonnet/UniVRM/pull/445)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:157
@@ -425,7 +425,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:158
 msgid ""
 "[**closed**] Fix: SpringBone LateUpdate to FixedUpdate "
-"[\\#430](https://github.com/vrm-c/UniVRM/pull/430) "
+"[\\#430](https://github.com/matonnet/UniVRM/pull/430) "
 "([yoship1639](https://github.com/yoship1639))"
 msgstr ""
 
@@ -436,7 +436,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:160
 msgid ""
 "[**closed**] fix MaterialImporter and TextureTransformTest "
-"[\\#417](https://github.com/vrm-c/UniVRM/pull/417)"
+"[\\#417](https://github.com/matonnet/UniVRM/pull/417)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:161
@@ -446,7 +446,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:162
 msgid ""
 "[**closed**] Add cache enum "
-"[\\#416](https://github.com/vrm-c/UniVRM/pull/416)"
+"[\\#416](https://github.com/matonnet/UniVRM/pull/416)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:163
@@ -456,7 +456,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:164
 msgid ""
 "[**closed**] Suppress garbage collection due to using linq "
-"[\\#413](https://github.com/vrm-c/UniVRM/pull/413)"
+"[\\#413](https://github.com/matonnet/UniVRM/pull/413)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:165
@@ -466,25 +466,25 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:166
 msgid ""
 "[**closed**] VrmFirstPersonを修正 "
-"[\\#412](https://github.com/vrm-c/UniVRM/pull/412)"
+"[\\#412](https://github.com/matonnet/UniVRM/pull/412)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:167
 msgid ""
 "[**closed**] fix multi frame blendShape "
-"[\\#410](https://github.com/vrm-c/UniVRM/pull/410)"
+"[\\#410](https://github.com/matonnet/UniVRM/pull/410)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:168
 msgid ""
 "[**closed**] Fix argument textureitem "
-"[\\#409](https://github.com/vrm-c/UniVRM/pull/409)"
+"[\\#409](https://github.com/matonnet/UniVRM/pull/409)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:169
 msgid ""
 "[**closed**] Changed to be able to extend texture loader. "
-"[\\#408](https://github.com/vrm-c/UniVRM/pull/408)"
+"[\\#408](https://github.com/matonnet/UniVRM/pull/408)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:170
@@ -494,7 +494,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:171
 msgid ""
 "[**closed**] fix glTFPbrMetallicRoughness init. "
-"[\\#403](https://github.com/vrm-c/UniVRM/pull/403)"
+"[\\#403](https://github.com/matonnet/UniVRM/pull/403)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:172
@@ -504,7 +504,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:173
 msgid ""
 "[**closed**] Fix blendshape uppercase bug. "
-"[\\#399](https://github.com/vrm-c/UniVRM/pull/399) ([sh-"
+"[\\#399](https://github.com/matonnet/UniVRM/pull/399) ([sh-"
 "akira](https://github.com/sh-akira))"
 msgstr ""
 
@@ -516,7 +516,7 @@ msgstr ""
 msgid ""
 "[**closed**] Fix: Large heap allocation in "
 "BoneMeshEraser.ExcludeTriangles "
-"[\\#389](https://github.com/vrm-c/UniVRM/pull/389)"
+"[\\#389](https://github.com/matonnet/UniVRM/pull/389)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:176
@@ -526,7 +526,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:177
 msgid ""
 "[**closed**] onloadmodel to return ienumerator "
-"[\\#386](https://github.com/vrm-c/UniVRM/pull/386)"
+"[\\#386](https://github.com/matonnet/UniVRM/pull/386)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:178
@@ -536,7 +536,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:179
 msgid ""
 "[**closed**] Bvhのfloat.parseのロケール問題を修正 "
-"[\\#383](https://github.com/vrm-c/UniVRM/pull/383)"
+"[\\#383](https://github.com/matonnet/UniVRM/pull/383)"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:180
@@ -546,14 +546,14 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:181
 msgid ""
 "[**closed**] Add non-string based method to search prefab "
-"[\\#381](https://github.com/vrm-c/UniVRM/pull/381) ([sator-"
+"[\\#381](https://github.com/matonnet/UniVRM/pull/381) ([sator-"
 "imaging](https://github.com/sator-imaging))"
 msgstr ""
 
 #: ../../release/056/v0.56.0.md:182
 msgid ""
 "[**closed**] Support mesh sharing morph target "
-"[\\#380](https://github.com/vrm-c/UniVRM/pull/380) "
+"[\\#380](https://github.com/matonnet/UniVRM/pull/380) "
 "([mkc1370](https://github.com/mkc1370))"
 msgstr ""
 
@@ -564,7 +564,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:184
 msgid ""
 "[**closed**] Adding support for editor preview on non-windows platforms "
-"[\\#379](https://github.com/vrm-c/UniVRM/pull/379) ([sator-"
+"[\\#379](https://github.com/matonnet/UniVRM/pull/379) ([sator-"
 "imaging](https://github.com/sator-imaging))"
 msgstr ""
 
@@ -575,7 +575,7 @@ msgstr ""
 #: ../../release/056/v0.56.0.md:186
 msgid ""
 "[**closed**] Fix: memory leak in editor preview "
-"[\\#325](https://github.com/vrm-c/UniVRM/pull/325) "
+"[\\#325](https://github.com/matonnet/UniVRM/pull/325) "
 "([ropo](https://github.com/ropo))"
 msgstr ""
 

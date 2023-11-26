@@ -28,16 +28,16 @@ msgstr "[1.0] Model Normalization"
 
 #: ../../release/079/v0.92.0.md:5
 msgid ""
-"[[\\#1429](https://github.com/vrm-c/UniVRM/pull/1429)] [1.0][Importer] "
+"[[\\#1429](https://github.com/matonnet/UniVRM/pull/1429)] [1.0][Importer] "
 "Import 時の正規化を実装"
-msgstr "[[\\#1429](https://github.com/vrm-c/UniVRM/pull/1429)] [1.0][Importer] "
+msgstr "[[\\#1429](https://github.com/matonnet/UniVRM/pull/1429)] [1.0][Importer] "
 "Implement the model normalization during import"
 
 #: ../../release/079/v0.92.0.md:6
 msgid ""
-"[[\\#1428](https://github.com/vrm-c/UniVRM/pull/1428)] [1.0] Export "
+"[[\\#1428](https://github.com/matonnet/UniVRM/pull/1428)] [1.0] Export "
 "ダイアログは正規化しない"
-msgstr "[[\\#1428](https://github.com/vrm-c/UniVRM/pull/1428)] "
+msgstr "[[\\#1428](https://github.com/matonnet/UniVRM/pull/1428)] "
 "[1.0] Export the model without normalization"
 
 #: ../../release/079/v0.92.0.md:8
@@ -50,9 +50,9 @@ msgstr "Fixed the feature of meta object replacement"
 
 #: ../../release/079/v0.92.0.md:13
 msgid ""
-"[[\\#1423](https://github.com/vrm-c/UniVRM/pull/1423)] meta の "
+"[[\\#1423](https://github.com/matonnet/UniVRM/pull/1423)] meta の "
 "PropertyField に対するオブジェクト置き換えを有効にする"
-msgstr "[[\\#1423](https://github.com/vrm-c/UniVRM/pull/1423)] "
+msgstr "[[\\#1423](https://github.com/matonnet/UniVRM/pull/1423)] "
 "Enable object replacement for meta's PropertyField"
 
 #: ../../release/079/v0.92.0.md:15
@@ -61,26 +61,26 @@ msgstr "Other Changes"
 
 #: ../../release/079/v0.92.0.md:17
 msgid ""
-"[[\\#1433](https://github.com/vrm-c/UniVRM/pull/1433)] Fix/exporter "
+"[[\\#1433](https://github.com/matonnet/UniVRM/pull/1433)] Fix/exporter "
 "extensionused"
 msgstr ""
 
 #: ../../release/079/v0.92.0.md:18
-msgid "[[\\#1432](https://github.com/vrm-c/UniVRM/pull/1432)] Version/v0 92 0"
+msgid "[[\\#1432](https://github.com/matonnet/UniVRM/pull/1432)] Version/v0 92 0"
 msgstr ""
 
 #: ../../release/079/v0.92.0.md:19
-msgid "[[\\#1420](https://github.com/vrm-c/UniVRM/pull/1420)] UniVRM-0.91.1"
+msgid "[[\\#1420](https://github.com/matonnet/UniVRM/pull/1420)] UniVRM-0.91.1"
 msgstr ""
 
 #: ../../release/079/v0.92.0.md:20
 msgid ""
-"[[\\#1419](https://github.com/vrm-c/UniVRM/pull/1419)] Suppress compler "
+"[[\\#1419](https://github.com/matonnet/UniVRM/pull/1419)] Suppress compler "
 "warning `unreachable code detected warning` when `VRM_DEVELOP` symbol is "
 "undefined."
 msgstr ""
 
 #: ../../release/079/v0.92.0.md:21
-msgid "[[\\#1418](https://github.com/vrm-c/UniVRM/pull/1418)] Release v0.91.0"
+msgid "[[\\#1418](https://github.com/matonnet/UniVRM/pull/1418)] Release v0.91.0"
 msgstr ""
 

@@ -23,11 +23,11 @@ msgid "v0.53.0"
 msgstr ""
 
 #: ../../release/055/v0.53.0.md:3
-msgid "[Release](https://github.com/vrm-c/UniVRM/releases/tag/v0.53.0)"
+msgid "[Release](https://github.com/matonnet/UniVRM/releases/tag/v0.53.0)"
 msgstr ""
 
 #: ../../release/055/v0.53.0.md:4
-msgid "[Milestone](https://github.com/vrm-c/UniVRM/milestone/12?closed=1)"
+msgid "[Milestone](https://github.com/matonnet/UniVRM/milestone/12?closed=1)"
 msgstr ""
 
 #: ../../release/055/v0.53.0.md:6
@@ -37,25 +37,25 @@ msgstr ""
 #: ../../release/055/v0.53.0.md:8
 msgid ""
 "[**closed**] update MToon version v3.2 "
-"[#264](https://github.com/vrm-c/UniVRM/pull/264)"
+"[#264](https://github.com/matonnet/UniVRM/pull/264)"
 msgstr ""
 
 #: ../../release/055/v0.53.0.md:9
 msgid ""
 "[**closed**] update MToon v3.1 "
-"[#263](https://github.com/vrm-c/UniVRM/pull/263)"
+"[#263](https://github.com/matonnet/UniVRM/pull/263)"
 msgstr ""
 
 #: ../../release/055/v0.53.0.md:10
 msgid ""
 "[**closed**] add Mtoon new props "
-"[#259](https://github.com/vrm-c/UniVRM/pull/259)"
+"[#259](https://github.com/matonnet/UniVRM/pull/259)"
 msgstr ""
 
 #: ../../release/055/v0.53.0.md:11
 msgid ""
 "[**closed**] update shaderProp "
-"[#260](https://github.com/vrm-c/UniVRM/pull/260)"
+"[#260](https://github.com/matonnet/UniVRM/pull/260)"
 msgstr ""
 
 #: ../../release/055/v0.53.0.md:12
@@ -65,7 +65,7 @@ msgstr ""
 #: ../../release/055/v0.53.0.md:13
 msgid ""
 "[**closed**] Overwrite the mtoon version of the material "
-"[#262](https://github.com/vrm-c/UniVRM/pull/262)"
+"[#262](https://github.com/matonnet/UniVRM/pull/262)"
 msgstr ""
 
 #: ../../release/055/v0.53.0.md:14
@@ -75,7 +75,7 @@ msgstr ""
 #: ../../release/055/v0.53.0.md:15
 msgid ""
 "[**closed**] update version numbder "
-"[#261](https://github.com/vrm-c/UniVRM/pull/261)"
+"[#261](https://github.com/matonnet/UniVRM/pull/261)"
 msgstr ""
 
 #: ../../release/055/v0.53.0.md:16

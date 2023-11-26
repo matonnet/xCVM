@@ -48,7 +48,7 @@ namespace UniGLTF
             else
             {
                 // use SkinnedMeshRenderer without boneWeight.
-                // https://github.com/vrm-c/UniVRM/issues/1675                
+                // https://github.com/matonnet/UniVRM/issues/1675                
                 return new SkinningInfo
                 {
                     ShouldSetRendererNodeAsBone = true,

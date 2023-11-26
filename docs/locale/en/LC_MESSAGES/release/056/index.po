@@ -122,7 +122,7 @@ msgstr ""
 #: ../../release/056/index.md:5
 msgid ""
 "[0.61.0](http://github.com/vrm-c/UniVRM/releases/tag/v0.61.0) "
-"[Milestone](https://github.com/vrm-c/UniVRM/milestone/20?closed=1)"
+"[Milestone](https://github.com/matonnet/UniVRM/milestone/20?closed=1)"
 msgstr ""
 
 #: ../../release/056/index.md:5
@@ -140,7 +140,7 @@ msgstr ""
 #: ../../release/056/index.md:5
 msgid ""
 "[0.62.0](http://github.com/vrm-c/UniVRM/releases/tag/v0.62.0) "
-"[Milestone](https://github.com/vrm-c/UniVRM/milestone/21?closed=1)"
+"[Milestone](https://github.com/matonnet/UniVRM/milestone/21?closed=1)"
 msgstr ""
 
 #: ../../release/056/index.md:5
@@ -154,7 +154,7 @@ msgstr ""
 #: ../../release/056/index.md:5
 msgid ""
 "[0.63.0](http://github.com/vrm-c/UniVRM/releases/tag/v0.63.0) "
-"[Milestone](https://github.com/vrm-c/UniVRM/milestone/25?closed=1)"
+"[Milestone](https://github.com/matonnet/UniVRM/milestone/25?closed=1)"
 msgstr ""
 
 #: ../../release/056/index.md:5
@@ -196,7 +196,7 @@ msgstr ""
 #: ../../release/056/index.md:5
 msgid ""
 "[0.64.0](http://github.com/vrm-c/UniVRM/releases/tag/v0.64.0) "
-"[Milestone](https://github.com/vrm-c/UniVRM/milestone/23?closed=1)"
+"[Milestone](https://github.com/matonnet/UniVRM/milestone/23?closed=1)"
 msgstr ""
 
 #: ../../release/056/index.md:5
@@ -226,17 +226,17 @@ msgstr ""
 #: ../../release/056/index.md:5
 msgid ""
 "[0.65.1](http://github.com/vrm-c/UniVRM/releases/tag/v0.65.1) "
-"[Milestone](https://github.com/vrm-c/UniVRM/milestone/28?closed=1)"
+"[Milestone](https://github.com/matonnet/UniVRM/milestone/28?closed=1)"
 msgstr ""
 
 #: ../../release/056/index.md:5
-msgid "トルコ語のExportを修正[\\#696](https://github.com/vrm-c/UniVRM/issues/696)"
+msgid "トルコ語のExportを修正[\\#696](https://github.com/matonnet/UniVRM/issues/696)"
 msgstr ""
 
 #: ../../release/056/index.md:5
 msgid ""
 "[0.65.2](http://github.com/vrm-c/UniVRM/releases/tag/v0.65.2) "
-"[Milestone](https://github.com/vrm-c/UniVRM/milestone/29?closed=1)"
+"[Milestone](https://github.com/matonnet/UniVRM/milestone/29?closed=1)"
 msgstr ""
 
 #: ../../release/056/index.md:5
@@ -254,7 +254,7 @@ msgstr ""
 #: ../../release/056/index.md:5
 msgid ""
 "[0.66.0](http://github.com/vrm-c/UniVRM/releases/tag/v0.66.0) "
-"[Milestone](https://github.com/vrm-c/UniVRM/milestone/26?closed=1)"
+"[Milestone](https://github.com/matonnet/UniVRM/milestone/26?closed=1)"
 msgstr ""
 
 #: ../../release/056/index.md:5
@@ -268,7 +268,7 @@ msgstr ""
 #: ../../release/056/index.md:5
 msgid ""
 "[0.67.0](http://github.com/vrm-c/UniVRM/releases/tag/v0.67.0) "
-"[Milestone](https://github.com/vrm-c/UniVRM/milestone/27?closed=1)"
+"[Milestone](https://github.com/matonnet/UniVRM/milestone/27?closed=1)"
 msgstr ""
 
 #: ../../release/056/index.md:5
@@ -282,25 +282,25 @@ msgstr ""
 #: ../../release/056/index.md:47
 msgid ""
 "VRMFirstPerson のエディターインポートのバグ "
-"[/#515](https://github.com/vrm-c/UniVRM/issues/515)"
+"[/#515](https://github.com/matonnet/UniVRM/issues/515)"
 msgstr ""
 
 #: ../../release/056/index.md:41
 msgid ""
 "スプリングボーンのコライダーの座標変換バグ。 "
-"[\\#576](https://github.com/vrm-c/UniVRM/issues/576)"
+"[\\#576](https://github.com/matonnet/UniVRM/issues/576)"
 msgstr ""
 
 #: ../../release/056/index.md:42
 msgid ""
 "エクスポートダイアログのスクリーンショットボタンの jpg "
-"バグ。[\\#639](https://github.com/vrm-c/UniVRM/issues/639)"
+"バグ。[\\#639](https://github.com/matonnet/UniVRM/issues/639)"
 msgstr ""
 
 #: ../../release/056/index.md:43
 msgid ""
 "シリアライザのバグ。エクスポートしたファイルの互換性。 "
-"[\\#654](https://github.com/vrm-c/UniVRM/issues/654)"
+"[\\#654](https://github.com/matonnet/UniVRM/issues/654)"
 msgstr ""
 
 #: ../../release/056/index.md:44
@@ -310,13 +310,13 @@ msgstr ""
 #: ../../release/056/index.md:45
 msgid ""
 "他のパッケージと併用するときに install で問題が出る？ "
-"[\\#687](https://github.com/vrm-c/UniVRM/pull/687)"
+"[\\#687](https://github.com/matonnet/UniVRM/pull/687)"
 msgstr ""
 
 #: ../../release/056/index.md:46
 msgid ""
 "build すると Exception( `#if UNITY_EDITOR` )。 "
-"[\\#701](https://github.com/vrm-c/UniVRM/issues/701)"
+"[\\#701](https://github.com/matonnet/UniVRM/issues/701)"
 msgstr ""
 
 #~ msgid "0.56以降"

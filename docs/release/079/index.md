@@ -37,10 +37,10 @@ v0.*
 // manifest.json 抜粋
 {
   "dependencies": {
-    "com.vrmc.vrmshaders": "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRMShaders#v0.82.1",
-    "com.vrmc.gltf": "https://github.com/vrm-c/UniVRM.git?path=/Assets/UniGLTF#v0.82.1", // rename unigltf to gltf
-    "com.vrmc.univrm": "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRM#v0.82.1",
-    "com.vrmc.vrm": "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRM10#v0.82.1", // rename univrm1 to vrm
+    "com.vrmc.vrmshaders": "https://github.com/matonnet/UniVRM.git?path=/Assets/VRMShaders#v0.82.1",
+    "com.vrmc.gltf": "https://github.com/matonnet/UniVRM.git?path=/Assets/UniGLTF#v0.82.1", // rename unigltf to gltf
+    "com.vrmc.univrm": "https://github.com/matonnet/UniVRM.git?path=/Assets/VRM#v0.82.1",
+    "com.vrmc.vrm": "https://github.com/matonnet/UniVRM.git?path=/Assets/VRM10#v0.82.1", // rename univrm1 to vrm
   }
 }
 ```

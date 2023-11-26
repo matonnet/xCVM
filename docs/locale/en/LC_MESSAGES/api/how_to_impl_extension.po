@@ -215,11 +215,11 @@ msgid "`Assets\\UniGLTF\\Runtime\\UniGLTF\\Format\\ExtensionsAndExtras\\KHR_text
 msgstr ""
 
 #: ../../api/how_to_impl_extension.md:196
-msgid "https://github.com/vrm-c/UniVRM/blob/master/Assets/UniGLTF/Runtime/UniGLTF/IO/MaterialImporter.cs#L296"
+msgid "https://github.com/matonnet/UniVRM/blob/master/Assets/UniGLTF/Runtime/UniGLTF/IO/MaterialImporter.cs#L296"
 msgstr ""
 
 #: ../../api/how_to_impl_extension.md:197
-msgid "https://github.com/vrm-c/UniVRM/blob/master/Assets/UniGLTF/Runtime/UniGLTF/IO/MaterialExporter.cs#L193"
+msgid "https://github.com/matonnet/UniVRM/blob/master/Assets/UniGLTF/Runtime/UniGLTF/IO/MaterialExporter.cs#L193"
 msgstr ""
 
 #: ../../api/how_to_impl_extension.md:199
@@ -243,11 +243,11 @@ msgid "`Assets\\VRM\\Editor\\VRMDeserializerGenerator.cs`"
 msgstr ""
 
 #: ../../api/how_to_impl_extension.md:212
-msgid "https://github.com/vrm-c/UniVRM/blob/master/Assets/VRM/Runtime/IO/VRMImporterContext.cs#L41"
+msgid "https://github.com/matonnet/UniVRM/blob/master/Assets/VRM/Runtime/IO/VRMImporterContext.cs#L41"
 msgstr ""
 
 #: ../../api/how_to_impl_extension.md:213
-msgid "https://github.com/vrm-c/UniVRM/blob/master/Assets/VRM/Runtime/IO/VRMExporter.cs#L209"
+msgid "https://github.com/matonnet/UniVRM/blob/master/Assets/VRM/Runtime/IO/VRMExporter.cs#L209"
 msgstr ""
 
 #: ../../api/how_to_impl_extension.md:215

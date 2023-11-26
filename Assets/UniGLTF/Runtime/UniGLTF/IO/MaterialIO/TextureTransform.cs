@@ -8,7 +8,7 @@ namespace UniGLTF
     {
         /// <summary>
         // UV Coordinate Conversion: glTF(top-left origin) to Unity(bottom-left origin)
-        /// https://github.com/vrm-c/UniVRM/issues/930
+        /// https://github.com/matonnet/UniVRM/issues/930
         /// offset.y = 1.0f - offset.y - scale.y;
         /// </summary>
         /// <param name="s"></param>

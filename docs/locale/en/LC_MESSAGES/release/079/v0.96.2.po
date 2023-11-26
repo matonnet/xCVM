@@ -23,6 +23,6 @@ msgid "v0.96.2: ⚠️ fix BlendShape Import bug"
 msgstr ""
 
 #: ../../release/079/v0.96.2.md:3
-msgid "https://github.com/vrm-c/UniVRM/issues/1554"
+msgid "https://github.com/matonnet/UniVRM/issues/1554"
 msgstr ""
 

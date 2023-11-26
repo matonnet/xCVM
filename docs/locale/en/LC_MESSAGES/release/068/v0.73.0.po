@@ -23,21 +23,21 @@ msgid "v0.73.0: other permission url の修正"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:3
-msgid "[v0.73.0](https://github.com/vrm-c/UniVRM/tree/v0.73.0) (2021-04-21)"
+msgid "[v0.73.0](https://github.com/matonnet/UniVRM/tree/v0.73.0) (2021-04-21)"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:5
-msgid "[Release](https://github.com/vrm-c/UniVRM/releases/tag/v0.73.0)"
+msgid "[Release](https://github.com/matonnet/UniVRM/releases/tag/v0.73.0)"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:6
-msgid "[Milestone](https://github.com/vrm-c/UniVRM/milestone/35?closed=1)"
+msgid "[Milestone](https://github.com/matonnet/UniVRM/milestone/35?closed=1)"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:8
 msgid ""
 "[Full "
-"Changelog](https://github.com/vrm-c/UniVRM/compare/v0.72.0...v0.73.0)"
+"Changelog](https://github.com/matonnet/UniVRM/compare/v0.72.0...v0.73.0)"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:10
@@ -55,7 +55,7 @@ msgstr ""
 #: ../../release/068/v0.73.0.md:13
 msgid ""
 "Fix/other permission url "
-"[\\#897](https://github.com/vrm-c/UniVRM/pull/897) "
+"[\\#897](https://github.com/matonnet/UniVRM/pull/897) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
@@ -65,21 +65,21 @@ msgstr ""
 
 #: ../../release/068/v0.73.0.md:16
 msgid ""
-"Feature/tpose button [\\#895](https://github.com/vrm-c/UniVRM/pull/895) "
+"Feature/tpose button [\\#895](https://github.com/matonnet/UniVRM/pull/895) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:17
 msgid ""
 "正規化するときにBlendShapeを使うLookAtがExportされない "
-"[\\#894](https://github.com/vrm-c/UniVRM/pull/894) "
+"[\\#894](https://github.com/matonnet/UniVRM/pull/894) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:18
 msgid ""
 "同一のMeshとMaterialを参照しているNodeをExportする場合に、重複をチェックして同じMeshIndexを参照するように変更 "
-"[\\#899](https://github.com/vrm-c/UniVRM/pull/899) "
+"[\\#899](https://github.com/matonnet/UniVRM/pull/899) "
 "([hiroj](https://github.com/hiroj))"
 msgstr ""
 
@@ -97,151 +97,151 @@ msgstr ""
 
 #: ../../release/068/v0.73.0.md:26
 msgid ""
-"UniVRM-0.73.0 [\\#898](https://github.com/vrm-c/UniVRM/pull/898) "
+"UniVRM-0.73.0 [\\#898](https://github.com/matonnet/UniVRM/pull/898) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:27
 msgid ""
 "\\[1.0\\]MToon export の実装 "
-"[\\#896](https://github.com/vrm-c/UniVRM/pull/896) "
+"[\\#896](https://github.com/matonnet/UniVRM/pull/896) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:28
 msgid ""
 "Feature10/mesh export validator "
-"[\\#893](https://github.com/vrm-c/UniVRM/pull/893) "
+"[\\#893](https://github.com/matonnet/UniVRM/pull/893) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:29
 msgid ""
-"SubAssetKey == を実装した [\\#891](https://github.com/vrm-c/UniVRM/pull/891) "
+"SubAssetKey == を実装した [\\#891](https://github.com/matonnet/UniVRM/pull/891) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:30
 msgid ""
 "Fix/texture extract subassetkey "
-"[\\#890](https://github.com/vrm-c/UniVRM/pull/890) "
+"[\\#890](https://github.com/matonnet/UniVRM/pull/890) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:31
 msgid ""
-"Feature/mv validation [\\#889](https://github.com/vrm-c/UniVRM/pull/889) "
+"Feature/mv validation [\\#889](https://github.com/matonnet/UniVRM/pull/889) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:32
 msgid ""
-"ExportDialogBaseなど [\\#888](https://github.com/vrm-c/UniVRM/pull/888) "
+"ExportDialogBaseなど [\\#888](https://github.com/matonnet/UniVRM/pull/888) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:33
 msgid ""
-"コード整理 [\\#887](https://github.com/vrm-c/UniVRM/pull/887) "
+"コード整理 [\\#887](https://github.com/matonnet/UniVRM/pull/887) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:34
 msgid ""
 "Add MToon directory meta file "
-"[\\#884](https://github.com/vrm-c/UniVRM/pull/884) "
+"[\\#884](https://github.com/matonnet/UniVRM/pull/884) "
 "([Santarh](https://github.com/Santarh))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:35
 msgid ""
 "mv MToon submodule due to UPM issue. "
-"[\\#883](https://github.com/vrm-c/UniVRM/pull/883) "
+"[\\#883](https://github.com/matonnet/UniVRM/pull/883) "
 "([Santarh](https://github.com/Santarh))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:36
 msgid ""
-"\\[1.0\\] Importerを修正 [\\#882](https://github.com/vrm-c/UniVRM/pull/882) "
+"\\[1.0\\] Importerを修正 [\\#882](https://github.com/matonnet/UniVRM/pull/882) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:37
 msgid ""
 "SpringBoneWindow が見切れるのを修正。初期選択も実装 "
-"[\\#881](https://github.com/vrm-c/UniVRM/pull/881) "
+"[\\#881](https://github.com/matonnet/UniVRM/pull/881) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:38
 msgid ""
 "\\[VRM1\\] SpringBone center をモデルレベルに移動など "
-"[\\#880](https://github.com/vrm-c/UniVRM/pull/880) "
+"[\\#880](https://github.com/matonnet/UniVRM/pull/880) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:39
 msgid ""
 "Vrm1のSubAssetKey作成のバグ修正 "
-"[\\#879](https://github.com/vrm-c/UniVRM/pull/879) "
+"[\\#879](https://github.com/matonnet/UniVRM/pull/879) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:40
 msgid ""
-"rename [\\#878](https://github.com/vrm-c/UniVRM/pull/878) "
+"rename [\\#878](https://github.com/matonnet/UniVRM/pull/878) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:41
 msgid ""
 "VRM10SpringBone を MonoBehaviour にした "
-"[\\#877](https://github.com/vrm-c/UniVRM/pull/877) "
+"[\\#877](https://github.com/matonnet/UniVRM/pull/877) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:42
 msgid ""
 "VRMMaterialImporterのリネームと、コメントと未使用コード削除 "
-"[\\#876](https://github.com/vrm-c/UniVRM/pull/876) "
+"[\\#876](https://github.com/matonnet/UniVRM/pull/876) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:43
 msgid ""
 "Feature10/update jsonschema "
-"[\\#875](https://github.com/vrm-c/UniVRM/pull/875) "
+"[\\#875](https://github.com/matonnet/UniVRM/pull/875) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:44
 msgid ""
-"if文の間違いを修正 [\\#874](https://github.com/vrm-c/UniVRM/pull/874) "
+"if文の間違いを修正 [\\#874](https://github.com/matonnet/UniVRM/pull/874) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:45
 msgid ""
-"fix null [\\#873](https://github.com/vrm-c/UniVRM/pull/873) "
+"fix null [\\#873](https://github.com/matonnet/UniVRM/pull/873) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:46
 msgid ""
-"Feature/extract key [\\#872](https://github.com/vrm-c/UniVRM/pull/872) "
+"Feature/extract key [\\#872](https://github.com/matonnet/UniVRM/pull/872) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:47
 msgid ""
 "remove VRM10SpringBoneColliderGroup.Reset. "
-"[\\#871](https://github.com/vrm-c/UniVRM/pull/871) "
+"[\\#871](https://github.com/matonnet/UniVRM/pull/871) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/068/v0.73.0.md:48
 msgid ""
-"colliderの重複を考慮していなかった [\\#870](https://github.com/vrm-c/UniVRM/pull/870) "
+"colliderの重複を考慮していなかった [\\#870](https://github.com/matonnet/UniVRM/pull/870) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 

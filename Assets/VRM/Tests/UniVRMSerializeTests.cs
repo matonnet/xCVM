@@ -204,7 +204,7 @@ namespace VRM
         [Test]
         public void BlendShapePresetInvariantCultureTest()
         {
-            // https://github.com/vrm-c/UniVRM/issues/694
+            // https://github.com/matonnet/UniVRM/issues/694
             // Must pass even if this computer's locale was tr-TR.
             var clip2 = ScriptableObject.CreateInstance<BlendShapeClip>();
             clip2.Preset = BlendShapePreset.I;

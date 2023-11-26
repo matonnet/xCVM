@@ -29,27 +29,27 @@ msgstr ""
 #: ../../release/079/v0.97.0.md:4
 msgid ""
 "`v0.96.2` `v0.96.1` `v0.96.0` "
-"[[\\#1581](https://github.com/vrm-c/UniVRM/pull/1581)] Fix memory out-of-"
+"[[\\#1581](https://github.com/matonnet/UniVRM/pull/1581)] Fix memory out-of-"
 "bounds access."
 msgstr ""
 
 #: ../../release/079/v0.97.0.md:5
 msgid ""
 "`v0.96.1` `v0.96.0` "
-"[[\\#1571](https://github.com/vrm-c/UniVRM/pull/1571)] blendshape が無になるバグ"
-msgstr "[[\\#1571](https://github.com/vrm-c/UniVRM/pull/1571)] but that lost blendshape"
+"[[\\#1571](https://github.com/matonnet/UniVRM/pull/1571)] blendshape が無になるバグ"
+msgstr "[[\\#1571](https://github.com/matonnet/UniVRM/pull/1571)] but that lost blendshape"
 
 #: ../../release/079/v0.97.0.md:6
 msgid ""
-"`v0.96.0` [[\\#1562](https://github.com/vrm-c/UniVRM/pull/1562)] Not "
+"`v0.96.0` [[\\#1562](https://github.com/matonnet/UniVRM/pull/1562)] Not "
 "throw if other than MeshRenderer and SkinnedMeshRenderer"
 msgstr ""
 
 #: ../../release/079/v0.97.0.md:7
 msgid ""
-"`v0.96.0` [[\\#1560](https://github.com/vrm-c/UniVRM/pull/1560)] "
+"`v0.96.0` [[\\#1560](https://github.com/matonnet/UniVRM/pull/1560)] "
 "AnimationExporter が原因で build に失敗する件を修正"
-msgstr "`v0.96.0` [[\\#1560](https://github.com/vrm-c/UniVRM/pull/1560)] build fails due to AnimationExporter"
+msgstr "`v0.96.0` [[\\#1560](https://github.com/matonnet/UniVRM/pull/1560)] build fails due to AnimationExporter"
 
 #: ../../release/079/v0.97.0.md:9
 msgid "MeshUtil"
@@ -57,13 +57,13 @@ msgstr ""
 
 #: ../../release/079/v0.97.0.md:10
 msgid ""
-"[[\\#1579](https://github.com/vrm-c/UniVRM/pull/1579)] "
+"[[\\#1579](https://github.com/matonnet/UniVRM/pull/1579)] "
 "MeshUtility.SeparationProcessing の仕様変更"
-msgstr "[[\\#1579](https://github.com/vrm-c/UniVRM/pull/1579)] update MeshUtility.SeparationProcessing"
+msgstr "[[\\#1579](https://github.com/matonnet/UniVRM/pull/1579)] update MeshUtility.SeparationProcessing"
 
 #: ../../release/079/v0.97.0.md:11
 msgid ""
-"[[\\#1577](https://github.com/vrm-c/UniVRM/pull/1577)] fix vrm mesh "
+"[[\\#1577](https://github.com/matonnet/UniVRM/pull/1577)] fix vrm mesh "
 "integration"
 msgstr ""
 
@@ -73,7 +73,7 @@ msgstr ""
 
 #: ../../release/079/v0.97.0.md:14
 msgid ""
-"[[\\#1578](https://github.com/vrm-c/UniVRM/pull/1578)] Fix10/unknown "
+"[[\\#1578](https://github.com/matonnet/UniVRM/pull/1578)] Fix10/unknown "
 "material validation"
 msgstr ""
 
@@ -82,42 +82,42 @@ msgid "Other"
 msgstr ""
 
 #: ../../release/079/v0.97.0.md:17
-msgid "[[\\#1584](https://github.com/vrm-c/UniVRM/pull/1584)] UniVRM-0.97.0"
+msgid "[[\\#1584](https://github.com/matonnet/UniVRM/pull/1584)] UniVRM-0.97.0"
 msgstr ""
 
 #: ../../release/079/v0.97.0.md:18
-msgid "[[\\#1580](https://github.com/vrm-c/UniVRM/pull/1580)] fix dwango to vrm-c"
+msgid "[[\\#1580](https://github.com/matonnet/UniVRM/pull/1580)] fix dwango to vrm-c"
 msgstr ""
 
 #: ../../release/079/v0.97.0.md:19
-msgid "[[\\#1573](https://github.com/vrm-c/UniVRM/pull/1573)] UniVRM-0.96.2"
+msgid "[[\\#1573](https://github.com/matonnet/UniVRM/pull/1573)] UniVRM-0.96.2"
 msgstr ""
 
 #: ../../release/079/v0.97.0.md:20
-msgid "[[\\#1572](https://github.com/vrm-c/UniVRM/pull/1572)] UniVRM-0.96.2"
+msgid "[[\\#1572](https://github.com/matonnet/UniVRM/pull/1572)] UniVRM-0.96.2"
 msgstr ""
 
 #: ../../release/079/v0.97.0.md:21
-msgid "[[\\#1563](https://github.com/vrm-c/UniVRM/pull/1563)] v0.96.1 doc"
+msgid "[[\\#1563](https://github.com/matonnet/UniVRM/pull/1563)] v0.96.1 doc"
 msgstr ""
 
 #: ../../release/079/v0.97.0.md:22
-msgid "[[\\#1564](https://github.com/vrm-c/UniVRM/pull/1564)] UniVRM-0.96.1"
+msgid "[[\\#1564](https://github.com/matonnet/UniVRM/pull/1564)] UniVRM-0.96.1"
 msgstr ""
 
 #: ../../release/079/v0.97.0.md:23
 msgid ""
-"[[\\#1561](https://github.com/vrm-c/UniVRM/pull/1561)] "
+"[[\\#1561](https://github.com/matonnet/UniVRM/pull/1561)] "
 "UNIGLTF_USE_GAMMA_COLORSPACE"
 msgstr ""
 
 #: ../../release/079/v0.97.0.md:24
 msgid ""
-"[[\\#1555](https://github.com/vrm-c/UniVRM/pull/1555)] update release "
+"[[\\#1555](https://github.com/matonnet/UniVRM/pull/1555)] update release "
 "notes (eng) v0.87-v0.94, v0.96"
 msgstr ""
 
 #: ../../release/079/v0.97.0.md:25
-msgid "[[\\#1553](https://github.com/vrm-c/UniVRM/pull/1553)] UniVRM-0.96.0"
+msgid "[[\\#1553](https://github.com/matonnet/UniVRM/pull/1553)] UniVRM-0.96.0"
 msgstr ""
 

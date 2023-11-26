@@ -23,21 +23,21 @@ msgid "v0.64.0"
 msgstr ""
 
 #: ../../release/056/v0.64.0.md:3
-msgid "[v0.64.0](https://github.com/vrm-c/UniVRM/tree/v0.64.0) (2021-01-14)"
+msgid "[v0.64.0](https://github.com/matonnet/UniVRM/tree/v0.64.0) (2021-01-14)"
 msgstr ""
 
 #: ../../release/056/v0.64.0.md:5
-msgid "[Release](https://github.com/vrm-c/UniVRM/releases/tag/v0.64.0)"
+msgid "[Release](https://github.com/matonnet/UniVRM/releases/tag/v0.64.0)"
 msgstr ""
 
 #: ../../release/056/v0.64.0.md:6
-msgid "[Milestone](https://github.com/vrm-c/UniVRM/milestone/23?closed=1)"
+msgid "[Milestone](https://github.com/matonnet/UniVRM/milestone/23?closed=1)"
 msgstr ""
 
 #: ../../release/056/v0.64.0.md:8
 msgid ""
 "[Full "
-"Changelog](https://github.com/vrm-c/UniVRM/compare/v0.63.2...v0.64.0)"
+"Changelog](https://github.com/matonnet/UniVRM/compare/v0.63.2...v0.64.0)"
 msgstr ""
 
 #: ../../release/056/v0.64.0.md:10
@@ -50,20 +50,20 @@ msgstr ""
 
 #: ../../release/056/v0.64.0.md:13
 msgid ""
-"skip empty submesh [\\#665](https://github.com/vrm-c/UniVRM/pull/665) "
+"skip empty submesh [\\#665](https://github.com/matonnet/UniVRM/pull/665) "
 "メッシュの一部を削除したときなどに発生する現象の回避"
 msgstr ""
 
 #: ../../release/056/v0.64.0.md:14
 msgid ""
-"Feature/unique joints [\\#668](https://github.com/vrm-c/UniVRM/pull/668) "
+"Feature/unique joints [\\#668](https://github.com/matonnet/UniVRM/pull/668) "
 "メッシュを統合したときなどに発生する現象の回避"
 msgstr ""
 
 #: ../../release/056/v0.64.0.md:15
 msgid ""
 "fix AlphaCutoff's \\(UniUnlit\\) import/export "
-"[\\#667](https://github.com/vrm-c/UniVRM/pull/667)"
+"[\\#667](https://github.com/matonnet/UniVRM/pull/667)"
 msgstr ""
 
 #: ../../release/056/v0.64.0.md:17
@@ -72,13 +72,13 @@ msgstr ""
 
 #: ../../release/056/v0.64.0.md:19
 msgid ""
-"Fix/animation import [\\#674](https://github.com/vrm-c/UniVRM/pull/674) "
+"Fix/animation import [\\#674](https://github.com/matonnet/UniVRM/pull/674) "
 "`v0.63.2` のバグ修正"
 msgstr ""
 
 #: ../../release/056/v0.64.0.md:20
 msgid ""
-"fix tiling import [\\#660](https://github.com/vrm-c/UniVRM/pull/660) "
+"fix tiling import [\\#660](https://github.com/matonnet/UniVRM/pull/660) "
 "`v0.63.2` のバグ修正"
 msgstr ""
 
@@ -87,17 +87,17 @@ msgid "VRM-1.0 準備"
 msgstr ""
 
 #: ../../release/056/v0.64.0.md:24
-msgid "fix semicolon [\\#677](https://github.com/vrm-c/UniVRM/pull/677)"
+msgid "fix semicolon [\\#677](https://github.com/matonnet/UniVRM/pull/677)"
 msgstr ""
 
 #: ../../release/056/v0.64.0.md:25
 msgid ""
 "MeshUtilityファイルの移動、vrm10のpackage.json "
-"[\\#676](https://github.com/vrm-c/UniVRM/pull/676)"
+"[\\#676](https://github.com/matonnet/UniVRM/pull/676)"
 msgstr ""
 
 #: ../../release/056/v0.64.0.md:26
-msgid "Feature/rename menu [\\#672](https://github.com/vrm-c/UniVRM/pull/672)"
+msgid "Feature/rename menu [\\#672](https://github.com/matonnet/UniVRM/pull/672)"
 msgstr ""
 
 #: ../../release/056/v0.64.0.md:28
@@ -105,24 +105,24 @@ msgid "その他のChangelog"
 msgstr ""
 
 #: ../../release/056/v0.64.0.md:30
-msgid "update MToon-3.5 [\\#671](https://github.com/vrm-c/UniVRM/pull/671)"
+msgid "update MToon-3.5 [\\#671](https://github.com/matonnet/UniVRM/pull/671)"
 msgstr ""
 
 #: ../../release/056/v0.64.0.md:31
-msgid "update README.md [\\#670](https://github.com/vrm-c/UniVRM/pull/670)"
+msgid "update README.md [\\#670](https://github.com/matonnet/UniVRM/pull/670)"
 msgstr ""
 
 #: ../../release/056/v0.64.0.md:32
-msgid "Update docs [\\#669](https://github.com/vrm-c/UniVRM/pull/669)"
+msgid "Update docs [\\#669](https://github.com/matonnet/UniVRM/pull/669)"
 msgstr ""
 
 #: ../../release/056/v0.64.0.md:33
 msgid ""
 "add VRMFirstPerson.SetVisiblity "
-"[\\#662](https://github.com/vrm-c/UniVRM/pull/662)"
+"[\\#662](https://github.com/matonnet/UniVRM/pull/662)"
 msgstr ""
 
 #: ../../release/056/v0.64.0.md:34
-msgid "Importerが対応するまでの簡易な方法 [\\#591](https://github.com/vrm-c/UniVRM/pull/591)"
+msgid "Importerが対応するまでの簡易な方法 [\\#591](https://github.com/matonnet/UniVRM/pull/591)"
 msgstr ""
 

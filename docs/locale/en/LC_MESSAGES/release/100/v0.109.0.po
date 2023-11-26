@@ -27,7 +27,7 @@ msgid "for Unity-2020.3 or later"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:4
-msgid "<https://github.com/vrm-c/UniVRM/releases/tag/v0.109.0>"
+msgid "<https://github.com/matonnet/UniVRM/releases/tag/v0.109.0>"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:6
@@ -36,7 +36,7 @@ msgstr ""
 
 #: ../../release/100/v0.109.0.md:8
 msgid ""
-"[[\\#2006](https://github.com/vrm-c/UniVRM/pull/2006)] "
+"[[\\#2006](https://github.com/matonnet/UniVRM/pull/2006)] "
 "[1.0][meta][import] copyright の import が無い"
 msgstr ""
 
@@ -46,13 +46,13 @@ msgstr ""
 
 #: ../../release/100/v0.109.0.md:11
 msgid ""
-"[[\\#1975](https://github.com/vrm-c/UniVRM/pull/1975)] "
+"[[\\#1975](https://github.com/matonnet/UniVRM/pull/1975)] "
 "ランタイムロードの非同期アクセスで例外が発生する問題の修正"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:12
 msgid ""
-"[[\\#1964](https://github.com/vrm-c/UniVRM/pull/1964)] Add "
+"[[\\#1964](https://github.com/matonnet/UniVRM/pull/1964)] Add "
 "ITextureDeserializer parameter to high-level load APIs"
 msgstr ""
 
@@ -61,24 +61,24 @@ msgid "exporter"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:15
-msgid "[[\\#2012](https://github.com/vrm-c/UniVRM/pull/2012)] to warning"
+msgid "[[\\#2012](https://github.com/matonnet/UniVRM/pull/2012)] to warning"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:16
 msgid ""
-"[[\\#2009](https://github.com/vrm-c/UniVRM/pull/2009)] ArrayProperty name"
+"[[\\#2009](https://github.com/matonnet/UniVRM/pull/2009)] ArrayProperty name"
 " `Element 0` to `{Array.Name}[0]`"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:17
 msgid ""
-"[[\\#1978](https://github.com/vrm-c/UniVRM/pull/1978)] Fix exporter "
+"[[\\#1978](https://github.com/matonnet/UniVRM/pull/1978)] Fix exporter "
 "texture leak"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:18
 msgid ""
-"[[\\#1955](https://github.com/vrm-c/UniVRM/pull/1955)] Disabled renderers"
+"[[\\#1955](https://github.com/matonnet/UniVRM/pull/1955)] Disabled renderers"
 " no longer get exported"
 msgstr ""
 
@@ -88,13 +88,13 @@ msgstr ""
 
 #: ../../release/100/v0.109.0.md:21
 msgid ""
-"[[\\#1976](https://github.com/vrm-c/UniVRM/pull/1976)] Change "
+"[[\\#1976](https://github.com/matonnet/UniVRM/pull/1976)] Change "
 "FastSpringBoneService ExecutionOrder To 11010"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:22
 msgid ""
-"[[\\#1952](https://github.com/vrm-c/UniVRM/pull/1952)] Add limit break "
+"[[\\#1952](https://github.com/matonnet/UniVRM/pull/1952)] Add limit break "
 "sliders to spring bone joint properties"
 msgstr ""
 
@@ -104,53 +104,53 @@ msgstr ""
 
 #: ../../release/100/v0.109.0.md:25
 msgid ""
-"[[\\#2000](https://github.com/vrm-c/UniVRM/pull/2000)] [experimental"
+"[[\\#2000](https://github.com/matonnet/UniVRM/pull/2000)] [experimental"
 "][vrm-animation] vrm animation の試験実装"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:26
 msgid ""
-"[[\\#1996](https://github.com/vrm-c/UniVRM/pull/1996)] ITPoseProvider "
+"[[\\#1996](https://github.com/matonnet/UniVRM/pull/1996)] ITPoseProvider "
 "を縮小。EuclideanTransform 導入"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:27
 msgid ""
-"[[\\#1992](https://github.com/vrm-c/UniVRM/pull/1992)] [sample] "
+"[[\\#1992](https://github.com/matonnet/UniVRM/pull/1992)] [sample] "
 "VRM10Retarget の実装"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:28
 msgid ""
-"[[\\#1990](https://github.com/vrm-c/UniVRM/pull/1990)] IControlRigGetter "
+"[[\\#1990](https://github.com/matonnet/UniVRM/pull/1990)] IControlRigGetter "
 "と IControlRigSetter を追加"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:29
 msgid ""
-"[[\\#1989](https://github.com/vrm-c/UniVRM/pull/1989)] [API Breaking "
+"[[\\#1989](https://github.com/matonnet/UniVRM/pull/1989)] [API Breaking "
 "Change] Vrm10RuntimeControlRig は、正規化されたTPoseを受け取る責務に特化"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:30
 msgid ""
-"[[\\#1988](https://github.com/vrm-c/UniVRM/pull/1988)] ControlRig "
+"[[\\#1988](https://github.com/matonnet/UniVRM/pull/1988)] ControlRig "
 "関連を浅い階層に移動"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:31
-msgid "[[\\#1983](https://github.com/vrm-c/UniVRM/pull/1983)] update json schema"
+msgid "[[\\#1983](https://github.com/matonnet/UniVRM/pull/1983)] update json schema"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:32
 msgid ""
-"[[\\#1970](https://github.com/vrm-c/UniVRM/pull/1970)] Add defines of "
+"[[\\#1970](https://github.com/matonnet/UniVRM/pull/1970)] Add defines of "
 "VRM-1.0 humanoid bone specification"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:33
 msgid ""
-"[[\\#1957](https://github.com/vrm-c/UniVRM/pull/1957)] Feature10/openxr "
+"[[\\#1957](https://github.com/matonnet/UniVRM/pull/1957)] Feature10/openxr "
 "fb body tracking"
 msgstr ""
 
@@ -160,31 +160,31 @@ msgstr ""
 
 #: ../../release/100/v0.109.0.md:36
 msgid ""
-"[[\\#2015](https://github.com/vrm-c/UniVRM/pull/2015)] copy Samples to "
+"[[\\#2015](https://github.com/matonnet/UniVRM/pull/2015)] copy Samples to "
 "Samples~"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:37
 msgid ""
-"[[\\#2014](https://github.com/vrm-c/UniVRM/pull/2014)] [sample] "
+"[[\\#2014](https://github.com/matonnet/UniVRM/pull/2014)] [sample] "
 "SimpleViewer を修復(BvhImporterContext の挙動変更に追随)"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:38
 msgid ""
-"[[\\#2011](https://github.com/vrm-c/UniVRM/pull/2011)] [1.0][sample] add "
+"[[\\#2011](https://github.com/matonnet/UniVRM/pull/2011)] [1.0][sample] add "
 "vrm-1.0 runtime export"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:39
 msgid ""
-"[[\\#1985](https://github.com/vrm-c/UniVRM/pull/1985)] sampler の bvh load"
+"[[\\#1985](https://github.com/matonnet/UniVRM/pull/1985)] sampler の bvh load"
 " の修正"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:40
 msgid ""
-"[[\\#1962](https://github.com/vrm-c/UniVRM/pull/1962)] [1.0] FirstPerson "
+"[[\\#1962](https://github.com/matonnet/UniVRM/pull/1962)] [1.0] FirstPerson "
 "セットアップ記事の更新"
 msgstr ""
 
@@ -193,70 +193,70 @@ msgid "other"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:43
-msgid "[[\\#2013](https://github.com/vrm-c/UniVRM/pull/2013)] UniVRM-0.109.0"
+msgid "[[\\#2013](https://github.com/matonnet/UniVRM/pull/2013)] UniVRM-0.109.0"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:44
 msgid ""
-"[[\\#2008](https://github.com/vrm-c/UniVRM/pull/2008)] Write about older "
+"[[\\#2008](https://github.com/matonnet/UniVRM/pull/2008)] Write about older "
 "release versions"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:45
 msgid ""
-"[[\\#1993](https://github.com/vrm-c/UniVRM/pull/1993)] Bump markdown-it-"
+"[[\\#1993](https://github.com/matonnet/UniVRM/pull/1993)] Bump markdown-it-"
 "py from 2.0.0 to 2.2.0"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:46
 msgid ""
-"[[\\#2004](https://github.com/vrm-c/UniVRM/pull/2004)] Fix for failed "
+"[[\\#2004](https://github.com/matonnet/UniVRM/pull/2004)] Fix for failed "
 "tests."
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:47
 msgid ""
-"[[\\#2003](https://github.com/vrm-c/UniVRM/pull/2003)] rename "
+"[[\\#2003](https://github.com/matonnet/UniVRM/pull/2003)] rename "
 "VRN10/Tests/Resources -> TestAssets"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:48
 msgid ""
-"[[\\#1991](https://github.com/vrm-c/UniVRM/pull/1991)] fix: Fix "
+"[[\\#1991](https://github.com/matonnet/UniVRM/pull/1991)] fix: Fix "
 "vrmAssetPostprocessor"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:49
 msgid ""
-"[[\\#1986](https://github.com/vrm-c/UniVRM/pull/1986)] Add a LookAtOrigin"
+"[[\\#1986](https://github.com/matonnet/UniVRM/pull/1986)] Add a LookAtOrigin"
 " transform to ControlRig."
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:50
 msgid ""
-"[[\\#1984](https://github.com/vrm-c/UniVRM/pull/1984)] Refactoring about "
+"[[\\#1984](https://github.com/matonnet/UniVRM/pull/1984)] Refactoring about "
 "Vrm10 LookAtRuntime"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:51
-msgid "[[\\#1979](https://github.com/vrm-c/UniVRM/pull/1979)] PlayMode テストの修正"
+msgid "[[\\#1979](https://github.com/matonnet/UniVRM/pull/1979)] PlayMode テストの修正"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:52
 msgid ""
-"[[\\#1953](https://github.com/vrm-c/UniVRM/pull/1953)] Bump certifi from "
+"[[\\#1953](https://github.com/matonnet/UniVRM/pull/1953)] Bump certifi from "
 "2021.10.8 to 2022.12.7"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:53
 msgid ""
-"[[\\#1951](https://github.com/vrm-c/UniVRM/pull/1951)] improve release "
+"[[\\#1951](https://github.com/matonnet/UniVRM/pull/1951)] improve release "
 "template according to latest Unity"
 msgstr ""
 
 #: ../../release/100/v0.109.0.md:54
 msgid ""
-"[[\\#1950](https://github.com/vrm-c/UniVRM/pull/1950)] UniVRM-0.108.0 の "
+"[[\\#1950](https://github.com/matonnet/UniVRM/pull/1950)] UniVRM-0.108.0 の "
 "Release. po の修正"
 msgstr ""
 

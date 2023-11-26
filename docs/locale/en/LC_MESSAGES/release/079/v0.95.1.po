@@ -40,19 +40,19 @@ msgstr "Due to the complexity of the run-time loading procedure, we have created
 
 #: ../../release/079/v0.95.1.md:11
 msgid ""
-"[[\\#1504](https://github.com/vrm-c/UniVRM/pull/1504)] Refactor High-"
+"[[\\#1504](https://github.com/matonnet/UniVRM/pull/1504)] Refactor High-"
 "level VRM-1.0 Loading API."
 msgstr ""
 
 #: ../../release/079/v0.95.1.md:12
 msgid ""
-"[[\\#1503](https://github.com/vrm-c/UniVRM/pull/1503)] GltfData.Dispose "
+"[[\\#1503](https://github.com/matonnet/UniVRM/pull/1503)] GltfData.Dispose "
 "の呼び忘れを修正"
-msgstr "[[\\#1503](https://github.com/vrm-c/UniVRM/pull/1503)] Fixed forgetting to call GltfData.Dispose"
+msgstr "[[\\#1503](https://github.com/matonnet/UniVRM/pull/1503)] Fixed forgetting to call GltfData.Dispose"
 
 #: ../../release/079/v0.95.1.md:13
 msgid ""
-"[[\\#1483](https://github.com/vrm-c/UniVRM/pull/1483)] Fix/use native "
+"[[\\#1483](https://github.com/matonnet/UniVRM/pull/1483)] Fix/use native "
 "array"
 msgstr ""
 
@@ -62,9 +62,9 @@ msgstr "Exporter"
 
 #: ../../release/079/v0.95.1.md:16
 msgid ""
-"[[\\#1505](https://github.com/vrm-c/UniVRM/pull/1505)] POSITION の "
+"[[\\#1505](https://github.com/matonnet/UniVRM/pull/1505)] POSITION の "
 "Accessor に min, max を追加"
-msgstr "[[\\#1505](https://github.com/vrm-c/UniVRM/pull/1505)] Add minimum and maximum to POSITION accessor"
+msgstr "[[\\#1505](https://github.com/matonnet/UniVRM/pull/1505)] Add minimum and maximum to POSITION accessor"
 
 #: ../../release/079/v0.95.1.md:18
 msgid "1.0"
@@ -72,54 +72,54 @@ msgstr ""
 
 #: ../../release/079/v0.95.1.md:19
 msgid ""
-"[[\\#1498](https://github.com/vrm-c/UniVRM/pull/1498)] [1.0] Constraint, "
+"[[\\#1498](https://github.com/matonnet/UniVRM/pull/1498)] [1.0] Constraint, "
 "freezeAxes -> axes"
 msgstr ""
 
 #: ../../release/079/v0.95.1.md:20
 msgid ""
-"[[\\#1501](https://github.com/vrm-c/UniVRM/pull/1501)] [1.0] don't export"
+"[[\\#1501](https://github.com/matonnet/UniVRM/pull/1501)] [1.0] don't export"
 " the springBone extension if there are no colliders and springs"
 msgstr ""
 
 #: ../../release/079/v0.95.1.md:21
 msgid ""
-"[[\\#1500](https://github.com/vrm-c/UniVRM/pull/1500)] fix: add "
+"[[\\#1500](https://github.com/matonnet/UniVRM/pull/1500)] fix: add "
 "specVersion to spring bone and node constraint"
 msgstr ""
 
 #: ../../release/079/v0.95.1.md:22
-msgid "[[\\#1497](https://github.com/vrm-c/UniVRM/pull/1497)] Fix10/vrm10data api"
+msgid "[[\\#1497](https://github.com/matonnet/UniVRM/pull/1497)] Fix10/vrm10data api"
 msgstr ""
 
 #: ../../release/079/v0.95.1.md:23
-msgid "[[\\#1502](https://github.com/vrm-c/UniVRM/pull/1502)] neutral の修正漏れ"
-msgstr "[[\\#1502](https://github.com/vrm-c/UniVRM/pull/1502)] Omission of neutral correction"
+msgid "[[\\#1502](https://github.com/matonnet/UniVRM/pull/1502)] neutral の修正漏れ"
+msgstr "[[\\#1502](https://github.com/matonnet/UniVRM/pull/1502)] Omission of neutral correction"
 
 #: ../../release/079/v0.95.1.md:24
 msgid ""
-"[[\\#1489](https://github.com/vrm-c/UniVRM/pull/1489)] [1.0] "
+"[[\\#1489](https://github.com/matonnet/UniVRM/pull/1489)] [1.0] "
 "Migrationのエッジケースを修正"
 msgstr "Fixed migration edge case"
 
 #: ../../release/079/v0.95.1.md:25
-msgid "[[\\#1487](https://github.com/vrm-c/UniVRM/pull/1487)] Fix10/fix neutral"
+msgid "[[\\#1487](https://github.com/matonnet/UniVRM/pull/1487)] Fix10/fix neutral"
 msgstr ""
 
 #: ../../release/079/v0.95.1.md:26
 msgid ""
-"[[\\#1485](https://github.com/vrm-c/UniVRM/pull/1485)] Fxi10/update "
+"[[\\#1485](https://github.com/matonnet/UniVRM/pull/1485)] Fxi10/update "
 "vrm10data api"
 msgstr ""
 
 #: ../../release/079/v0.95.1.md:27
 msgid ""
-"[[\\#1494](https://github.com/vrm-c/UniVRM/pull/1494)] "
+"[[\\#1494](https://github.com/matonnet/UniVRM/pull/1494)] "
 "[1.0][FirstPerson]同じ対象に対する設定が複数ある場合に、先頭のものを採用する"
-msgstr "[[\\#1494](https://github.com/vrm-c/UniVRM/pull/1494)] [1.0][FirstPerson] If the same target has multiple settings, the first setting will be adopted."
+msgstr "[[\\#1494](https://github.com/matonnet/UniVRM/pull/1494)] [1.0][FirstPerson] If the same target has multiple settings, the first setting will be adopted."
 
 #: ../../release/079/v0.95.1.md:28
-msgid "[[\\#1484](https://github.com/vrm-c/UniVRM/pull/1484)] [1.0] null check"
+msgid "[[\\#1484](https://github.com/matonnet/UniVRM/pull/1484)] [1.0] null check"
 msgstr ""
 
 #: ../../release/079/v0.95.1.md:30
@@ -127,20 +127,20 @@ msgid "その他"
 msgstr "Other"
 
 #: ../../release/079/v0.95.1.md:31
-msgid "[[\\#1506](https://github.com/vrm-c/UniVRM/pull/1506)] UniVRM-0.95.0"
+msgid "[[\\#1506](https://github.com/matonnet/UniVRM/pull/1506)] UniVRM-0.95.0"
 msgstr ""
 
 #: ../../release/079/v0.95.1.md:32
-msgid "[[\\#1488](https://github.com/vrm-c/UniVRM/pull/1488)] metaファイルの漏れを修正"
-msgstr "[[\\#1488](https://github.com/vrm-c/UniVRM/pull/1488)] add meta"
+msgid "[[\\#1488](https://github.com/matonnet/UniVRM/pull/1488)] metaファイルの漏れを修正"
+msgstr "[[\\#1488](https://github.com/matonnet/UniVRM/pull/1488)] add meta"
 
 #: ../../release/079/v0.95.1.md:33
 msgid ""
-"[[\\#1479](https://github.com/vrm-c/UniVRM/pull/1479)] "
+"[[\\#1479](https://github.com/matonnet/UniVRM/pull/1479)] "
 "UniGLTFについて、SkinnedMeshRendererかつボーンが存在しないとき、挙動がおかしくなる問題を修正した"
-msgstr "[[\\#1479](https://github.com/vrm-c/UniVRM/pull/1479)] Fixed an issue where UniGLTF behaved strangely when the SkinnedMeshRenderer and bones were missing."
+msgstr "[[\\#1479](https://github.com/matonnet/UniVRM/pull/1479)] Fixed an issue where UniGLTF behaved strangely when the SkinnedMeshRenderer and bones were missing."
 
 #: ../../release/079/v0.95.1.md:34
-msgid "[[\\#1478](https://github.com/vrm-c/UniVRM/pull/1478)] Docs/release 0.94.0"
+msgid "[[\\#1478](https://github.com/matonnet/UniVRM/pull/1478)] Docs/release 0.94.0"
 msgstr ""
 

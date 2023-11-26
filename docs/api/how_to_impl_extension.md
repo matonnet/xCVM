@@ -193,8 +193,8 @@ void ExportGoodMaterial(UniGLTF.glTFMaterial material, GoodMaterial good)
 
 生成コードの呼び出し
 
-* https://github.com/vrm-c/UniVRM/blob/master/Assets/UniGLTF/Runtime/UniGLTF/IO/MaterialImporter.cs#L296
-* https://github.com/vrm-c/UniVRM/blob/master/Assets/UniGLTF/Runtime/UniGLTF/IO/MaterialExporter.cs#L193
+* https://github.com/matonnet/UniVRM/blob/master/Assets/UniGLTF/Runtime/UniGLTF/IO/MaterialImporter.cs#L296
+* https://github.com/matonnet/UniVRM/blob/master/Assets/UniGLTF/Runtime/UniGLTF/IO/MaterialExporter.cs#L193
 
 ### VRM0: `extensions.VRM`
 `C#の型からコード生成`
@@ -209,8 +209,8 @@ void ExportGoodMaterial(UniGLTF.glTFMaterial material, GoodMaterial good)
 
 生成コードの呼び出し
 
-* https://github.com/vrm-c/UniVRM/blob/master/Assets/VRM/Runtime/IO/VRMImporterContext.cs#L41
-* https://github.com/vrm-c/UniVRM/blob/master/Assets/VRM/Runtime/IO/VRMExporter.cs#L209
+* https://github.com/matonnet/UniVRM/blob/master/Assets/VRM/Runtime/IO/VRMImporterContext.cs#L41
+* https://github.com/matonnet/UniVRM/blob/master/Assets/VRM/Runtime/IO/VRMExporter.cs#L209
 
 ### VRM1: `extensions.VRMC_vrm` など
 `JsonSchemaからコード生成`

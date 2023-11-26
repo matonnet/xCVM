@@ -23,17 +23,17 @@ msgid "v0.60.0"
 msgstr ""
 
 #: ../../release/056/v0.60.0.md:3
-msgid "[Release](https://github.com/vrm-c/UniVRM/releases/tag/v0.60.0)"
+msgid "[Release](https://github.com/matonnet/UniVRM/releases/tag/v0.60.0)"
 msgstr ""
 
 #: ../../release/056/v0.60.0.md:4
-msgid "[Milestone](https://github.com/vrm-c/UniVRM/milestone/19?closed=1)"
+msgid "[Milestone](https://github.com/matonnet/UniVRM/milestone/19?closed=1)"
 msgstr ""
 
 #: ../../release/056/v0.60.0.md:6
 msgid ""
 "[Full "
-"Changelog](https://github.com/vrm-c/UniVRM/compare/v0.59.0...v0.60.0)"
+"Changelog](https://github.com/matonnet/UniVRM/compare/v0.59.0...v0.60.0)"
 msgstr ""
 
 #: ../../release/056/v0.60.0.md:8
@@ -51,25 +51,25 @@ msgstr ""
 #: ../../release/056/v0.60.0.md:14
 msgid ""
 "[**closed**] fix null in Renderer.sharedMaterials "
-"[\\#557](https://github.com/vrm-c/UniVRM/pull/557)"
+"[\\#557](https://github.com/matonnet/UniVRM/pull/557)"
 msgstr ""
 
 #: ../../release/056/v0.60.0.md:15
 msgid ""
 "[**closed**] add BlendShapeClip Validation "
-"[\\#556](https://github.com/vrm-c/UniVRM/pull/556)"
+"[\\#556](https://github.com/matonnet/UniVRM/pull/556)"
 msgstr ""
 
 #: ../../release/056/v0.60.0.md:16
 msgid ""
 "[**closed**] Export Dialog の更新 "
-"[\\#550](https://github.com/vrm-c/UniVRM/pull/550)"
+"[\\#550](https://github.com/matonnet/UniVRM/pull/550)"
 msgstr ""
 
 #: ../../release/056/v0.60.0.md:17
 msgid ""
 "[**closed**] 正規化するときは、 `ExportRootに回転・拡大縮小` があってもよい。 "
-"[\\#548](https://github.com/vrm-c/UniVRM/pull/548)"
+"[\\#548](https://github.com/matonnet/UniVRM/pull/548)"
 msgstr ""
 
 #: ../../release/056/v0.60.0.md:19
@@ -79,7 +79,7 @@ msgstr ""
 #: ../../release/056/v0.60.0.md:21
 msgid ""
 "[**closed**] set name if name is null "
-"[\\#549](https://github.com/vrm-c/UniVRM/pull/549)"
+"[\\#549](https://github.com/matonnet/UniVRM/pull/549)"
 msgstr ""
 
 #: ../../release/056/v0.60.0.md:23
@@ -89,20 +89,20 @@ msgstr ""
 #: ../../release/056/v0.60.0.md:25
 msgid ""
 "[**closed**] `is null` を `== null` に修正 "
-"[\\#547](https://github.com/vrm-c/UniVRM/pull/547)"
+"[\\#547](https://github.com/matonnet/UniVRM/pull/547)"
 msgstr ""
 
 #: ../../release/056/v0.60.0.md:26
 msgid ""
 "[**closed**] 親をたどる時、非アクティブなTransformが取得できなくなっていたのを修正 "
-"[\\#546](https://github.com/vrm-c/UniVRM/pull/546) "
+"[\\#546](https://github.com/matonnet/UniVRM/pull/546) "
 "([faidra](https://github.com/faidra))"
 msgstr ""
 
 #: ../../release/056/v0.60.0.md:27
 msgid ""
 "[**closed**] humanoid avatar を作るコンポーネント "
-"[\\#541](https://github.com/vrm-c/UniVRM/pull/541)"
+"[\\#541](https://github.com/matonnet/UniVRM/pull/541)"
 msgstr ""
 
 #: ../../release/056/v0.60.0.md:28
@@ -112,6 +112,6 @@ msgstr ""
 #: ../../release/056/v0.60.0.md:29
 msgid ""
 "[**closed**] activeInHierarchy が prefab にヒットする件 "
-"[\\#540](https://github.com/vrm-c/UniVRM/pull/540)"
+"[\\#540](https://github.com/matonnet/UniVRM/pull/540)"
 msgstr ""
 

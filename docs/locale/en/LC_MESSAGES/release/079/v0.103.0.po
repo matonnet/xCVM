@@ -28,55 +28,55 @@ msgstr ""
 
 #: ../../release/079/v0.103.0.md:5
 msgid ""
-"[[\\#1779](https://github.com/vrm-c/UniVRM/pull/1779)] Add the "
+"[[\\#1779](https://github.com/matonnet/UniVRM/pull/1779)] Add the "
 "`GenerateControlRig` option to VRM 1.0 Importer."
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:6
 msgid ""
-"[[\\#1777](https://github.com/vrm-c/UniVRM/pull/1777)] Remove the VRM 1.0"
+"[[\\#1777](https://github.com/matonnet/UniVRM/pull/1777)] Remove the VRM 1.0"
 " importer option about the normalization of node transforms."
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:7
 msgid ""
-"[[\\#1776](https://github.com/vrm-c/UniVRM/pull/1776)] Change access "
+"[[\\#1776](https://github.com/matonnet/UniVRM/pull/1776)] Change access "
 "modifiers, Add methods, about ControlRig"
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:8
 msgid ""
-"[[\\#1775](https://github.com/vrm-c/UniVRM/pull/1775)] Refactoring about "
+"[[\\#1775](https://github.com/matonnet/UniVRM/pull/1775)] Refactoring about "
 "ControlRig"
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:9
 msgid ""
-"[[\\#1774](https://github.com/vrm-c/UniVRM/pull/1774)] Rename class names"
+"[[\\#1774](https://github.com/matonnet/UniVRM/pull/1774)] Rename class names"
 " about FKRetarget into ControlRig"
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:10
 msgid ""
-"[[\\#1768](https://github.com/vrm-c/UniVRM/pull/1768)] Feature10/fk "
+"[[\\#1768](https://github.com/matonnet/UniVRM/pull/1768)] Feature10/fk "
 "retarget"
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:11
 msgid ""
-"[[\\#1763](https://github.com/vrm-c/UniVRM/pull/1763)] [1.0] "
+"[[\\#1763](https://github.com/matonnet/UniVRM/pull/1763)] [1.0] "
 "AimConstraint の修正"
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:12
 msgid ""
-"[[\\#1762](https://github.com/vrm-c/UniVRM/pull/1762)] [1.0] LookAt "
+"[[\\#1762](https://github.com/matonnet/UniVRM/pull/1762)] [1.0] LookAt "
 "を正規化しないことに対応させました"
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:13
 msgid ""
-"[[\\#1751](https://github.com/vrm-c/UniVRM/pull/1751)] [VRM 1.0] プロシージャルな"
+"[[\\#1751](https://github.com/matonnet/UniVRM/pull/1751)] [VRM 1.0] プロシージャルな"
 " Expression に isBinary の設定が反映されていなかったバグを修正"
 msgstr ""
 
@@ -86,20 +86,20 @@ msgstr ""
 
 #: ../../release/079/v0.103.0.md:17
 msgid ""
-"[[\\#1780](https://github.com/vrm-c/UniVRM/pull/1780)] Optimize "
+"[[\\#1780](https://github.com/matonnet/UniVRM/pull/1780)] Optimize "
 "BoneLimit.ToHumanBoneName"
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:18
 msgid ""
-"[[\\#1781](https://github.com/vrm-c/UniVRM/pull/1781)] BREAKING CHANGE: "
+"[[\\#1781](https://github.com/matonnet/UniVRM/pull/1781)] BREAKING CHANGE: "
 "Add interface method IAwaitCaller.NextFrameIfTimedOut which invokes "
 "NextFrame if timed out"
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:19
 msgid ""
-"[[\\#1778](https://github.com/vrm-c/UniVRM/pull/1778)] Caching "
+"[[\\#1778](https://github.com/matonnet/UniVRM/pull/1778)] Caching "
 "Enum.GetValues with implementation of CachedEnum class"
 msgstr ""
 
@@ -108,56 +108,56 @@ msgid "Other"
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:22
-msgid "[[\\#1782](https://github.com/vrm-c/UniVRM/pull/1782)] add LoadPathAsync"
+msgid "[[\\#1782](https://github.com/matonnet/UniVRM/pull/1782)] add LoadPathAsync"
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:23
-msgid "[[\\#1773](https://github.com/vrm-c/UniVRM/pull/1773)] UniVRM-0.103.0"
+msgid "[[\\#1773](https://github.com/matonnet/UniVRM/pull/1773)] UniVRM-0.103.0"
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:24
 msgid ""
-"[[\\#1765](https://github.com/vrm-c/UniVRM/pull/1765)] glTFTexture.source"
+"[[\\#1765](https://github.com/matonnet/UniVRM/pull/1765)] glTFTexture.source"
 " type to int?"
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:25
-msgid "[[\\#1756](https://github.com/vrm-c/UniVRM/pull/1756)] WebGLの動作確認"
+msgid "[[\\#1756](https://github.com/matonnet/UniVRM/pull/1756)] WebGLの動作確認"
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:26
-msgid "[[\\#1764](https://github.com/vrm-c/UniVRM/pull/1764)] エラーメッセージを改善"
+msgid "[[\\#1764](https://github.com/matonnet/UniVRM/pull/1764)] エラーメッセージを改善"
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:27
 msgid ""
-"[[\\#1769](https://github.com/vrm-c/UniVRM/pull/1769)] Remove multi-frame"
+"[[\\#1769](https://github.com/matonnet/UniVRM/pull/1769)] Remove multi-frame"
 " profiler sample"
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:28
 msgid ""
-"[[\\#1761](https://github.com/vrm-c/UniVRM/pull/1761)] "
+"[[\\#1761](https://github.com/matonnet/UniVRM/pull/1761)] "
 "Unity公式モジュールの依存関係が不足している問題を修正"
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:29
 msgid ""
-"[[\\#1757](https://github.com/vrm-c/UniVRM/pull/1757)] "
+"[[\\#1757](https://github.com/matonnet/UniVRM/pull/1757)] "
 "BlendShapeClipが削除された後に様々な場所でエラーが出る問題を修正"
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:30
 msgid ""
-"[[\\#1759](https://github.com/vrm-c/UniVRM/pull/1759)] arrays size must "
+"[[\\#1759](https://github.com/matonnet/UniVRM/pull/1759)] arrays size must "
 "match mesh vertex count"
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:31
-msgid "[[\\#1752](https://github.com/vrm-c/UniVRM/pull/1752)] UniVRM-0.102.1"
+msgid "[[\\#1752](https://github.com/matonnet/UniVRM/pull/1752)] UniVRM-0.102.1"
 msgstr ""
 
 #: ../../release/079/v0.103.0.md:32
-msgid "[[\\#1750](https://github.com/vrm-c/UniVRM/pull/1750)] UniVRM-0.102.0"
+msgid "[[\\#1750](https://github.com/matonnet/UniVRM/pull/1750)] UniVRM-0.102.0"
 msgstr ""
 

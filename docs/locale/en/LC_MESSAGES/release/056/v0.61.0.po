@@ -23,17 +23,17 @@ msgid "v0.61.0: シリアライザーを reflection からコード生成に変�
 msgstr ""
 
 #: ../../release/056/v0.61.0.md:3
-msgid "[Release](https://github.com/vrm-c/UniVRM/releases/tag/v0.61.0)"
+msgid "[Release](https://github.com/matonnet/UniVRM/releases/tag/v0.61.0)"
 msgstr ""
 
 #: ../../release/056/v0.61.0.md:4
-msgid "[Milestone](https://github.com/vrm-c/UniVRM/milestone/20?closed=1)"
+msgid "[Milestone](https://github.com/matonnet/UniVRM/milestone/20?closed=1)"
 msgstr ""
 
 #: ../../release/056/v0.61.0.md:6
 msgid ""
 "[Full "
-"Changelog](https://github.com/vrm-c/UniVRM/compare/v0.60.0...v0.61.0)"
+"Changelog](https://github.com/matonnet/UniVRM/compare/v0.60.0...v0.61.0)"
 msgstr ""
 
 #: ../../release/056/v0.61.0.md:8
@@ -47,7 +47,7 @@ msgstr ""
 #: ../../release/056/v0.61.0.md:12
 msgid ""
 "BoneWeightの無いBlendShapeは正規化必用 "
-"[\\#573](https://github.com/vrm-c/UniVRM/pull/573)"
+"[\\#573](https://github.com/matonnet/UniVRM/pull/573)"
 msgstr ""
 
 #: ../../release/056/v0.61.0.md:14
@@ -57,7 +57,7 @@ msgstr ""
 #: ../../release/056/v0.61.0.md:16
 msgid ""
 "UniUnlitでMultiply設定の時以外に自動で頂点カラーを落とす変更 "
-"[\\#569](https://github.com/vrm-c/UniVRM/pull/569)"
+"[\\#569](https://github.com/matonnet/UniVRM/pull/569)"
 msgstr ""
 
 #: ../../release/056/v0.61.0.md:18
@@ -79,7 +79,7 @@ msgid "シリアライザの更新"
 msgstr ""
 
 #: ../../release/056/v0.61.0.md:27
-msgid "生成シリアライザをデフォルトにする [\\#564](https://github.com/vrm-c/UniVRM/pull/564)"
+msgid "生成シリアライザをデフォルトにする [\\#564](https://github.com/matonnet/UniVRM/pull/564)"
 msgstr ""
 
 #: ../../release/056/v0.61.0.md:29
@@ -93,7 +93,7 @@ msgstr ""
 #: ../../release/056/v0.61.0.md:33
 msgid ""
 "Scaleが含まれていてもSpringBoneがある程度動く "
-"[\\#570](https://github.com/vrm-c/UniVRM/pull/570)"
+"[\\#570](https://github.com/matonnet/UniVRM/pull/570)"
 msgstr ""
 
 #: ../../release/056/v0.61.0.md:35
@@ -101,16 +101,16 @@ msgid "その他のChangelog"
 msgstr ""
 
 #: ../../release/056/v0.61.0.md:37
-msgid "fix warning CS0649 [\\#572](https://github.com/vrm-c/UniVRM/pull/572)"
+msgid "fix warning CS0649 [\\#572](https://github.com/matonnet/UniVRM/pull/572)"
 msgstr ""
 
 #: ../../release/056/v0.61.0.md:38
-msgid "fix warnings [\\#568](https://github.com/vrm-c/UniVRM/pull/568)"
+msgid "fix warnings [\\#568](https://github.com/matonnet/UniVRM/pull/568)"
 msgstr ""
 
 #: ../../release/056/v0.61.0.md:39
 msgid ""
 "テクスチャサンプラ適用処理を ITextureLoader が持つ "
-"[\\#561](https://github.com/vrm-c/UniVRM/pull/561)"
+"[\\#561](https://github.com/matonnet/UniVRM/pull/561)"
 msgstr ""
 

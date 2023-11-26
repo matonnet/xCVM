@@ -46,7 +46,7 @@ namespace UniVRM10
                     {
                         switch (humanBoneType)
                         {
-                            // https://github.com/vrm-c/vrm-specification/issues/380
+                            // https://github.com/matonnet/vrm-specification/issues/380
                             case HumanBodyBones.LeftThumbProximal: node.HumanoidBone = VrmLib.HumanoidBones.leftThumbMetacarpal; break;
                             case HumanBodyBones.LeftThumbIntermediate: node.HumanoidBone = VrmLib.HumanoidBones.leftThumbProximal; break;
                             case HumanBodyBones.RightThumbProximal: node.HumanoidBone = VrmLib.HumanoidBones.rightThumbMetacarpal; break;

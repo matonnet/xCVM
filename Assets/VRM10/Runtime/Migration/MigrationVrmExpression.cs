@@ -31,8 +31,8 @@ namespace UniVRM10
 
             switch (src)
             {
-                // https://github.com/vrm-c/vrm-specification/issues/185
-                // https://github.com/vrm-c/UniVRM/issues/1482
+                // https://github.com/matonnet/vrm-specification/issues/185
+                // https://github.com/matonnet/UniVRM/issues/1482
                 case "neutral": return ExpressionPreset.neutral;
 
                 case "a": return ExpressionPreset.aa;
@@ -45,7 +45,7 @@ namespace UniVRM10
                 case "blink_l": return ExpressionPreset.blinkLeft;
                 case "blink_r": return ExpressionPreset.blinkRight;
 
-                // https://github.com/vrm-c/vrm-specification/issues/163
+                // https://github.com/matonnet/vrm-specification/issues/163
                 case "joy": return ExpressionPreset.happy;
                 case "angry": return ExpressionPreset.angry;
                 case "sorrow": return ExpressionPreset.sad;
@@ -72,8 +72,8 @@ namespace UniVRM10
 
                 var bind = new UniGLTF.Extensions.VRMC_vrm.MorphTargetBind();
 
-                // https://github.com/vrm-c/vrm-specification/pull/106
-                // https://github.com/vrm-c/vrm-specification/pull/153
+                // https://github.com/matonnet/vrm-specification/pull/106
+                // https://github.com/matonnet/vrm-specification/pull/153
                 var nodeIndex = meshToNode(meshIndex);
                 if (nodeIndex == -1)
                 {
@@ -83,7 +83,7 @@ namespace UniVRM10
                 }
                 bind.Node = nodeIndex;
                 bind.Index = morphTargetIndex;
-                // https://github.com/vrm-c/vrm-specification/issues/209
+                // https://github.com/matonnet/vrm-specification/issues/209
                 bind.Weight = weight * 0.01f;
 
                 yield return bind;

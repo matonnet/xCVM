@@ -131,7 +131,7 @@ VRMでは、VRMモデルを構成するglTFシーンの原点から相対にト�
 }
 ```
 
-* https://github.com/vrm-c/vrm-specification/tree/master/specification/VRMC_vrm-1.0/schema
+* https://github.com/matonnet/vrm-specification/tree/master/specification/VRMC_vrm-1.0/schema
 
 GLTF-2.0のJsonSchema
 

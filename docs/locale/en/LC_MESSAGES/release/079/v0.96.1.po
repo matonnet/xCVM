@@ -23,7 +23,7 @@ msgid "v0.96.1: ⚠️ build/exporter bug fix"
 msgstr ""
 
 #: ../../release/079/v0.96.1.md:3
-msgid "<https://github.com/vrm-c/UniVRM/milestone/61?closed=1>"
+msgid "<https://github.com/matonnet/UniVRM/milestone/61?closed=1>"
 msgstr ""
 
 #~ msgid "v0.96.1: build/exporter bug fix"

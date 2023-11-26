@@ -32,7 +32,7 @@ msgstr ""
 
 #: ../../release/079/v0.88.0.md:6
 msgid ""
-"[[\\#1331](https://github.com/vrm-c/UniVRM/pull/1331)] Fix "
+"[[\\#1331](https://github.com/matonnet/UniVRM/pull/1331)] Fix "
 "UnlitTransparentZWrite fallback code."
 msgstr ""
 
@@ -47,7 +47,7 @@ msgstr "Although `image.uri` supports `data:`, so far `buffer.uri` does not supp
 #: ../../release/079/v0.88.0.md:12
 msgid ""
 "[Error when load glb file "
-"(buffer.uri)](https://github.com/vrm-c/UniVRM/issues/1326)"
+"(buffer.uri)](https://github.com/matonnet/UniVRM/issues/1326)"
 msgstr ""
 
 #: ../../release/079/v0.88.0.md:14
@@ -56,52 +56,52 @@ msgstr ""
 
 #: ../../release/079/v0.88.0.md:15 ../../release/079/v0.88.0.md:21
 msgid ""
-"[[\\#1346](https://github.com/vrm-c/UniVRM/pull/1346)] Fix10/fix "
+"[[\\#1346](https://github.com/matonnet/UniVRM/pull/1346)] Fix10/fix "
 "expression migration"
 msgstr ""
 
 #: ../../release/079/v0.88.0.md:16 ../../release/079/v0.88.0.md:20
 msgid ""
-"[[\\#1347](https://github.com/vrm-c/UniVRM/pull/1347)] [1.0] Expression "
+"[[\\#1347](https://github.com/matonnet/UniVRM/pull/1347)] [1.0] Expression "
 "UV Binding の挙動"
-msgstr "[[\\#1347](https://github.com/vrm-c/UniVRM/pull/1347)] "
+msgstr "[[\\#1347](https://github.com/matonnet/UniVRM/pull/1347)] "
 "[1.0] Update Expression's UV Binding"
 
 #: ../../release/079/v0.88.0.md:17
 msgid ""
-"[[\\#1353](https://github.com/vrm-c/UniVRM/pull/1353)] Migrate legacy "
+"[[\\#1353](https://github.com/matonnet/UniVRM/pull/1353)] Migrate legacy "
 "Unlit shaders"
 msgstr ""
 
 #: ../../release/079/v0.88.0.md:18
 msgid ""
-"[[\\#1349](https://github.com/vrm-c/UniVRM/pull/1349)] fix (VRM1.0, "
+"[[\\#1349](https://github.com/matonnet/UniVRM/pull/1349)] fix (VRM1.0, "
 "MToon): exported emissive factor should be in linear colorspace"
 msgstr ""
 
 #: ../../release/079/v0.88.0.md:19
 msgid ""
-"[[\\#1348](https://github.com/vrm-c/UniVRM/pull/1348)] fix (VRM1.0, "
+"[[\\#1348](https://github.com/matonnet/UniVRM/pull/1348)] fix (VRM1.0, "
 "MToon): change export spec version to 1.0-beta"
 msgstr ""
 
 #: ../../release/079/v0.88.0.md:22
 msgid ""
-"[[\\#1344](https://github.com/vrm-c/UniVRM/pull/1344)] [1.0] const "
+"[[\\#1344](https://github.com/matonnet/UniVRM/pull/1344)] [1.0] const "
 "LICENSE_URL_JA"
 msgstr ""
 
 #: ../../release/079/v0.88.0.md:23
 msgid ""
-"[[\\#1342](https://github.com/vrm-c/UniVRM/pull/1342)] [1.0] migration "
+"[[\\#1342](https://github.com/matonnet/UniVRM/pull/1342)] [1.0] migration "
 "fail safe"
 msgstr ""
 
 #: ../../release/079/v0.88.0.md:24
 msgid ""
-"[[\\#1340](https://github.com/vrm-c/UniVRM/pull/1340)] "
+"[[\\#1340](https://github.com/matonnet/UniVRM/pull/1340)] "
 "ReconstructSpringBoneを呼んだ時、デフォルトの回転角の指定が正しく行えない問題を修正"
-msgstr "[[\\#1340](https://github.com/vrm-c/UniVRM/pull/1340)] "
+msgstr "[[\\#1340](https://github.com/matonnet/UniVRM/pull/1340)] "
 "Fix a bug where default rotation is not correctly assigned when calling `ReconstructSpringBone`"
 
 #: ../../release/079/v0.88.0.md:26
@@ -109,20 +109,20 @@ msgid "doc"
 msgstr ""
 
 #: ../../release/079/v0.88.0.md:27
-msgid "[[\\#1337](https://github.com/vrm-c/UniVRM/pull/1337)] sphinx エラー修正"
-msgstr "[[\\#1337](https://github.com/vrm-c/UniVRM/pull/1337)] Fix sphinx errors"
+msgid "[[\\#1337](https://github.com/matonnet/UniVRM/pull/1337)] sphinx エラー修正"
+msgstr "[[\\#1337](https://github.com/matonnet/UniVRM/pull/1337)] Fix sphinx errors"
 
 #: ../../release/079/v0.88.0.md:28
-msgid "[[\\#1336](https://github.com/vrm-c/UniVRM/pull/1336)] Doc/update 20211022"
+msgid "[[\\#1336](https://github.com/matonnet/UniVRM/pull/1336)] Doc/update 20211022"
 msgstr ""
 
 #: ../../release/079/v0.88.0.md:29
-msgid "[[\\#1323](https://github.com/vrm-c/UniVRM/pull/1323)] Doc/update 20211018"
+msgid "[[\\#1323](https://github.com/matonnet/UniVRM/pull/1323)] Doc/update 20211018"
 msgstr ""
 
 #: ../../release/079/v0.88.0.md:30
 msgid ""
-"[[\\#1321](https://github.com/vrm-c/UniVRM/pull/1321)] UniVRM-0.87.0 "
+"[[\\#1321](https://github.com/matonnet/UniVRM/pull/1321)] UniVRM-0.87.0 "
 "release note"
 msgstr ""
 
@@ -131,55 +131,55 @@ msgid "Others"
 msgstr "Other Changes"
 
 #: ../../release/079/v0.88.0.md:33
-msgid "[[\\#1345](https://github.com/vrm-c/UniVRM/pull/1345)] UniVRM-0.88.0"
+msgid "[[\\#1345](https://github.com/matonnet/UniVRM/pull/1345)] UniVRM-0.88.0"
 msgstr ""
 
 #: ../../release/079/v0.88.0.md:34
 msgid ""
-"[[\\#1343](https://github.com/vrm-c/UniVRM/pull/1343)] bufferView の data "
+"[[\\#1343](https://github.com/matonnet/UniVRM/pull/1343)] bufferView の data "
 "uri を実装"
-msgstr "[[\\#1343](https://github.com/vrm-c/UniVRM/pull/1343)] "
+msgstr "[[\\#1343](https://github.com/matonnet/UniVRM/pull/1343)] "
 "Implement the data uri for bufferView"
 
 #: ../../release/079/v0.88.0.md:35
 msgid ""
-"[[\\#1339](https://github.com/vrm-c/UniVRM/pull/1339)] [Maintenance] "
+"[[\\#1339](https://github.com/matonnet/UniVRM/pull/1339)] [Maintenance] "
 "refactoring gltf buffer access"
 msgstr ""
 
 #: ../../release/079/v0.88.0.md:36
 msgid ""
-"[[\\#1338](https://github.com/vrm-c/UniVRM/pull/1338)] "
+"[[\\#1338](https://github.com/matonnet/UniVRM/pull/1338)] "
 "MaterialDescriptorをreadonly structに変更"
-msgstr "[[\\#1338](https://github.com/vrm-c/UniVRM/pull/1338)] "
+msgstr "[[\\#1338](https://github.com/matonnet/UniVRM/pull/1338)] "
 "Change MaterialDescriptor as `readonly struct`"
 
 #: ../../release/079/v0.88.0.md:37
 msgid ""
-"[[\\#1327](https://github.com/vrm-c/UniVRM/pull/1327)] Merge duplicated "
+"[[\\#1327](https://github.com/matonnet/UniVRM/pull/1327)] Merge duplicated "
 "gltfExporter argument `GltfExportSettings`"
 msgstr ""
 
 #: ../../release/079/v0.88.0.md:38
 msgid ""
-"[[\\#1334](https://github.com/vrm-c/UniVRM/pull/1334)] [0.x] Remove "
+"[[\\#1334](https://github.com/matonnet/UniVRM/pull/1334)] [0.x] Remove "
 "RuntimeGltfInstance before saving a prefab."
 msgstr ""
 
 #: ../../release/079/v0.88.0.md:39
 msgid ""
-"[[\\#1330](https://github.com/vrm-c/UniVRM/pull/1330)] "
+"[[\\#1330](https://github.com/matonnet/UniVRM/pull/1330)] "
 "FastSpringBoneがMathf関連のエラーを吐く問題を修正"
-msgstr "[[\\#1330](https://github.com/vrm-c/UniVRM/pull/1330)] "
+msgstr "[[\\#1330](https://github.com/matonnet/UniVRM/pull/1330)] "
 "Fix errors related to FastSpringBone"
 
 #: ../../release/079/v0.88.0.md:40
 msgid ""
-"[[\\#1324](https://github.com/vrm-c/UniVRM/pull/1324)] Normalize "
+"[[\\#1324](https://github.com/matonnet/UniVRM/pull/1324)] Normalize "
 "quaternion on update headTransform.rotation"
 msgstr ""
 
 #: ../../release/079/v0.88.0.md:41
-msgid "[[\\#1322](https://github.com/vrm-c/UniVRM/pull/1322)] fix download url"
+msgid "[[\\#1322](https://github.com/matonnet/UniVRM/pull/1322)] fix download url"
 msgstr ""
 

@@ -11,7 +11,7 @@ namespace UniGLTF
         {
             var path = EditorUtility.OpenFilePanel(MENU_NAME + ": open glb", "",
 #if UNITY_EDITOR_OSX
-                // https://github.com/vrm-c/UniVRM/issues/1837
+                // https://github.com/matonnet/UniVRM/issues/1837
                 "glb"
 #else
                 "gltf,glb,zip"

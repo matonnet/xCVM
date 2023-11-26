@@ -236,7 +236,7 @@ namespace UniGLTF
         }
 
         /// <summary>
-        /// https://github.com/vrm-c/UniVRM/issues/610
+        /// https://github.com/matonnet/UniVRM/issues/610
         ///
         /// VertexBuffer の後ろに未使用頂点がある場合に削除する
         /// </summary>

@@ -1,7 +1,7 @@
 # VRM specifications
 
 VRM is based on glb format, which is a binary form of [glTF 2.0](https://github.com/KhronosGroup/glTF/blob/master/specification/2.0/README.md). It is a model format for VR.
-VRM specification repository is [VRM specification](https://github.com/vrm-c/vrm-specification).
+VRM specification repository is [VRM specification](https://github.com/matonnet/vrm-specification).
 # Update history
 
 * 20181109: Corrected parts where JsonSchema's `Vector3` type is erroneously set to `array`
@@ -84,7 +84,7 @@ Extended as`VRM Extension`in the JSON part of GLB.
 
 VRM JsonSchema:
 
-* https://github.com/vrm-c/vrm-specification/tree/master/specification/0.0/schema
+* https://github.com/matonnet/vrm-specification/tree/master/specification/0.0/schema
 
 GLTF-2.0 JsonSchema:
 
@@ -150,7 +150,7 @@ Saves information that can revert back to GLTF material (it is used when file ex
 Saves VRM unique material information and items necessary for Unity.
 Please refer to [Available shaders in VRM](#vrmshader).
 
-* https://github.com/vrm-c/UniVRM/blob/master/specification/0.0/schema/vrm.material.schema.json
+* https://github.com/matonnet/UniVRM/blob/master/specification/0.0/schema/vrm.material.schema.json
 
 ```js
 {

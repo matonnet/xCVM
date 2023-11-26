@@ -27,7 +27,7 @@ msgid "**Stable 安定板**"
 msgstr "**Stable Version**"
 
 #: ../../release/079/v0.81.0.md:5
-msgid "[v0.81.0](https://github.com/vrm-c/UniVRM/tree/v0.81.0) (2021-08-20)"
+msgid "[v0.81.0](https://github.com/matonnet/UniVRM/tree/v0.81.0) (2021-08-20)"
 msgstr ""
 
 #: ../../release/079/v0.81.0.md:7
@@ -35,13 +35,13 @@ msgid "[Release](http://github.com/vrm-c/UniVRM/releases/tag/v0.81.0)"
 msgstr ""
 
 #: ../../release/079/v0.81.0.md:8
-msgid "[Milestone](https://github.com/vrm-c/UniVRM/milestone/43?closed=1)"
+msgid "[Milestone](https://github.com/matonnet/UniVRM/milestone/43?closed=1)"
 msgstr ""
 
 #: ../../release/079/v0.81.0.md:9
 msgid ""
 "[Full "
-"Changelog](https://github.com/vrm-c/UniVRM/compare/v0.80.0...v0.81.0)"
+"Changelog](https://github.com/matonnet/UniVRM/compare/v0.80.0...v0.81.0)"
 msgstr ""
 
 #: ../../release/079/v0.81.0.md:11
@@ -161,48 +161,48 @@ msgstr "Package Contents"
 #: ../../release/079/v0.81.0.md:44
 msgid ""
 "UniGLTF の UPM id を、`com.vrmc.unigltf` から `com.vrmc.gltf` に変えてバージョンを振り直し "
-"[\\#1156](https://github.com/vrm-c/UniVRM/issues/1156)"
+"[\\#1156](https://github.com/matonnet/UniVRM/issues/1156)"
 msgstr "Rename `com.vrmc.unigltf` to `com.vrmc.gltf` "
-"[\\#1156](https://github.com/vrm-c/UniVRM/issues/1156)"
+"[\\#1156](https://github.com/matonnet/UniVRM/issues/1156)"
 
 #: ../../release/079/v0.81.0.md:45
 msgid ""
 "UnityPackage に Samples を含める "
-"[\\#1159](https://github.com/vrm-c/UniVRM/pull/1159) "
+"[\\#1159](https://github.com/matonnet/UniVRM/pull/1159) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr "Include Samples in UnityPackage "
-"[\\#1159](https://github.com/vrm-c/UniVRM/pull/1159) "
+"[\\#1159](https://github.com/matonnet/UniVRM/pull/1159) "
 "([ousttrue](https://github.com/ousttrue))"
 
 #: ../../release/079/v0.81.0.md:46
 msgid ""
 "内部バージョンは維持 UniGLTF/UniGLTFVersion.cs "
-"[\\#1158](https://github.com/vrm-c/UniVRM/pull/1158) "
+"[\\#1158](https://github.com/matonnet/UniVRM/pull/1158) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr "Keep internal UniGLTF version "
-"[\\#1158](https://github.com/vrm-c/UniVRM/pull/1158) "
+"[\\#1158](https://github.com/matonnet/UniVRM/pull/1158) "
 "([ousttrue](https://github.com/ousttrue))"
 
 #: ../../release/079/v0.81.0.md:47
 msgid ""
 "What difference between \"UniVRM0X\" and \"UniVRM10\" unitypackage? "
 "「UniVRM0X」と「UniVRM10」のユニティパッケージの違いは何ですか？ "
-"[\\#1152](https://github.com/vrm-c/UniVRM/issues/1152)"
+"[\\#1152](https://github.com/matonnet/UniVRM/issues/1152)"
 msgstr "What difference between \"UniVRM0X\" and \"UniVRM10\" unitypackage? (answered) "
-"[\\#1152](https://github.com/vrm-c/UniVRM/issues/1152)"
+"[\\#1152](https://github.com/matonnet/UniVRM/issues/1152)"
 
 #: ../../release/079/v0.81.0.md:48
 msgid ""
 "リリースページの安定版のバージョン番号ミス "
-"[\\#1150](https://github.com/vrm-c/UniVRM/issues/1150)"
+"[\\#1150](https://github.com/matonnet/UniVRM/issues/1150)"
 msgstr "Release version number is not correct "
-"[\\#1150](https://github.com/vrm-c/UniVRM/issues/1150)"
+"[\\#1150](https://github.com/matonnet/UniVRM/issues/1150)"
 
 #: ../../release/079/v0.81.0.md:49
 msgid ""
-"サンプルの構成変更 [\\#1155](https://github.com/vrm-c/UniVRM/pull/1155) "
+"サンプルの構成変更 [\\#1155](https://github.com/matonnet/UniVRM/pull/1155) "
 "([ousttrue](https://github.com/ousttrue))"
-msgstr "Restructure Samples [\\#1155](https://github.com/vrm-c/UniVRM/pull/1155) "
+msgstr "Restructure Samples [\\#1155](https://github.com/matonnet/UniVRM/pull/1155) "
 "([ousttrue](https://github.com/ousttrue))"
 
 #: ../../release/079/v0.81.0.md:51
@@ -212,20 +212,20 @@ msgstr ""
 #: ../../release/079/v0.81.0.md:52
 msgid ""
 "\\[VRM1\\] VRM10/MToon10 のインスペクターの Emission が HDR でない "
-"[\\#1148](https://github.com/vrm-c/UniVRM/issues/1148)"
+"[\\#1148](https://github.com/matonnet/UniVRM/issues/1148)"
 msgstr "\\[VRM1\\] HDR is missing (VRM10/MToon10 Emission) "
-"[\\#1148](https://github.com/vrm-c/UniVRM/issues/1148)"
+"[\\#1148](https://github.com/matonnet/UniVRM/issues/1148)"
 
 #: ../../release/079/v0.81.0.md:53
 msgid ""
 "Feature1/lookat editor tool "
-"[\\#1154](https://github.com/vrm-c/UniVRM/pull/1154) "
+"[\\#1154](https://github.com/matonnet/UniVRM/pull/1154) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/079/v0.81.0.md:54
 msgid ""
-"add \\[HDR\\] [\\#1151](https://github.com/vrm-c/UniVRM/pull/1151) "
+"add \\[HDR\\] [\\#1151](https://github.com/matonnet/UniVRM/pull/1151) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
@@ -236,43 +236,43 @@ msgstr "Other Changes"
 #: ../../release/079/v0.81.0.md:57
 msgid ""
 "Add properties to `RuntimeGltfInstance` "
-"[\\#1096](https://github.com/vrm-c/UniVRM/issues/1096)"
+"[\\#1096](https://github.com/matonnet/UniVRM/issues/1096)"
 msgstr ""
 
 #: ../../release/079/v0.81.0.md:58
 msgid ""
 "\\[0.77\\]AsyncでランタイムロードしたモデルのScaleを1以上にするとSpringBoneの動作が怪しくなる "
-"[\\#1115](https://github.com/vrm-c/UniVRM/issues/1115)"
+"[\\#1115](https://github.com/matonnet/UniVRM/issues/1115)"
 msgstr "\\[0.77\\] Runtime loading with Async: SpringBone behaviors are weird if the model's scale is greater than 1 (answered) "
-"[\\#1115](https://github.com/vrm-c/UniVRM/issues/1115)"
+"[\\#1115](https://github.com/matonnet/UniVRM/issues/1115)"
 
 #: ../../release/079/v0.81.0.md:59
 msgid ""
 "implement Mesh.colors "
-"[\\#1153](https://github.com/vrm-c/UniVRM/pull/1153) "
+"[\\#1153](https://github.com/matonnet/UniVRM/pull/1153) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/079/v0.81.0.md:60
 msgid ""
 "ISSUE\\_TEMPLATE を簡略化 "
-"[\\#1149](https://github.com/vrm-c/UniVRM/pull/1149) "
+"[\\#1149](https://github.com/matonnet/UniVRM/pull/1149) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr "Simplify ISSUE\\_TEMPLATE "
-"[\\#1149](https://github.com/vrm-c/UniVRM/pull/1149) "
+"[\\#1149](https://github.com/matonnet/UniVRM/pull/1149) "
 "([ousttrue](https://github.com/ousttrue))"
 
 #: ../../release/079/v0.81.0.md:61
 msgid ""
 "Update unity version & end preview release "
-"[\\#1147](https://github.com/vrm-c/UniVRM/pull/1147) "
+"[\\#1147](https://github.com/matonnet/UniVRM/pull/1147) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
-#~ msgid "[Release](https://github.com/vrm-c/UniVRM/releases/tag/v0.81.0)"
+#~ msgid "[Release](https://github.com/matonnet/UniVRM/releases/tag/v0.81.0)"
 #~ msgstr ""
 
-#~ msgid "[Milestone](https://github.com/vrm-c/UniVRM/milestone/43?closed=1)"
+#~ msgid "[Milestone](https://github.com/matonnet/UniVRM/milestone/43?closed=1)"
 #~ msgstr ""
 
 #~ msgid "[0.81.0](http://github.com/vrm-c/UniVRM/releases/tag/v0.81.0)"

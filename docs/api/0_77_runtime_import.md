@@ -1,6 +1,6 @@
 # `v0.77` RuntimeImport RuntimeGltfInstance
 
-[DisposeOnGameObjectDestroyed](https://github.com/vrm-c/UniVRM/issues/1018)
+[DisposeOnGameObjectDestroyed](https://github.com/matonnet/UniVRM/issues/1018)
 
 `ImporterContext` の仕様を変更しました。
 

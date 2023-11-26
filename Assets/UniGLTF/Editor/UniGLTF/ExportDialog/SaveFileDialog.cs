@@ -12,7 +12,7 @@ namespace UniGLTF
         {
 #if UNITY_EDITOR_OSX
             // in OSX multi extension cause exception.
-            // https://github.com/vrm-c/UniVRM/issues/1837
+            // https://github.com/matonnet/UniVRM/issues/1837
             return extensions.Length > 0 ? extensions[0] : "";
 #else
             return string.Join(",", extensions);

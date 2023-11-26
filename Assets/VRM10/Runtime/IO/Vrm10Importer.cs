@@ -179,7 +179,7 @@ namespace UniVRM10
                 {
                     // 頂点バッファの連結が必用
                     // VRM-1 はこっち
-                    // https://github.com/vrm-c/UniVRM/issues/800
+                    // https://github.com/matonnet/UniVRM/issues/800
                     mesh = MeshImporterDivided.LoadDivided(src);
                 }
                 mesh.name = src.Name;
@@ -599,9 +599,9 @@ namespace UniVRM10
                             {
                                 throw new IndexOutOfRangeException($"{index} > {Nodes.Count}");
                             }
-                            // https://github.com/vrm-c/UniVRM/issues/1441
+                            // https://github.com/matonnet/UniVRM/issues/1441
                             //
-                            // https://github.com/vrm-c/vrm-specification/blob/master/specification/VRMC_springBone-1.0-beta/schema/VRMC_springBone.joint.schema.json
+                            // https://github.com/matonnet/vrm-specification/blob/master/specification/VRMC_springBone-1.0-beta/schema/VRMC_springBone.joint.schema.json
                             // に基づきデフォルト値を補う
 
                             // node is required
@@ -653,7 +653,7 @@ namespace UniVRM10
         }
 
         /// <summary>
-        /// https://github.com/vrm-c/vrm-specification/tree/master/specification/VRMC_node_constraint-1.0_beta
+        /// https://github.com/matonnet/vrm-specification/tree/master/specification/VRMC_node_constraint-1.0_beta
         /// 
         /// * roll
         /// * aim
@@ -709,7 +709,7 @@ namespace UniVRM10
         {
             switch (bone)
             {
-                // https://github.com/vrm-c/vrm-specification/issues/380
+                // https://github.com/matonnet/vrm-specification/issues/380
                 case VrmLib.HumanoidBones.unknown: return HumanBodyBones.LastBone;
                 case VrmLib.HumanoidBones.leftThumbMetacarpal: return HumanBodyBones.LeftThumbProximal;
                 case VrmLib.HumanoidBones.leftThumbProximal: return HumanBodyBones.LeftThumbIntermediate;

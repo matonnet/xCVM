@@ -68,7 +68,7 @@ msgstr ""
 
 #: ../../implementation/transparent_zwrite.md
 msgid ""
-"[\\#1004](https://github.com/vrm-c/UniVRM/pull/1004) 仕様外のため削除。import すると "
+"[\\#1004](https://github.com/matonnet/UniVRM/pull/1004) 仕様外のため削除。import すると "
 "MToon になるが調整されていない。"
 msgstr ""
 
@@ -81,7 +81,7 @@ msgid "🔺"
 msgstr ""
 
 #: ../../implementation/transparent_zwrite.md
-msgid "[\\#1248](https://github.com/vrm-c/UniVRM/pull/1248) import すると MToon になる。"
+msgid "[\\#1248](https://github.com/matonnet/UniVRM/pull/1248) import すると MToon になる。"
 msgstr ""
 
 #: ../../implementation/transparent_zwrite.md
@@ -89,7 +89,7 @@ msgid "{doc}`v0.88 </release/079/v0.88.0>`"
 msgstr ""
 
 #: ../../implementation/transparent_zwrite.md
-msgid "[\\#1331](https://github.com/vrm-c/UniVRM/pull/1331) MToon 変換を見直し。"
+msgid "[\\#1331](https://github.com/matonnet/UniVRM/pull/1331) MToon 変換を見直し。"
 msgstr ""
 
 #: ../../implementation/transparent_zwrite.md:13

@@ -54,7 +54,7 @@ msgstr ""
 #: ../../release_template.md:15
 msgid ""
 "**Download "
-"[VRM-${version_hash}.unitypackage](https://github.com/vrm-c/UniVRM/releases/download/v${version}/VRM-${version_hash}.unitypackage)**"
+"[VRM-${version_hash}.unitypackage](https://github.com/matonnet/UniVRM/releases/download/v${version}/VRM-${version_hash}.unitypackage)**"
 msgstr ""
 
 #: ../../release_template.md:17 ../../release_template.md:27
@@ -81,7 +81,7 @@ msgstr ""
 #: ../../release_template.md:25
 msgid ""
 "**Download "
-"[UniVRM-${version_hash}.unitypackage](https://github.com/vrm-c/UniVRM/releases/download/v${version}/UniVRM-${version_hash}.unitypackage)**"
+"[UniVRM-${version_hash}.unitypackage](https://github.com/matonnet/UniVRM/releases/download/v${version}/UniVRM-${version_hash}.unitypackage)**"
 msgstr ""
 
 #: ../../release_template.md:30
@@ -113,7 +113,7 @@ msgid "com.vrmc.vrmshaders"
 msgstr ""
 
 #: ../../release_template.md
-msgid "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRMShaders#v${version}"
+msgid "https://github.com/matonnet/UniVRM.git?path=/Assets/VRMShaders#v${version}"
 msgstr ""
 
 #: ../../release_template.md
@@ -121,7 +121,7 @@ msgid "com.vrmc.gltf"
 msgstr ""
 
 #: ../../release_template.md
-msgid "https://github.com/vrm-c/UniVRM.git?path=/Assets/UniGLTF#v${version}"
+msgid "https://github.com/matonnet/UniVRM.git?path=/Assets/UniGLTF#v${version}"
 msgstr ""
 
 #: ../../release_template.md
@@ -129,7 +129,7 @@ msgid "com.vrmc.univrm"
 msgstr ""
 
 #: ../../release_template.md
-msgid "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRM#v${version}"
+msgid "https://github.com/matonnet/UniVRM.git?path=/Assets/VRM#v${version}"
 msgstr ""
 
 #: ../../release_template.md
@@ -137,7 +137,7 @@ msgid "com.vrmc.vrm"
 msgstr ""
 
 #: ../../release_template.md
-msgid "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRM10#v${version}"
+msgid "https://github.com/matonnet/UniVRM.git?path=/Assets/VRM10#v${version}"
 msgstr ""
 
 #: ../../release_template.md:44
@@ -157,7 +157,7 @@ msgid "VRM 1.0 Development Samples"
 msgstr ""
 
 #: ../../release_template.md:64
-msgid "[VRM_Samples-${version_hash}.unitypackage](https://github.com/vrm-c/UniVRM/releases/download/v${version}/VRM_Samples-${version_hash}.unitypackage)"
+msgid "[VRM_Samples-${version_hash}.unitypackage](https://github.com/matonnet/UniVRM/releases/download/v${version}/VRM_Samples-${version_hash}.unitypackage)"
 msgstr ""
 
 #: ../../release_template.md:65
@@ -165,7 +165,7 @@ msgid "VRM 0.x Development Samples"
 msgstr ""
 
 #: ../../release_template.md:66
-msgid "[UniVRM_Samples-${version_hash}.unitypackage](https://github.com/vrm-c/UniVRM/releases/download/v${version}/UniVRM_Samples-${version_hash}.unitypackage)"
+msgid "[UniVRM_Samples-${version_hash}.unitypackage](https://github.com/matonnet/UniVRM/releases/download/v${version}/UniVRM_Samples-${version_hash}.unitypackage)"
 msgstr ""
 
 #: ../../release_template.md:68
@@ -206,12 +206,12 @@ msgstr ""
 
 #~ msgid ""
 #~ "`for vrm-0.x` "
-#~ "[UniVRM-{version_hash}.unitypackage](https://github.com/vrm-c/UniVRM/releases/download/v{version}/UniVRM-{version_hash}.unitypackage)"
+#~ "[UniVRM-{version_hash}.unitypackage](https://github.com/matonnet/UniVRM/releases/download/v{version}/UniVRM-{version_hash}.unitypackage)"
 #~ msgstr ""
 
 #~ msgid ""
 #~ "`for vrm-1.0` "
-#~ "[VRM-{version_hash}.unitypackage](https://github.com/vrm-c/UniVRM/releases/download/v{version}/VRM-{version_hash}.unitypackage)"
+#~ "[VRM-{version_hash}.unitypackage](https://github.com/matonnet/UniVRM/releases/download/v{version}/VRM-{version_hash}.unitypackage)"
 #~ msgstr ""
 
 #~ msgid "ReleaseNote"
@@ -222,12 +222,12 @@ msgstr ""
 
 #~ msgid ""
 #~ "`VRM-0.x API sample` "
-#~ "[UniVRM_Samples-{version_hash}.unitypackage](https://github.com/vrm-c/UniVRM/releases/download/v{version}/UniVRM_Samples-{version_hash}.unitypackage)"
+#~ "[UniVRM_Samples-{version_hash}.unitypackage](https://github.com/matonnet/UniVRM/releases/download/v{version}/UniVRM_Samples-{version_hash}.unitypackage)"
 #~ msgstr ""
 
 #~ msgid ""
 #~ "`VRM-1.0 API sample` "
-#~ "[VRM_Samples-{version_hash}.unitypackage](https://github.com/vrm-c/UniVRM/releases/download/v{version}/VRM_Samples-{version_hash}.unitypackage)"
+#~ "[VRM_Samples-{version_hash}.unitypackage](https://github.com/matonnet/UniVRM/releases/download/v{version}/VRM_Samples-{version_hash}.unitypackage)"
 #~ msgstr ""
 
 #~ msgid "1.0 development (1.0 開発ドキュメント)"
@@ -298,29 +298,29 @@ msgstr ""
 
 #~ msgid ""
 #~ "**Download "
-#~ "[VRM-{version_hash}.unitypackage](https://github.com/vrm-c/UniVRM/releases/download/v{version}/VRM-{version_hash}.unitypackage)**"
+#~ "[VRM-{version_hash}.unitypackage](https://github.com/matonnet/UniVRM/releases/download/v{version}/VRM-{version_hash}.unitypackage)**"
 #~ msgstr ""
 
 #~ msgid ""
 #~ "**Download "
-#~ "[UniVRM-{version_hash}.unitypackage](https://github.com/vrm-c/UniVRM/releases/download/v{version}/UniVRM-{version_hash}.unitypackage)**"
+#~ "[UniVRM-{version_hash}.unitypackage](https://github.com/matonnet/UniVRM/releases/download/v{version}/UniVRM-{version_hash}.unitypackage)**"
 #~ msgstr ""
 
-#~ msgid "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRMShaders#v{version}"
+#~ msgid "https://github.com/matonnet/UniVRM.git?path=/Assets/VRMShaders#v{version}"
 #~ msgstr ""
 
-#~ msgid "https://github.com/vrm-c/UniVRM.git?path=/Assets/UniGLTF#v{version}"
+#~ msgid "https://github.com/matonnet/UniVRM.git?path=/Assets/UniGLTF#v{version}"
 #~ msgstr ""
 
-#~ msgid "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRM#v{version}"
+#~ msgid "https://github.com/matonnet/UniVRM.git?path=/Assets/VRM#v{version}"
 #~ msgstr ""
 
-#~ msgid "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRM10#v{version}"
+#~ msgid "https://github.com/matonnet/UniVRM.git?path=/Assets/VRM10#v{version}"
 #~ msgstr ""
 
-#~ msgid "[VRM_Samples-{version_hash}.unitypackage](https://github.com/vrm-c/UniVRM/releases/download/v{version}/VRM_Samples-{version_hash}.unitypackage)"
+#~ msgid "[VRM_Samples-{version_hash}.unitypackage](https://github.com/matonnet/UniVRM/releases/download/v{version}/VRM_Samples-{version_hash}.unitypackage)"
 #~ msgstr ""
 
-#~ msgid "[UniVRM_Samples-{version_hash}.unitypackage](https://github.com/vrm-c/UniVRM/releases/download/v{version}/UniVRM_Samples-{version_hash}.unitypackage)"
+#~ msgid "[UniVRM_Samples-{version_hash}.unitypackage](https://github.com/matonnet/UniVRM/releases/download/v{version}/UniVRM_Samples-{version_hash}.unitypackage)"
 #~ msgstr ""
 

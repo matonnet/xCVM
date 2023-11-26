@@ -7,7 +7,7 @@ namespace UniVRM10
     /// XR_EXT_hand_tracking の joint を VRM-1.0 の TPose に当てはめたときの方向を定義します。
     /// 
     /// * https://registry.khronos.org/OpenXR/specs/1.0/html/xrspec.html#_conventions_of_hand_joints
-    /// * https://github.com/vrm-c/vrm-specification/blob/master/specification/VRMC_vrm-1.0/tpose.ja.md
+    /// * https://github.com/matonnet/vrm-specification/blob/master/specification/VRMC_vrm-1.0/tpose.ja.md
     /// 
     /// OpenXR は右手系なのに対して Unityは左手系です。
     /// この Rig が期待するボーンの値は、XR_EXT_hand_tracking の Joint の値を Z軸反転で座標変換したものです。

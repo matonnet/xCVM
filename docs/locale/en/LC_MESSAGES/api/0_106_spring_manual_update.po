@@ -28,7 +28,7 @@ msgid "from {doc}`v0.106.0</release/100/v0.106.0>`"
 msgstr ""
 
 #: ../../api/0_106_spring_manual_update.md:5
-msgid "[\\#1866](https://github.com/vrm-c/UniVRM/pull/1886)"
+msgid "[\\#1866](https://github.com/matonnet/UniVRM/pull/1886)"
 msgstr ""
 
 #: ../../api/0_106_spring_manual_update.md:7

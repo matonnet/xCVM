@@ -102,7 +102,7 @@ namespace UniGLTF
             // エクスポート対象が単一の GameObject の場合に、
             // ダミー親 "m_tmpParent" を一時的に作成する。
             //
-            // https://github.com/vrm-c/UniVRM/pull/736
+            // https://github.com/matonnet/UniVRM/pull/736
             if (Copy.transform.childCount == 0)
             {
                 m_tmpParent = new GameObject("tmpParent");

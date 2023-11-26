@@ -251,7 +251,7 @@ namespace VRM
         /// <summary>
         /// Set target renderer visibility
         /// 
-        /// https://github.com/vrm-c/xCVM/issues/633#issuecomment-758454045
+        /// https://github.com/matonnet/xCVM/issues/633#issuecomment-758454045
         /// 
         /// </summary>
         /// <param name="renderer">Target renderer. Player avatar or other</param>

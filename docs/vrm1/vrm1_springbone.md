@@ -5,7 +5,7 @@
 
 ## `v0.106.0` 毎フレーム外力を加える
 
-- [\# 1863](https://github.com/vrm-c/UniVRM/pull/1868)
+- [\# 1863](https://github.com/matonnet/UniVRM/pull/1868)
 
 ```{admonition} 外力
 :class: info

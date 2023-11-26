@@ -23,21 +23,21 @@ msgid "v0.66.0"
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:3
-msgid "[v0.66.0](https://github.com/vrm-c/UniVRM/tree/v0.66.0) (2021-02-03)"
+msgid "[v0.66.0](https://github.com/matonnet/UniVRM/tree/v0.66.0) (2021-02-03)"
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:5
-msgid "[Release](https://github.com/vrm-c/UniVRM/releases/tag/v0.66.0)"
+msgid "[Release](https://github.com/matonnet/UniVRM/releases/tag/v0.66.0)"
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:6
-msgid "[Milestone](https://github.com/vrm-c/UniVRM/milestone/26?closed=1)"
+msgid "[Milestone](https://github.com/matonnet/UniVRM/milestone/26?closed=1)"
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:8
 msgid ""
 "[Full "
-"Changelog](https://github.com/vrm-c/UniVRM/compare/v0.65.3...v0.66.0)"
+"Changelog](https://github.com/matonnet/UniVRM/compare/v0.65.3...v0.66.0)"
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:10
@@ -53,7 +53,7 @@ msgid "正規化時にSpringBoneColliderがスケールに追従するように�
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:15
-msgid "Fix/springbone scaling [\\#720](https://github.com/vrm-c/UniVRM/pull/720)"
+msgid "Fix/springbone scaling [\\#720](https://github.com/matonnet/UniVRM/pull/720)"
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:17
@@ -65,7 +65,7 @@ msgid "JSON文字列の `\\u8868` 形式のUnicodeを読めるようになりま
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:20
-msgid "Fix/json unicode escape [\\#719](https://github.com/vrm-c/UniVRM/pull/719)"
+msgid "Fix/json unicode escape [\\#719](https://github.com/matonnet/UniVRM/pull/719)"
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:22
@@ -75,7 +75,7 @@ msgstr ""
 #: ../../release/056/v0.66.0.md:24
 msgid ""
 "moved BoneMeshEraser to MeshUtility editor "
-"[\\#718](https://github.com/vrm-c/UniVRM/pull/718)"
+"[\\#718](https://github.com/matonnet/UniVRM/pull/718)"
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:26
@@ -83,39 +83,39 @@ msgid "VRM-1.0 準備"
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:28
-msgid "fix UNITY_EDITOR [\\#725](https://github.com/vrm-c/UniVRM/pull/725)"
+msgid "fix UNITY_EDITOR [\\#725](https://github.com/matonnet/UniVRM/pull/725)"
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:29
-msgid "use SetWeight [\\#724](https://github.com/vrm-c/UniVRM/pull/724)"
+msgid "use SetWeight [\\#724](https://github.com/matonnet/UniVRM/pull/724)"
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:30
 msgid ""
 "Implemented VrmLib.ExpressionPreset.Surprised "
-"[\\#722](https://github.com/vrm-c/UniVRM/pull/722)"
+"[\\#722](https://github.com/matonnet/UniVRM/pull/722)"
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:31
 msgid ""
 "Fix ExpressionPreset conversion problem in migration. "
-"[\\#715](https://github.com/vrm-c/UniVRM/pull/715)"
+"[\\#715](https://github.com/matonnet/UniVRM/pull/715)"
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:32
 msgid ""
 "Implements expression overriding "
-"[\\#714](https://github.com/vrm-c/UniVRM/pull/714)"
+"[\\#714](https://github.com/matonnet/UniVRM/pull/714)"
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:33
 msgid ""
 "Refactoring Expression & LookAt for impl VRM1.0 Expression constraint "
-"spec. [\\#713](https://github.com/vrm-c/UniVRM/pull/713)"
+"spec. [\\#713](https://github.com/matonnet/UniVRM/pull/713)"
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:34
-msgid "add VRM10Viewer sample [\\#709](https://github.com/vrm-c/UniVRM/pull/709)"
+msgid "add VRM10Viewer sample [\\#709](https://github.com/matonnet/UniVRM/pull/709)"
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:36
@@ -123,16 +123,16 @@ msgid "その他のChangelog"
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:38
-msgid "new list [\\#723](https://github.com/vrm-c/UniVRM/pull/723)"
+msgid "new list [\\#723](https://github.com/matonnet/UniVRM/pull/723)"
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:39
 msgid ""
-"Upgrade MToon [\\#716](https://github.com/vrm-c/UniVRM/pull/716) "
+"Upgrade MToon [\\#716](https://github.com/matonnet/UniVRM/pull/716) "
 "([nowsprinting](https://github.com/nowsprinting))"
 msgstr ""
 
 #: ../../release/056/v0.66.0.md:40
-msgid "Optimize string APIs [\\#710](https://github.com/vrm-c/UniVRM/pull/710)"
+msgid "Optimize string APIs [\\#710](https://github.com/matonnet/UniVRM/pull/710)"
 msgstr ""
 

@@ -90,7 +90,7 @@ def change_log(repo: git.repo.Repo, version: str):
                 lines = msg.split("\n")
 
                 w.write(
-                    f"* [[\\#{pr}](https://github.com/vrm-c/UniVRM/pull/{pr})] {lines[2]}\n"
+                    f"* [[\\#{pr}](https://github.com/matonnet/UniVRM/pull/{pr})] {lines[2]}\n"
                 )
             else:
                 w.write(f"* {msg}")

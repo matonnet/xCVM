@@ -35,7 +35,7 @@ msgid "`v0.106.0` 毎フレーム外力を加える"
 msgstr "`v0.106.0` apply external force every frame"
 
 #: ../../vrm1/vrm1_springbone.md:8
-msgid "[\\# 1863](https://github.com/vrm-c/UniVRM/pull/1868)"
+msgid "[\\# 1863](https://github.com/matonnet/UniVRM/pull/1868)"
 msgstr ""
 
 #: ../../vrm1/vrm1_springbone.md:10

@@ -6,7 +6,7 @@ namespace VRMShaders
 {
     /// <summary>
     ///
-    /// * https://github.com/vrm-c/UniVRM/issues/781
+    /// * https://github.com/matonnet/UniVRM/issues/781
     ///
     /// Unity = glTF
     /// Occlusion: unity.g = glTF.r

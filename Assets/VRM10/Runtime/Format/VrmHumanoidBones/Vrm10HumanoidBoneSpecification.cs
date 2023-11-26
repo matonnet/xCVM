@@ -7,7 +7,7 @@ namespace UniVRM10
     public sealed class Vrm10HumanoidBoneSpecification
     {
         /// <summary>
-        /// https://github.com/vrm-c/vrm-specification/blob/master/specification/VRMC_vrm-1.0/humanoid.md
+        /// https://github.com/matonnet/vrm-specification/blob/master/specification/VRMC_vrm-1.0/humanoid.md
         /// </summary>
         private readonly List<Vrm10HumanoidBoneAttribute> _specification = new List<Vrm10HumanoidBoneAttribute>
         {

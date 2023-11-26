@@ -7,7 +7,7 @@ namespace VRM
 {
     static class VRMSpringBoneValidator
     {
-        // https://github.com/vrm-c/UniVRM/issues/474
+        // https://github.com/matonnet/UniVRM/issues/474
         public static IEnumerable<Validation> Validate(GameObject root)
         {
             if (root == null)

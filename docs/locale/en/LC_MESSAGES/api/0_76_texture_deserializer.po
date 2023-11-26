@@ -35,7 +35,7 @@ msgid "UniVRM が使用するデフォルトの実装は `UnityTextureDeserializ
 msgstr "UniVRM default implementation is `UnityTextureDeserializer`."
 
 #: ../../api/0_76_texture_deserializer.md:9
-msgid "<https://github.com/vrm-c/UniVRM/blob/master/Assets/VRMShaders/GLTF/IO/Runtime/Texture/Importer/UnityTextureDeserializer.cs>"
+msgid "<https://github.com/matonnet/UniVRM/blob/master/Assets/VRMShaders/GLTF/IO/Runtime/Texture/Importer/UnityTextureDeserializer.cs>"
 msgstr ""
 
 #: ../../api/0_76_texture_deserializer.md:11
@@ -117,7 +117,7 @@ msgid "ISSUE に使用例をいただきました。"
 msgstr "I got a usage example in ISSUE."
 
 #: ../../api/0_76_texture_deserializer.md:75
-msgid "<https://github.com/vrm-c/UniVRM/issues/1982>"
+msgid "<https://github.com/matonnet/UniVRM/issues/1982>"
 msgstr ""
 
 #: ../../api/0_76_texture_deserializer.md:77

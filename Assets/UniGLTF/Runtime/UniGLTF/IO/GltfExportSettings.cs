@@ -11,7 +11,7 @@ namespace UniGLTF
         public Axes InverseAxis = Axes.Z;
 
         /// <summary>
-        /// https://github.com/vrm-c/UniVRM/issues/800
+        /// https://github.com/matonnet/UniVRM/issues/800
         ///
         /// VertexBuffer を共有バッファ方式にする
         /// UniVRM-0.71.0 までの挙動
@@ -43,7 +43,7 @@ namespace UniGLTF
         public bool ExportVertexColor;
 
         /// <summary>
-        /// https://github.com/vrm-c/UniVRM/issues/1582
+        /// https://github.com/matonnet/UniVRM/issues/1582
         /// 
         /// Allowed hide flags for MeshFilters to be exported
         /// </summary>

@@ -35,6 +35,6 @@ msgid "URP マテリアルを生成するようにカスタムする例です。
 msgstr ""
 
 #: ../../gltf/how_to_customize_material_import.md:9
-msgid "<https://github.com/vrm-c/UniVRM/issues/1214>"
+msgid "<https://github.com/matonnet/UniVRM/issues/1214>"
 msgstr ""
 

@@ -18,6 +18,6 @@ unihumanoid/index
 
 ```{toctree}
 :caption: external
-UniVRM(github) <https://github.com/vrm-c/UniVRM>
+UniVRM(github) <https://github.com/matonnet/UniVRM>
 VRM <https://vrm.dev/>
 ```

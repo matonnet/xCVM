@@ -23,7 +23,7 @@ msgid "v0.82.0: 1.0準備, URP 向け Material置き換え機能"
 msgstr "v0.82.0: Road to 1.0. Material Customization for URP"
 
 #: ../../release/079/v0.82.0.md:3
-msgid "[v0.82.0](https://github.com/vrm-c/UniVRM/tree/v0.82.0) (2021-09-01)"
+msgid "[v0.82.0](https://github.com/matonnet/UniVRM/tree/v0.82.0) (2021-09-01)"
 msgstr ""
 
 #: ../../release/079/v0.82.0.md:4
@@ -31,13 +31,13 @@ msgid "[Release](http://github.com/vrm-c/UniVRM/releases/tag/v0.82.0)"
 msgstr ""
 
 #: ../../release/079/v0.82.0.md:5
-msgid "[Milestone](https://github.com/vrm-c/UniVRM/milestone/44?closed=1)"
+msgid "[Milestone](https://github.com/matonnet/UniVRM/milestone/44?closed=1)"
 msgstr ""
 
 #: ../../release/079/v0.82.0.md:6
 msgid ""
 "[Full "
-"Changelog](https://github.com/vrm-c/UniVRM/compare/v0.81.0...v0.82.0)"
+"Changelog](https://github.com/matonnet/UniVRM/compare/v0.81.0...v0.82.0)"
 msgstr ""
 
 #: ../../release/079/v0.82.0.md:7
@@ -61,7 +61,7 @@ msgstr "`TODO:` Documents for app developers"
 #: ../../release/079/v0.82.0.md:14
 msgid ""
 "Add MaterialGenerator customization point \\(for URP\\) "
-"[\\#1177](https://github.com/vrm-c/UniVRM/pull/1177) "
+"[\\#1177](https://github.com/matonnet/UniVRM/pull/1177) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
@@ -72,42 +72,42 @@ msgstr ""
 #: ../../release/079/v0.82.0.md:18
 msgid ""
 "\\[1.0\\]extract の一覧に matcap など一部のテクスチャーが一覧されない "
-"[\\#1171](https://github.com/vrm-c/UniVRM/issues/1171)"
+"[\\#1171](https://github.com/matonnet/UniVRM/issues/1171)"
 msgstr "\\[1.0\\] Some textures such as matcap are not displayed in the extract list "
-"[\\#1171](https://github.com/vrm-c/UniVRM/issues/1171)"
+"[\\#1171](https://github.com/matonnet/UniVRM/issues/1171)"
 
 #: ../../release/079/v0.82.0.md:19
 msgid ""
 "\\[1.0\\] MToon10でエクスポートするとStandardになってしまう "
-"[\\#1164](https://github.com/vrm-c/UniVRM/issues/1164)"
+"[\\#1164](https://github.com/matonnet/UniVRM/issues/1164)"
 msgstr "\\[1.0\\] The model with MToon10 materials becomes Standard during export "
-"[\\#1164](https://github.com/vrm-c/UniVRM/issues/1164)"
+"[\\#1164](https://github.com/matonnet/UniVRM/issues/1164)"
 
 #: ../../release/079/v0.82.0.md:20
 msgid ""
 "\\[1.0\\] Vrm-1.0 の Texture 列挙を修正 "
-"[\\#1174](https://github.com/vrm-c/UniVRM/pull/1174) "
+"[\\#1174](https://github.com/matonnet/UniVRM/pull/1174) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr "\\[1.0\\] Generate texture keys correctly in Vrm-1.0 "
-"[\\#1174](https://github.com/vrm-c/UniVRM/pull/1174) "
+"[\\#1174](https://github.com/matonnet/UniVRM/pull/1174) "
 "([ousttrue](https://github.com/ousttrue))"
 
 #: ../../release/079/v0.82.0.md:21
 msgid ""
 "SubAssetでも中を見れるように、デフォルトで AdvancedMode にする "
-"[\\#1168](https://github.com/vrm-c/UniVRM/pull/1168) "
+"[\\#1168](https://github.com/matonnet/UniVRM/pull/1168) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr "Make the contents in SubAsset visible by setting edit mode as `Advanced` "
-"[\\#1168](https://github.com/vrm-c/UniVRM/pull/1168) "
+"[\\#1168](https://github.com/matonnet/UniVRM/pull/1168) "
 "([ousttrue](https://github.com/ousttrue))"
 
 #: ../../release/079/v0.82.0.md:22
 msgid ""
 "play mode の expression preview "
-"[\\#1169](https://github.com/vrm-c/UniVRM/pull/1169) "
+"[\\#1169](https://github.com/matonnet/UniVRM/pull/1169) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr "Add expression preview in play mode "
-"[\\#1169](https://github.com/vrm-c/UniVRM/pull/1169) "
+"[\\#1169](https://github.com/matonnet/UniVRM/pull/1169) "
 "([ousttrue](https://github.com/ousttrue))"
 
 #: ../../release/079/v0.82.0.md:24
@@ -115,60 +115,60 @@ msgid "その他のChangelog"
 msgstr "Other Changes"
 
 #: ../../release/079/v0.82.0.md:25
-msgid "Sampleの構成 [\\#1068](https://github.com/vrm-c/UniVRM/issues/1068)"
-msgstr "Sample structure [\\#1068](https://github.com/vrm-c/UniVRM/issues/1068)"
+msgid "Sampleの構成 [\\#1068](https://github.com/matonnet/UniVRM/issues/1068)"
+msgstr "Sample structure [\\#1068](https://github.com/matonnet/UniVRM/issues/1068)"
 
 #: ../../release/079/v0.82.0.md:26
 msgid ""
-"Error Message [\\#1180](https://github.com/vrm-c/UniVRM/pull/1180) "
+"Error Message [\\#1180](https://github.com/matonnet/UniVRM/pull/1180) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/079/v0.82.0.md:27
 msgid ""
-"UniVRM-0.82.0 [\\#1179](https://github.com/vrm-c/UniVRM/pull/1179) "
+"UniVRM-0.82.0 [\\#1179](https://github.com/matonnet/UniVRM/pull/1179) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/079/v0.82.0.md:28
 msgid ""
 "add VRM10AutoExpression for VRM10Viewer. move test\\_motion.txt "
-"[\\#1173](https://github.com/vrm-c/UniVRM/pull/1173) "
+"[\\#1173](https://github.com/matonnet/UniVRM/pull/1173) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/079/v0.82.0.md:29
 msgid ""
-"simple [\\#1172](https://github.com/vrm-c/UniVRM/pull/1172) "
+"simple [\\#1172](https://github.com/matonnet/UniVRM/pull/1172) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/079/v0.82.0.md:30
 msgid ""
 "Fix10/mtoon export/import "
-"[\\#1167](https://github.com/vrm-c/UniVRM/pull/1167) "
+"[\\#1167](https://github.com/matonnet/UniVRM/pull/1167) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/079/v0.82.0.md:31
 msgid ""
-"Fix/readme etc [\\#1161](https://github.com/vrm-c/UniVRM/pull/1161) "
+"Fix/readme etc [\\#1161](https://github.com/matonnet/UniVRM/pull/1161) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
 #: ../../release/079/v0.82.0.md:32
 msgid ""
-"UniVRM-0.81.0 [\\#1157](https://github.com/vrm-c/UniVRM/pull/1157) "
+"UniVRM-0.81.0 [\\#1157](https://github.com/matonnet/UniVRM/pull/1157) "
 "([ousttrue](https://github.com/ousttrue))"
 msgstr ""
 
-#~ msgid "[Release](https://github.com/vrm-c/UniVRM/releases/tag/v0.82.0)"
+#~ msgid "[Release](https://github.com/matonnet/UniVRM/releases/tag/v0.82.0)"
 #~ msgstr ""
 
 #~ msgid ""
-#~ "[Milestone](https://github.com/vrm-c/UniVRM/milestone/44?closed=1) "
+#~ "[Milestone](https://github.com/matonnet/UniVRM/milestone/44?closed=1) "
 #~ "[Full "
-#~ "Changelog](https://github.com/vrm-c/UniVRM/compare/v0.81.0...v0.82.0)"
+#~ "Changelog](https://github.com/matonnet/UniVRM/compare/v0.81.0...v0.82.0)"
 #~ msgstr ""
 
 #~ msgid "[0.82.0](http://github.com/vrm-c/UniVRM/releases/tag/v0.82.0)"

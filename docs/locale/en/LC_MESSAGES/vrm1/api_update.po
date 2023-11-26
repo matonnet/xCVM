@@ -70,7 +70,7 @@ msgid "Expression"
 msgstr ""
 
 #: ../../vrm1/api_update.md:6
-msgid "<https://github.com/vrm-c/UniVRM/blob/master/Assets/VRM10/Runtime/Components/Vrm10Runtime/Vrm10Runtime.csharp#L170>"
+msgid "<https://github.com/matonnet/UniVRM/blob/master/Assets/VRM10/Runtime/Components/Vrm10Runtime/Vrm10Runtime.csharp#L170>"
 msgstr ""
 
 #: ../../vrm1/api_update.md:8

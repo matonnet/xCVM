@@ -170,7 +170,7 @@ namespace VRM
         bool m_foldoutPermission = true;
         bool m_foldoutDistribution = true;
 
-        const string RELEASE_URL = "https://github.com/vrm-c/UniVRM/releases";
+        const string RELEASE_URL = "https://github.com/matonnet/UniVRM/releases";
 
         public override void OnInspectorGUI()
         {

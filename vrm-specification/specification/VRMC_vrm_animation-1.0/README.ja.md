@@ -68,12 +68,12 @@ Draft
 
 glTF 2.0仕様に向けて策定されています。
 
-また、仕様内の一部定義が [`VRMC_vrm`](https://github.com/vrm-c/vrm-specification/blob/master/specification/VRMC_vrm-1.0/README.ja.md) に依存します。
+また、仕様内の一部定義が [`VRMC_vrm`](https://github.com/matonnet/vrm-specification/blob/master/specification/VRMC_vrm-1.0/README.ja.md) に依存します。
 
 ## Overview
 
 `VRMC_vrm_animation` 仕様は、人間型モデルに対するアニメーションを記述するためのglTF拡張です。
-人間型モデルを記述するglTF拡張である [`VRMC_vrm`](https://github.com/vrm-c/vrm-specification/blob/master/specification/VRMC_vrm-1.0/README.ja.md) で表現されたモデルに対して適用することを想定しています。
+人間型モデルを記述するglTF拡張である [`VRMC_vrm`](https://github.com/matonnet/vrm-specification/blob/master/specification/VRMC_vrm-1.0/README.ja.md) で表現されたモデルに対して適用することを想定しています。
 
 glTFで定義されたノードのヒエラルキーに対して、各ノードと人間のボーン・表情・注視点を関連付けて、任意の人間型モデルに適用できるアニメーションを表現します。
 アニメーションの実データは、glTFのコア定義のアニメーション部分を利用します。
@@ -107,7 +107,7 @@ Humanoidは、本拡張内で定義する人間のボーンの定義です。
 `VRMC_vrm_animation/humanoid` 内で、glTFのノードと人間のボーンの対応関係を示します。
 Humanoidで利用するボーンおよびその構造について、 `VRMC_vrm` 拡張のHumanoidに準拠します。
 
-https://github.com/vrm-c/vrm-specification/blob/master/specification/VRMC_vrm-1.0/humanoid.ja.md
+https://github.com/matonnet/vrm-specification/blob/master/specification/VRMC_vrm-1.0/humanoid.ja.md
 
 ただし、Humanoidボーンのうち `leftEye` ・ `rightEye` は、これらに対してアニメーションデータを持つことはできません。
 これらは、後述するLookAtで扱われます。
@@ -116,7 +116,7 @@ https://github.com/vrm-c/vrm-specification/blob/master/specification/VRMC_vrm-1.
 
 Humanoidボーンとして指定されたノードは、アニメーションが適用されていないレストポーズにおいて、「VRM T-pose」と呼ばれるポーズに従っている必要があります。
 
-https://github.com/vrm-c/vrm-specification/blob/master/specification/VRMC_vrm-1.0/tpose.ja.md
+https://github.com/matonnet/vrm-specification/blob/master/specification/VRMC_vrm-1.0/tpose.ja.md
 
 Humanoidボーンとして指定されたノードに対するアニメーションを、アニメーションデータとして扱います。
 Humanoidボーンに対するアニメーションにスケールを含めてはいけません。
@@ -137,7 +137,7 @@ Expressionsは、本拡張内で定義する人間の表情の定義です。
 `VRMC_vrm_animation/expressions` 内で、glTFのノードと表情との対応関係を示します。
 Expressionsの定義について、 `VRMC_vrm` 拡張のExpressionsに準拠します。
 
-https://github.com/vrm-c/vrm-specification/blob/master/specification/VRMC_vrm-1.0/expressions.ja.md
+https://github.com/matonnet/vrm-specification/blob/master/specification/VRMC_vrm-1.0/expressions.ja.md
 
 ただし、プリセット表情のうち `lookUp` ・ `lookDown` ・ `lookLeft` ・ `lookRight` は、これらに対してアニメーションデータを持つことはできません。
 これらは、後述するLookAtで扱われます。

@@ -23,7 +23,7 @@ msgid "`v0.77` RuntimeImport RuntimeGltfInstance"
 msgstr ""
 
 #: ../../api/0_77_runtime_import.md:3
-msgid "[DisposeOnGameObjectDestroyed](https://github.com/vrm-c/UniVRM/issues/1018)"
+msgid "[DisposeOnGameObjectDestroyed](https://github.com/matonnet/UniVRM/issues/1018)"
 msgstr ""
 
 #: ../../api/0_77_runtime_import.md:5

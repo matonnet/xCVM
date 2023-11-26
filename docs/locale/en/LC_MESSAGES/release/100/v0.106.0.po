@@ -32,29 +32,29 @@ msgstr "UI fix for setting up 1.0 in UnityEditor"
 
 #: ../../release/100/v0.106.0.md:6
 msgid ""
-"[[\\#1887](https://github.com/vrm-c/UniVRM/pull/1887)] "
+"[[\\#1887](https://github.com/matonnet/UniVRM/pull/1887)] "
 "サポートされていないシェーダーが含まれるモデルのプレビューをできるように"
 msgstr ""
-"[[\\#1887](https://github.com/vrm-c/UniVRM/pull/1887)] Ability to preview"
+"[[\\#1887](https://github.com/matonnet/UniVRM/pull/1887)] Ability to preview"
 " models with unsupported shaders"
 
 #: ../../release/100/v0.106.0.md:7
 msgid ""
-"[[\\#1877](https://github.com/vrm-c/UniVRM/pull/1877)] [1.0] AddComponent"
+"[[\\#1877](https://github.com/matonnet/UniVRM/pull/1877)] [1.0] AddComponent"
 " による新規セットアップ関連"
 msgstr ""
-"[[\\#1877](https://github.com/vrm-c/UniVRM/pull/1877)] [1.0]AddComponent "
+"[[\\#1877](https://github.com/matonnet/UniVRM/pull/1877)] [1.0]AddComponent "
 "and then setup UI"
 
 #: ../../release/100/v0.106.0.md:8
 msgid ""
-"[[\\#1876](https://github.com/vrm-c/UniVRM/pull/1876)] [1.0] SpringBone の"
+"[[\\#1876](https://github.com/matonnet/UniVRM/pull/1876)] [1.0] SpringBone の"
 " 設定 UI"
 msgstr "SpringBone's configuration UI"
 
 #: ../../release/100/v0.106.0.md:9
 msgid ""
-"[[\\#1885](https://github.com/vrm-c/UniVRM/pull/1885)] "
+"[[\\#1885](https://github.com/matonnet/UniVRM/pull/1885)] "
 "親指の向き・爪の向きのガイドを行うGizmo"
 msgstr "Gizmo guides the direction of the thumb and the direction of the nail"
 
@@ -68,16 +68,16 @@ msgstr "Fixed issues when building an Application"
 
 #: ../../release/100/v0.106.0.md:14
 msgid ""
-"[[\\#1884](https://github.com/vrm-c/UniVRM/pull/1884)] remove ThisType? "
+"[[\\#1884](https://github.com/matonnet/UniVRM/pull/1884)] remove ThisType? "
 "field."
 msgstr ""
 
 #: ../../release/100/v0.106.0.md:15
-msgid "[[\\#1893](https://github.com/vrm-c/UniVRM/pull/1893)] ビルドエラーを修正"
-msgstr "[[\\#1893](https://github.com/vrm-c/UniVRM/pull/1893)] fix build error"
+msgid "[[\\#1893](https://github.com/matonnet/UniVRM/pull/1893)] ビルドエラーを修正"
+msgstr "[[\\#1893](https://github.com/matonnet/UniVRM/pull/1893)] fix build error"
 
 #: ../../release/100/v0.106.0.md:16
-msgid "[[\\#1892](https://github.com/vrm-c/UniVRM/pull/1892)] ShaderVariant"
+msgid "[[\\#1892](https://github.com/matonnet/UniVRM/pull/1892)] ShaderVariant"
 msgstr ""
 
 #: ../../release/100/v0.106.0.md:18
@@ -90,10 +90,10 @@ msgstr "Addition of functions, etc."
 
 #: ../../release/100/v0.106.0.md:21
 msgid ""
-"[[\\#1886](https://github.com/vrm-c/UniVRM/pull/1886)] [1.0][0.x] "
+"[[\\#1886](https://github.com/matonnet/UniVRM/pull/1886)] [1.0][0.x] "
 "SpringBone の手動更新"
 msgstr ""
-"[[\\#1886](https://github.com/vrm-c/UniVRM/pull/1886)] [1.0][0.x] Manual "
+"[[\\#1886](https://github.com/matonnet/UniVRM/pull/1886)] [1.0][0.x] Manual "
 "Update of SpringBone"
 
 #: ../../release/100/v0.106.0.md:22
@@ -106,10 +106,10 @@ msgstr ""
 
 #: ../../release/100/v0.106.0.md:24
 msgid ""
-"[[\\#1868](https://github.com/vrm-c/UniVRM/pull/1868)] "
+"[[\\#1868](https://github.com/matonnet/UniVRM/pull/1868)] "
 "SpringBoneに対して外力を渡すインターフェースを実装する"
 msgstr ""
-"[[\\#1868](https://github.com/vrm-c/UniVRM/pull/1868)] Implement an "
+"[[\\#1868](https://github.com/matonnet/UniVRM/pull/1868)] Implement an "
 "interface that passes external force to SpringBone"
 
 #: ../../release/100/v0.106.0.md:25
@@ -117,9 +117,9 @@ msgid "{doc}`毎フレーム外力を加える</vrm1/vrm1_springbone>`"
 msgstr "{doc}`Apply external force every frame</vrm1/vrm1_springbone>`"
 
 #: ../../release/100/v0.106.0.md:26
-msgid "[[\\#1878](https://github.com/vrm-c/UniVRM/pull/1878)] modGltf 引き数を追加"
+msgid "[[\\#1878](https://github.com/matonnet/UniVRM/pull/1878)] modGltf 引き数を追加"
 msgstr ""
-"[[\\#1878](https://github.com/vrm-c/UniVRM/pull/1878)] Add modGltf "
+"[[\\#1878](https://github.com/matonnet/UniVRM/pull/1878)] Add modGltf "
 "argument"
 
 #: ../../release/100/v0.106.0.md:27 ../../release/100/v0.106.0.md:29
@@ -128,12 +128,12 @@ msgid "{doc}`MigrateExporter</vrm1/vrm1_migration>`"
 msgstr ""
 
 #: ../../release/100/v0.106.0.md:28
-msgid "[[\\#1872](https://github.com/vrm-c/UniVRM/pull/1872)] add MigrateExporter"
+msgid "[[\\#1872](https://github.com/matonnet/UniVRM/pull/1872)] add MigrateExporter"
 msgstr ""
 
 #: ../../release/100/v0.106.0.md:30
 msgid ""
-"[[\\#1859](https://github.com/vrm-c/UniVRM/pull/1859)] feature: add third"
+"[[\\#1859](https://github.com/matonnet/UniVRM/pull/1859)] feature: add third"
 " argument `vrmMeta` to static Vrm10Exporter.Export"
 msgstr ""
 
@@ -142,43 +142,43 @@ msgid "other"
 msgstr ""
 
 #: ../../release/100/v0.106.0.md:34
-msgid "[[\\#1889](https://github.com/vrm-c/UniVRM/pull/1889)] UniVRM-0.106.0"
+msgid "[[\\#1889](https://github.com/matonnet/UniVRM/pull/1889)] UniVRM-0.106.0"
 msgstr ""
 
 #: ../../release/100/v0.106.0.md:35
 msgid ""
-"[[\\#1888](https://github.com/vrm-c/UniVRM/pull/1888)] fix: Fix outdated "
+"[[\\#1888](https://github.com/matonnet/UniVRM/pull/1888)] fix: Fix outdated "
 "exception message"
 msgstr ""
 
 #: ../../release/100/v0.106.0.md:36
 msgid ""
-"[[\\#1883](https://github.com/vrm-c/UniVRM/pull/1883)] Fix/export no "
+"[[\\#1883](https://github.com/matonnet/UniVRM/pull/1883)] Fix/export no "
 "active"
 msgstr ""
 
 #: ../../release/100/v0.106.0.md:37
 msgid ""
-"[[\\#1882](https://github.com/vrm-c/UniVRM/pull/1882)] Fix/osx multi "
+"[[\\#1882](https://github.com/matonnet/UniVRM/pull/1882)] Fix/osx multi "
 "extensions"
 msgstr ""
 
 #: ../../release/100/v0.106.0.md:38
 msgid ""
-"[[\\#1858](https://github.com/vrm-c/UniVRM/pull/1858)] "
+"[[\\#1858](https://github.com/matonnet/UniVRM/pull/1858)] "
 "Packageに導入される時の警告を消す"
 msgstr ""
-"[[\\#1858](https://github.com/vrm-c/UniVRM/pull/1858)] Eliminate warnings"
+"[[\\#1858](https://github.com/matonnet/UniVRM/pull/1858)] Eliminate warnings"
 " when introduced into a Package"
 
 #: ../../release/100/v0.106.0.md:39
 msgid ""
-"[[\\#1864](https://github.com/vrm-c/UniVRM/pull/1864)] 素直な static type "
+"[[\\#1864](https://github.com/matonnet/UniVRM/pull/1864)] 素直な static type "
 "caching 技法になるように書き直し"
 msgstr ""
-"[[\\#1864](https://github.com/vrm-c/UniVRM/pull/1864)] Rewritten to be a "
+"[[\\#1864](https://github.com/matonnet/UniVRM/pull/1864)] Rewritten to be a "
 "straightforward static type caching technique"
 
 #: ../../release/100/v0.106.0.md:40
-msgid "[[\\#1853](https://github.com/vrm-c/UniVRM/pull/1853)] Doc/v0 105 0"
+msgid "[[\\#1853](https://github.com/matonnet/UniVRM/pull/1853)] Doc/v0 105 0"
 msgstr ""

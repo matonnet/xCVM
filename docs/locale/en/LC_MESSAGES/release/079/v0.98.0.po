@@ -28,73 +28,73 @@ msgstr ""
 
 #: ../../release/079/v0.98.0.md:4
 msgid ""
-"[[\\#1617](https://github.com/vrm-c/UniVRM/pull/1617)] joint が複数の chain "
+"[[\\#1617](https://github.com/matonnet/UniVRM/pull/1617)] joint が複数の chain "
 "に所属する場合に AddComponent に失敗する"
 msgstr ""
 
 #: ../../release/079/v0.98.0.md:5
 msgid ""
-"[[\\#1607](https://github.com/vrm-c/UniVRM/pull/1607)] Fix10/update "
+"[[\\#1607](https://github.com/matonnet/UniVRM/pull/1607)] Fix10/update "
 "constraint spec"
 msgstr ""
 
 #: ../../release/079/v0.98.0.md:6
 msgid ""
-"[[\\#1609](https://github.com/vrm-c/UniVRM/pull/1609)] Byte4型の "
+"[[\\#1609](https://github.com/matonnet/UniVRM/pull/1609)] Byte4型の "
 "~~BoneWeight~~ SkinJoint に対応"
 msgstr ""
 
 #: ../../release/079/v0.98.0.md:7
 msgid ""
-"[[\\#1612](https://github.com/vrm-c/UniVRM/pull/1612)] [1.0] migration "
+"[[\\#1612](https://github.com/matonnet/UniVRM/pull/1612)] [1.0] migration "
 "のエラーハンドリングを修正"
 msgstr ""
 
 #: ../../release/079/v0.98.0.md:8
 msgid ""
-"[[\\#1608](https://github.com/vrm-c/UniVRM/pull/1608)] ScriptedImporter の"
+"[[\\#1608](https://github.com/matonnet/UniVRM/pull/1608)] ScriptedImporter の"
 " Editor の null error"
 msgstr ""
 
 #: ../../release/079/v0.98.0.md:9
 msgid ""
-"[[\\#1601](https://github.com/vrm-c/UniVRM/pull/1601)] Expression "
+"[[\\#1601](https://github.com/matonnet/UniVRM/pull/1601)] Expression "
 "の初期化待ち合わせ"
 msgstr ""
 
 #: ../../release/079/v0.98.0.md:10
 msgid ""
-"[[\\#1602](https://github.com/vrm-c/UniVRM/pull/1602)] "
+"[[\\#1602](https://github.com/matonnet/UniVRM/pull/1602)] "
 "[ContextMenu(\"AddJointsToAllChild0\")]"
 msgstr ""
 
 #: ../../release/079/v0.98.0.md:11
 msgid ""
-"[[\\#1599](https://github.com/vrm-c/UniVRM/pull/1599)] Fix "
+"[[\\#1599](https://github.com/matonnet/UniVRM/pull/1599)] Fix "
 "FastSpringBoneService initializing flow for #1567"
 msgstr ""
 
 #: ../../release/079/v0.98.0.md:12
 msgid ""
-"[[\\#1587](https://github.com/vrm-c/UniVRM/pull/1587)] Fix a error in "
+"[[\\#1587](https://github.com/matonnet/UniVRM/pull/1587)] Fix a error in "
 "migrating FirstPerson."
 msgstr ""
 
 #: ../../release/079/v0.98.0.md:13
 msgid ""
-"[[\\#1598](https://github.com/vrm-c/UniVRM/pull/1598)] Fix10/divided "
+"[[\\#1598](https://github.com/matonnet/UniVRM/pull/1598)] Fix10/divided "
 "migration"
 msgstr ""
 
 #: ../../release/079/v0.98.0.md:14
 msgid ""
-"[[\\#1588](https://github.com/vrm-c/UniVRM/pull/1588)] "
+"[[\\#1588](https://github.com/matonnet/UniVRM/pull/1588)] "
 "UnityEngine.Matrix4x4 は列ベクトル表現なので、root * parent * local の向きに乗算する必要がある…"
 msgstr ""
 
 #: ../../release/079/v0.98.0.md:15
 msgid ""
-"[[\\#1586](https://github.com/vrm-c/UniVRM/pull/1586)] Add null checks in"
+"[[\\#1586](https://github.com/matonnet/UniVRM/pull/1586)] Add null checks in"
 " migrating springbone collider groups."
 msgstr ""
 
@@ -104,7 +104,7 @@ msgstr ""
 
 #: ../../release/079/v0.98.0.md:18
 msgid ""
-"[[\\#1610](https://github.com/vrm-c/UniVRM/pull/1610)] "
+"[[\\#1610](https://github.com/matonnet/UniVRM/pull/1610)] "
 "シーン構成によっては、稀にエラーになるっぽい？"
 msgstr ""
 
@@ -114,7 +114,7 @@ msgstr ""
 
 #: ../../release/079/v0.98.0.md:21
 msgid ""
-"[[\\#1593](https://github.com/vrm-c/UniVRM/pull/1593)] Added "
+"[[\\#1593](https://github.com/matonnet/UniVRM/pull/1593)] Added "
 "ExportSetting to allow HideFlags ins MeshFilters"
 msgstr ""
 
@@ -124,21 +124,21 @@ msgstr ""
 
 #: ../../release/079/v0.98.0.md:24
 msgid ""
-"[[\\#1589](https://github.com/vrm-c/UniVRM/pull/1589)] "
+"[[\\#1589](https://github.com/matonnet/UniVRM/pull/1589)] "
 "Questなどの一部端末で、一定時間経過後にMToonのテクスチャスクロールがカクカクする問題を修正"
 msgstr ""
 
 #: ../../release/079/v0.98.0.md:25
 msgid ""
-"[[\\#1600](https://github.com/vrm-c/UniVRM/pull/1600)] "
+"[[\\#1600](https://github.com/matonnet/UniVRM/pull/1600)] "
 "Unity公式モジュールの依存関係が不足している問題を修正"
 msgstr ""
 
 #: ../../release/079/v0.98.0.md:26
-msgid "[[\\#1616](https://github.com/vrm-c/UniVRM/pull/1616)] UniVRM-0.98.0"
+msgid "[[\\#1616](https://github.com/matonnet/UniVRM/pull/1616)] UniVRM-0.98.0"
 msgstr ""
 
 #: ../../release/079/v0.98.0.md:27
-msgid "[[\\#1585](https://github.com/vrm-c/UniVRM/pull/1585)] UniVRM-0.97.0"
+msgid "[[\\#1585](https://github.com/matonnet/UniVRM/pull/1585)] UniVRM-0.97.0"
 msgstr ""
 

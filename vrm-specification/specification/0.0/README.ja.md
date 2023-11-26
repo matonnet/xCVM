@@ -1,7 +1,7 @@
 # VRM仕様
 
 [glTF-2.0](https://github.com/KhronosGroup/glTF/blob/master/specification/2.0/README.md)のバイナリ形式glbをベースにした、VR向けモデルフォーマットです。
-VRM仕様のリポジトリはこちら：[VRM specification](https://github.com/vrm-c/vrm-specification)。 
+VRM仕様のリポジトリはこちら：[VRM specification](https://github.com/matonnet/vrm-specification)。 
 
 # 更新履歴
 
@@ -87,7 +87,7 @@ GLBのJSON部に`VRM Extension`として拡張しています。
 
 仕様のJsonSchemaを作成しました
 
-* https://github.com/vrm-c/vrm-specification/tree/master/specification/0.0/schema
+* https://github.com/matonnet/vrm-specification/tree/master/specification/0.0/schema
 
 GLTF-2.0のJsonSchema
 
@@ -154,7 +154,7 @@ VRM独自のマテリアル情報を保存しています。
 現状、Unityに必要な項目を保存しています。
 選択可能なShaderは、[VRMが提供するシェーダー](#vrmshader)を参照してください。
 
-* https://github.com/vrm-c/UniVRM/blob/master/specification/0.0/schema/vrm.material.schema.json
+* https://github.com/matonnet/UniVRM/blob/master/specification/0.0/schema/vrm.material.schema.json
 
 ```js
 {

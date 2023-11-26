@@ -36,5 +36,5 @@ NativeArray が Dispose されずに GC に回収されたタイミングで、
 
 ## 関連
 
-* <https://github.com/vrm-c/UniVRM/pull/1483>
-* <https://github.com/vrm-c/UniVRM/pull/1503>
+* <https://github.com/matonnet/UniVRM/pull/1483>
+* <https://github.com/matonnet/UniVRM/pull/1503>

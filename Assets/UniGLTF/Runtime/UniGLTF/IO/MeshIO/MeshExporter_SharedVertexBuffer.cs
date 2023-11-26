@@ -123,7 +123,7 @@ namespace UniGLTF
                 var triangles = mesh.GetIndices(j);
                 if (triangles.Length == 0)
                 {
-                    // https://github.com/vrm-c/UniVRM/issues/664                    
+                    // https://github.com/matonnet/UniVRM/issues/664                    
                     continue;
                 }
 
@@ -142,7 +142,7 @@ namespace UniGLTF
                 var indicesAccessorIndex = data.ExtendBufferAndGetAccessorIndex(indices.ToArray(), glBufferTarget.ELEMENT_ARRAY_BUFFER);
                 if (indicesAccessorIndex < 0)
                 {
-                    // https://github.com/vrm-c/UniVRM/issues/664                    
+                    // https://github.com/matonnet/UniVRM/issues/664                    
                     throw new Exception();
                 }
 

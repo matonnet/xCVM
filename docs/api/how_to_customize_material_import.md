@@ -6,7 +6,7 @@
 
 URP マテリアルを生成するようにカスタムする例です。
 
-<https://github.com/vrm-c/UniVRM/issues/1214>
+<https://github.com/matonnet/UniVRM/issues/1214>
 
 ```csharp
 async RuntimeGltfInstance Load(GltfData data)
@@ -22,4 +22,4 @@ async RuntimeGltfInstance Load(GltfData data)
 
 ## 関連
 
-* <https://github.com/vrm-c/UniVRM/pull/1177>
+* <https://github.com/matonnet/UniVRM/pull/1177>
